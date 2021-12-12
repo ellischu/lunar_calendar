@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lunar calendar", "lunar calendar\lunar calendar.csproj", "{8BBECF06-3C6D-4BB7-8D05-47E41F4A958B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8BBECF06-3C6D-4BB7-8D05-47E41F4A958B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BBECF06-3C6D-4BB7-8D05-47E41F4A958B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BBECF06-3C6D-4BB7-8D05-47E41F4A958B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BBECF06-3C6D-4BB7-8D05-47E41F4A958B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5609FE7-46F5-4A8A-87DE-1E749F3063B1}
+	EndGlobalSection
+EndGlobal

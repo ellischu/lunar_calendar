@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LifeWeight>
+	<tblname>tblWeight</tblname>
+	<rowsdata>
+		<strInput>XX01YY01</strInput>
+		<shtWeight>1.2</shtWeight>
+		<strInput>XX02YY02</strInput>
+		<shtWeight>0.9</shtWeight>
+		<strInput>XX03YY03</strInput>
+		<shtWeight>0.6</shtWeight>
+		<strInput>XX04YY04</strInput>
+		<shtWeight>	0.7</shtWeight>
+		<strInput>XX05YY05</strInput>
+		<shtWeight>	1.2</shtWeight>
+		<strInput>XX06YY06</strInput>
+		<shtWeight>	0.5</shtWeight>
+		<strInput>XX07YY07</strInput>
+		<shtWeight>0.9</shtWeight>
+		<strInput>XX08YY08</strInput>
+		<shtWeight>	0.8</shtWeight>
+		<strInput>XX09YY09</strInput>
+		<shtWeight>	0.7</shtWeight>
+		<strInput>XX10YY10</strInput>
+		<shtWeight>	0.8</shtWeight>
+		<strInput>XX01YY11</strInput>
+		<shtWeight>	1.5</shtWeight>
+		<strInput>XX02YY12</strInput>
+		<shtWeight>	0.9</shtWeight>
+		<strInput>XX03YY01</strInput>
+		<shtWeight>	1.6</shtWeight>
+		<strInput>XX04YY02	</strInput>
+		<shtWeight>0.8</shtWeight>
+		<strInput>XX05YY03</strInput>
+		<shtWeight>	0.8</shtWeight>
+		<strInput>XX06YY04</strInput>
+		<shtWeight>	1.9</shtWeight>
+		<strInput>XX07YY05</strInput>
+		<shtWeight>	1.2</shtWeight>
+		<strInput>XX08YY06</strInput>
+		<shtWeight>	0.6</shtWeight>
+		<strInput>XX09YY07</strInput>
+		<shtWeight>	0.8</shtWeight>
+		<strInput>XX10YY08	</strInput>
+		<shtWeight>0.7</shtWeight>
+		<strInput>XX01YY09</strInput>
+		<shtWeight>	0.5</shtWeight>
+		<strInput>XX02YY10</strInput>
+		<shtWeight>	1.5</shtWeight>
+		<strInput>XX03YY11	</strInput>
+		<shtWeight>0.6</shtWeight>
+		<strInput>XX04YY12	</strInput>
+		<shtWeight>1.6</shtWeight>
+		<strInput>XX05YY01	</strInput>
+		<shtWeight>1.5</shtWeight>
+		<strInput>XX06YY02</strInput>
+		<shtWeight>	0.7</shtWeight>
+		<strInput>XX07YY03</strInput>
+		<shtWeight>	0.9</shtWeight>
+		<strInput>XX08YY04</strInput>
+		<shtWeight>	1.2</shtWeight>
+		<strInput>XX09YY05</strInput>
+		<shtWeight>	1</shtWeight>
+		<strInput>XX10YY06</strInput>
+		<shtWeight>	0.7</shtWeight>
+		<strInput>XX01YY07</strInput>
+		<shtWeight>	1.5</shtWeight>
+		<strInput>XX02YY08	</strInput>
+		<shtWeight>0.6</shtWeight>
+		<strInput>XX03YY09</strInput>
+		<shtWeight>	0.5</shtWeight>
+		<strInput>XX04YY10</strInput>
+		<shtWeight>	1.4</shtWeight>
+		<strInput>XX05YY11	</strInput>
+		<shtWeight>1.4</shtWeight>
+		<strInput>XX06YY12</strInput>
+		<shtWeight>	0.9</shtWeight>
+		<strInput>XX07YY0</strInput>
+		<shtWeight>	0.7</shtWeight>
+		<strInput>XX08YY02</strInput>
+		<shtWeight>	0.7</shtWeight>
+		<strInput>XX09YY03</strInput>
+		<shtWeight>	0.9</shtWeight>
+		<strInput>XX10YY04</strInput>
+		<shtWeight>	1.2</shtWeight>
+		<strInput>XX01YY05</strInput>
+		<shtWeight>	0.8</shtWeight>
+		<strInput>XX02YY06</strInput>
+		<shtWeight>	0.7</shtWeight>
+		<strInput>XX03YY07	</strInput>
+		<shtWeight>1.3</shtWeight>
+		<strInput>XX04YY08</strInput>
+		<shtWeight>	0.5</shtWeight>
+		<strInput>XX05YY09	</strInput>
+		<shtWeight>1.4</shtWeight>
+		<strInput>XX06YY10	</strInput>
+		<shtWeight>0.5</shtWeight>
+		<strInput>XX07YY11	</strInput>
+		<shtWeight>0.9</shtWeight>
+		<strInput>XX08YY12</strInput>
+		<shtWeight>	1.7</shtWeight>
+		<strInput>XX09YY01</strInput>
+		<shtWeight>	0.5</shtWeight>
+		<strInput>XX10YY02</strInput>
+		<shtWeight>	0.7</shtWeight>
+		<strInput>XX01YY03</strInput>
+		<shtWeight>	1.2</shtWeight>
+		<strInput>XX02YY04</strInput>
+		<shtWeight>	0.8</shtWeight>
+		<strInput>XX03YY05</strInput>
+		<shtWeight>	0.8</shtWeight>
+		<strInput>XX04YY06</strInput>
+		<shtWeight>	0.6</shtWeight>
+		<strInput>XX05YY07</strInput>
+		<shtWeight>	1.9</shtWeight>
+		<strInput>XX06YY08</strInput>
+		<shtWeight>	0.6</shtWeight>
+		<strInput>XX07YY09</strInput>
+		<shtWeight>	0.8</shtWeight>
+		<strInput>XX08YY10</strInput>
+		<shtWeight>	1.6</shtWeight>
+		<strInput>XX09YY11</strInput>
+		<shtWeight>	1</shtWeight>
+		<strInput>XX10YY12	</strInput>
+		<shtWeight>0.7</shtWeight>
+		<strInput>M01</strInput>
+		<shtWeight>	0.6</shtWeight>
+		<strInput>M02	</strInput>
+		<shtWeight>0.7</shtWeight>
+		<strInput>M03</strInput>
+		<shtWeight>	1.8</shtWeight>
+		<strInput>M04</strInput>
+		<shtWeight>	0.9</shtWeight>
+		<strInput>M05	</strInput>
+		<shtWeight>0.5</shtWeight>
+		<strInput>M06</strInput>
+		<shtWeight>	1.6</shtWeight>
+		<strInput>M07	</strInput>
+		<shtWeight>0.9</shtWeight>
+		<strInput>M08</strInput>
+		<shtWeight>	1.5</shtWeight>
+		<strInput>M09</strInput>
+		<shtWeight>	1.8</shtWeight>
+		<strInput>M10	</strInput>
+		<shtWeight>0.8</shtWeight>
+		<strInput>M11</strInput>
+		<shtWeight>	0.9</shtWeight>
+		<strInput>M12	</strInput>
+		<shtWeight>0.5</shtWeight>
+		<strInput>D01</strInput>
+		<shtWeight>	0.5</shtWeight>
+		<strInput>D02</strInput>
+		<shtWeight>	1</shtWeight>
+		<strInput>D03</strInput>
+		<shtWeight>	0.8</shtWeight>
+		<strInput>D04</strInput>
+		<shtWeight>	1.5</shtWeight>
+		<strInput>D05	</strInput>
+		<shtWeight>1.6</shtWeight>
+		<strInput>D06	</strInput>
+		<shtWeight>1.5</shtWeight>
+		<strInput>D07	</strInput>
+		<shtWeight>0.8</shtWeight>
+		<strInput>D08</strInput>
+		<shtWeight>	1.6</shtWeight>
+		<strInput>D09</strInput>
+		<shtWeight>	0.8</shtWeight>
+		<strInput>D10	</strInput>
+		<shtWeight>1.6</shtWeight>
+		<strInput>D11	</strInput>
+		<shtWeight>0.9</shtWeight>
+		<strInput>D12</strInput>
+		<shtWeight>	1.7</shtWeight>
+		<strInput>D13</strInput>
+		<shtWeight>	0.8</shtWeight>
+		<strInput>D14</strInput>
+		<shtWeight>	1.7</shtWeight>
+		<strInput>D15	</strInput>
+		<shtWeight>1</shtWeight>
+		<strInput>D16	</strInput>
+		<shtWeight>0.8</shtWeight>
+		<strInput>D17</strInput>
+		<shtWeight>	0.9</shtWeight>
+		<strInput>D18	</strInput>
+		<shtWeight>1.8</shtWeight>
+		<strInput>D19</strInput>
+		<shtWeight>	0.5</shtWeight>
+		<strInput>D20</strInput>
+		<shtWeight>	1.5</shtWeight>
+		<strInput>D21	</strInput>
+		<shtWeight>1</shtWeight>
+		<strInput>D22	</strInput>
+		<shtWeight>0.9</shtWeight>
+		<strInput>D23	</strInput>
+		<shtWeight>0.8</shtWeight>
+		<strInput>D24	</strInput>
+		<shtWeight>0.9</shtWeight>
+		<strInput>D25	</strInput>
+		<shtWeight>1.5</shtWeight>
+		<strInput>D26	</strInput>
+		<shtWeight>1.8</shtWeight>
+		<strInput>D27	</strInput>
+		<shtWeight>0.7</shtWeight>
+		<strInput>D28	</strInput>
+		<shtWeight>0.8</shtWeight>
+		<strInput>D29	</strInput>
+		<shtWeight>1.6</shtWeight>
+		<strInput>D30	</strInput>
+		<shtWeight>0.6</shtWeight>
+		<strInput>YY01	</strInput>
+		<shtWeight>1.6</shtWeight>
+		<strInput>YY02	</strInput>
+		<shtWeight>0.6</shtWeight>
+		<strInput>YY03</strInput>
+		<shtWeight>	0.7</shtWeight>
+		<strInput>YY04</strInput>
+		<shtWeight>	1</shtWeight>
+		<strInput>YY05	</strInput>
+		<shtWeight>0.9</shtWeight>
+		<strInput>YY06	</strInput>
+		<shtWeight>1.6</shtWeight>
+		<strInput>YY07	</strInput>
+		<shtWeight>1</shtWeight>
+		<strInput>YY08	</strInput>
+		<shtWeight>0.8</shtWeight>
+		<strInput>YY09	</strInput>
+		<shtWeight>0.8</shtWeight>
+		<strInput>YY10</strInput>
+		<shtWeight>	0.9</shtWeight>
+		<strInput>YY11	</strInput>
+		<shtWeight>0.6</shtWeight>
+		<strInput>YY12	</strInput>
+		<shtWeight>0.6</shtWeight>
+	</rowsdata>
+</LifeWeight>
