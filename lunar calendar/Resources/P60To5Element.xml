@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<FileName Name="tblP60To5Element.xml">
+  <DataTable TableName="tblP60To5Element">
+    <DataColumns>
+      <DataColumn ColumnName="strNFID" DataType="System.String" Caption="strNFID" />
+      <DataColumn ColumnName="strNEID" DataType="System.String" Caption="strNEID" />
+    </DataColumns>
+    <DataRows>
+      <DataRow>
+        <items ColumnName="strNFID">NF01</items>
+        <items ColumnName="strNEID">NE04</items>
+      </DataRow>
+      <DataRow>
+        <items ColumnName="strNFID">NF05</items>
+        <items ColumnName="strNEID">NE04</items>
+      </DataRow>
+      <DataRow>
+        <items ColumnName="strNFID">NF02</items>
+        <items ColumnName="strNEID">NE06</items>
+      </DataRow>
+      <DataRow>
+        <items ColumnName="strNFID">NF03</items>
+        <items ColumnName="strNEID">NE03</items>
+      </DataRow>
+      <DataRow>
+        <items ColumnName="strNFID">NF04</items>
+        <items ColumnName="strNEID">NE05</items>
+      </DataRow>
+      <DataRow>
+        <items ColumnName="strNFID">NF06</items>
+        <items ColumnName="strNEID">NE06</items>
+      </DataRow>
+      <DataRow>
+        <items ColumnName="strNFID">NF07</items>
+        <items ColumnName="strNEID">NE02</items>
+      </DataRow>
+      <DataRow>
+        <items ColumnName="strNFID">NF08</items>
+        <items ColumnName="strNEID">NE05</items>
+      </DataRow>
+      <DataRow>
+        <items ColumnName="strNFID">NF09</items>
+        <items ColumnName="strNEID">NE04</items>
+      </DataRow>
+      <DataRow>
+        <items ColumnName="strNFID">NF10</items>
+        <items ColumnName="strNEID">NE03</items>
+      </DataRow>
+      <DataRow>
+        <items ColumnName="strNFID">NF11</items>
+        <items ColumnName="strNEID">NE02</items>
+      </DataRow>
+      <DataRow>
+        <items ColumnName="strNFID">NF12</items>
+        <items ColumnName="strNEID">NE05</items>
+      </DataRow>
+      <DataRow>
+        <items ColumnName="strNFID">NF13</items>
+        <items ColumnName="strNEID">NE06</items>
+      </DataRow>
+      <DataRow>
+        <items ColumnName="strNFID">NF14</items>
+        <items ColumnName="strNEID">NE03</items>
+      </DataRow>
+      <DataRow>
+        <items ColumnName="strNFID">NF15</items>
+        <items ColumnName="strNEID">NE02</items>
+      </DataRow>
+      <DataRow>
+        <items ColumnName="strNFID">NF16</items>
+        <items ColumnName="strNEID">NE04</items>
+      </DataRow>
+      <DataRow>
+        <items ColumnName="strNFID">NF17</items>
+        <items ColumnName="strNEID">NE06</items>
+      </DataRow>
+      <DataRow>
+        <items ColumnName="strNFID">NF18</items>
+        <items ColumnName="strNEID">NE03</items>
+      </DataRow>
+      <DataRow>
+        <items ColumnName="strNFID">NF19</items>
+        <items ColumnName="strNEID">NE05</items>
+      </DataRow>
+      <DataRow>
+        <items ColumnName="strNFID">NF20</items>
+        <items ColumnName="strNEID">NE04</items>
+      </DataRow>
+      <DataRow>
+        <items ColumnName="strNFID">NF21</items>
+        <items ColumnName="strNEID">NE06</items>
+      </DataRow>
+      <DataRow>
+        <items ColumnName="strNFID">NF22</items>
+        <items ColumnName="strNEID">NE02</items>
+      </DataRow>
+      <DataRow>
+        <items ColumnName="strNFID">NF23</items>
+        <items ColumnName="strNEID">NE05</items>
+      </DataRow>
+      <DataRow>
+        <items ColumnName="strNFID">NF24</items>
+        <items ColumnName="strNEID">NE04</items>
+      </DataRow>
+      <DataRow>
+        <items ColumnName="strNFID">NF25</items>
+        <items ColumnName="strNEID">NE03</items>
+      </DataRow>
+      <DataRow>
+        <items ColumnName="strNFID">NF26</items>
+        <items ColumnName="strNEID">NE02</items>
+      </DataRow>
+      <DataRow>
+        <items ColumnName="strNFID">NF27</items>
+        <items ColumnName="strNEID">NE05</items>
+      </DataRow>
+      <DataRow>
+        <items ColumnName="strNFID">NF28</items>
+        <items ColumnName="strNEID">NE06</items>
+      </DataRow>
+      <DataRow>
+        <items ColumnName="strNFID">NF29</items>
+        <items ColumnName="strNEID">NE03</items>
+      </DataRow>
+      <DataRow>
+        <items ColumnName="strNFID">NF30</items>
+        <items ColumnName="strNEID">NE02</items>
+      </DataRow>
+    </DataRows>
+  </DataTable>
+</FileName>

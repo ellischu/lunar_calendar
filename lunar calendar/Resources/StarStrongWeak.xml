@@ -1,0 +1,4715 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FileName Name="StarStrongWeak.xml">
+	<DataTable TableName="tblStarStrongWeak">
+		<DataColumns>
+			<DataColumn ColumnName="strStarYY" DataType="System.String" Caption="strStarYY" />
+			<DataColumn ColumnName="strStarPY" DataType="System.String" Caption="strStarPY" />
+		</DataColumns>
+		<DataRows>
+			<DataRow>
+				<items ColumnName="strStarYY">AY01YY02</items>
+				<items ColumnName="strStarPY">AY01PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">AY01YY03</items>
+				<items ColumnName="strStarPY">AY01PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">AY01YY07</items>
+				<items ColumnName="strStarPY">AY01PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">AY01YY08</items>
+				<items ColumnName="strStarPY">AY01PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">AY01YY04</items>
+				<items ColumnName="strStarPY">AY01PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">AY01YY06</items>
+				<items ColumnName="strStarPY">AY01PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">AY01YY09</items>
+				<items ColumnName="strStarPY">AY01PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">AY01YY12</items>
+				<items ColumnName="strStarPY">AY01PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">AY01YY01</items>
+				<items ColumnName="strStarPY">AY01PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">AY01YY10</items>
+				<items ColumnName="strStarPY">AY01PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">AY01YY11</items>
+				<items ColumnName="strStarPY">AY01PY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">AY01YY05</items>
+				<items ColumnName="strStarPY">AY01PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">AY02YY01</items>
+				<items ColumnName="strStarPY">AY02PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">AY02YY05</items>
+				<items ColumnName="strStarPY">AY02PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">AY02YY07</items>
+				<items ColumnName="strStarPY">AY02PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">AY02YY11</items>
+				<items ColumnName="strStarPY">AY02PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">AY02YY03</items>
+				<items ColumnName="strStarPY">AY02PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">AY02YY04</items>
+				<items ColumnName="strStarPY">AY02PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">AY02YY10</items>
+				<items ColumnName="strStarPY">AY02PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">AY02YY12</items>
+				<items ColumnName="strStarPY">AY02PY04</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">AY02YY06</items>
+				<items ColumnName="strStarPY">AY02PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">AY02YY09</items>
+				<items ColumnName="strStarPY">AY02PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">AY02YY02</items>
+				<items ColumnName="strStarPY">AY02PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">AY02YY08</items>
+				<items ColumnName="strStarPY">AY02PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">AY03YY04</items>
+				<items ColumnName="strStarPY">AY03PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">AY03YY07</items>
+				<items ColumnName="strStarPY">AY03PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">AY03YY03</items>
+				<items ColumnName="strStarPY">AY03PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">AY03YY05</items>
+				<items ColumnName="strStarPY">AY03PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">AY03YY06</items>
+				<items ColumnName="strStarPY">AY03PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">AY03YY08</items>
+				<items ColumnName="strStarPY">AY03PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">AY03YY09</items>
+				<items ColumnName="strStarPY">AY03PY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">AY03YY10</items>
+				<items ColumnName="strStarPY">AY03PY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">AY03YY01</items>
+				<items ColumnName="strStarPY">AY03PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">AY03YY02</items>
+				<items ColumnName="strStarPY">AY03PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">AY03YY11</items>
+				<items ColumnName="strStarPY">AY03PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">AY03YY12</items>
+				<items ColumnName="strStarPY">AY03PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">AY04YY02</items>
+				<items ColumnName="strStarPY">AY04PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">AY04YY05</items>
+				<items ColumnName="strStarPY">AY04PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">AY04YY08</items>
+				<items ColumnName="strStarPY">AY04PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">AY04YY11</items>
+				<items ColumnName="strStarPY">AY04PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">AY04YY01</items>
+				<items ColumnName="strStarPY">AY04PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">AY04YY07</items>
+				<items ColumnName="strStarPY">AY04PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">AY04YY10</items>
+				<items ColumnName="strStarPY">AY04PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">AY04YY06</items>
+				<items ColumnName="strStarPY">AY04PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">AY04YY09</items>
+				<items ColumnName="strStarPY">AY04PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">AY04YY12</items>
+				<items ColumnName="strStarPY">AY04PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">AY04YY03</items>
+				<items ColumnName="strStarPY">AY04PY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">AY04YY04</items>
+				<items ColumnName="strStarPY">AY04PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">AY05YY04</items>
+				<items ColumnName="strStarPY">AY05PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">AY05YY06</items>
+				<items ColumnName="strStarPY">AY05PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">AY05YY12</items>
+				<items ColumnName="strStarPY">AY05PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">AY05YY01</items>
+				<items ColumnName="strStarPY">AY05PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">AY05YY09</items>
+				<items ColumnName="strStarPY">AY05PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">AY05YY05</items>
+				<items ColumnName="strStarPY">AY05PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">AY05YY10</items>
+				<items ColumnName="strStarPY">AY05PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">AY05YY11</items>
+				<items ColumnName="strStarPY">AY05PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">AY05YY03</items>
+				<items ColumnName="strStarPY">AY05PY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">AY05YY02</items>
+				<items ColumnName="strStarPY">AY05PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">AY05YY07</items>
+				<items ColumnName="strStarPY">AY05PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">AY05YY08</items>
+				<items ColumnName="strStarPY">AY05PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">AY06YY03</items>
+				<items ColumnName="strStarPY">AY06PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">AY06YY08</items>
+				<items ColumnName="strStarPY">AY06PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">AY06YY09</items>
+				<items ColumnName="strStarPY">AY06PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">AY06YY02</items>
+				<items ColumnName="strStarPY">AY06PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">AY06YY05</items>
+				<items ColumnName="strStarPY">AY06PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">AY06YY11</items>
+				<items ColumnName="strStarPY">AY06PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">AY06YY01</items>
+				<items ColumnName="strStarPY">AY06PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">AY06YY07</items>
+				<items ColumnName="strStarPY">AY06PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">AY06YY10</items>
+				<items ColumnName="strStarPY">AY06PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">AY06YY04</items>
+				<items ColumnName="strStarPY">AY06PY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">AY06YY06</items>
+				<items ColumnName="strStarPY">AY06PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">AY06YY12</items>
+				<items ColumnName="strStarPY">AY06PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">BY01YY01</items>
+				<items ColumnName="strStarPY">BY01PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">BY01YY02</items>
+				<items ColumnName="strStarPY">BY01PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">BY01YY03</items>
+				<items ColumnName="strStarPY">BY01PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">BY01YY05</items>
+				<items ColumnName="strStarPY">BY01PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">BY01YY08</items>
+				<items ColumnName="strStarPY">BY01PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">BY01YY11</items>
+				<items ColumnName="strStarPY">BY01PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">BY01YY07</items>
+				<items ColumnName="strStarPY">BY01PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">BY01YY12</items>
+				<items ColumnName="strStarPY">BY01PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">BY01YY04</items>
+				<items ColumnName="strStarPY">BY01PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">BY01YY06</items>
+				<items ColumnName="strStarPY">BY01PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">BY01YY09</items>
+				<items ColumnName="strStarPY">BY01PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">BY01YY10</items>
+				<items ColumnName="strStarPY">BY01PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">BY02YY01</items>
+				<items ColumnName="strStarPY">BY02PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">BY02YY02</items>
+				<items ColumnName="strStarPY">BY02PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">BY02YY12</items>
+				<items ColumnName="strStarPY">BY02PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">BY02YY10</items>
+				<items ColumnName="strStarPY">BY02PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">BY02YY11</items>
+				<items ColumnName="strStarPY">BY02PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">BY02YY08</items>
+				<items ColumnName="strStarPY">BY02PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">BY02YY09</items>
+				<items ColumnName="strStarPY">BY02PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">BY02YY03</items>
+				<items ColumnName="strStarPY">BY02PY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">BY02YY05</items>
+				<items ColumnName="strStarPY">BY02PY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">BY02YY07</items>
+				<items ColumnName="strStarPY">BY02PY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">BY02YY04</items>
+				<items ColumnName="strStarPY">BY02PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">BY02YY06</items>
+				<items ColumnName="strStarPY">BY02PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">BY03YY02</items>
+				<items ColumnName="strStarPY">BY03PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">BY03YY05</items>
+				<items ColumnName="strStarPY">BY03PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">BY03YY08</items>
+				<items ColumnName="strStarPY">BY03PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">BY03YY11</items>
+				<items ColumnName="strStarPY">BY03PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">BY03YY01</items>
+				<items ColumnName="strStarPY">BY03PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">BY03YY07</items>
+				<items ColumnName="strStarPY">BY03PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">BY03YY04</items>
+				<items ColumnName="strStarPY">BY03PY03</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">BY03YY03</items>
+				<items ColumnName="strStarPY">BY03PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">BY03YY09</items>
+				<items ColumnName="strStarPY">BY03PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">BY03YY10</items>
+				<items ColumnName="strStarPY">BY03PY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">BY03YY06</items>
+				<items ColumnName="strStarPY">BY03PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">BY03YY12</items>
+				<items ColumnName="strStarPY">BY03PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">BY04YY03</items>
+				<items ColumnName="strStarPY">BY04PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">BY04YY04</items>
+				<items ColumnName="strStarPY">BY04PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">BY04YY09</items>
+				<items ColumnName="strStarPY">BY04PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">BY04YY10</items>
+				<items ColumnName="strStarPY">BY04PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">BY04YY01</items>
+				<items ColumnName="strStarPY">BY04PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">BY04YY02</items>
+				<items ColumnName="strStarPY">BY04PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">BY04YY06</items>
+				<items ColumnName="strStarPY">BY04PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">BY04YY07</items>
+				<items ColumnName="strStarPY">BY04PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">BY04YY12</items>
+				<items ColumnName="strStarPY">BY04PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">BY04YY05</items>
+				<items ColumnName="strStarPY">BY04PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">BY04YY08</items>
+				<items ColumnName="strStarPY">BY04PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">BY04YY11</items>
+				<items ColumnName="strStarPY">BY04PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">BY05YY01</items>
+				<items ColumnName="strStarPY">BY05PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">BY05YY02</items>
+				<items ColumnName="strStarPY">BY05PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">BY05YY03</items>
+				<items ColumnName="strStarPY">BY05PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">BY05YY09</items>
+				<items ColumnName="strStarPY">BY05PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">BY05YY05</items>
+				<items ColumnName="strStarPY">BY05PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">BY05YY07</items>
+				<items ColumnName="strStarPY">BY05PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">BY05YY06</items>
+				<items ColumnName="strStarPY">BY05PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">BY05YY12</items>
+				<items ColumnName="strStarPY">BY05PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">BY05YY08</items>
+				<items ColumnName="strStarPY">BY05PY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">BY05YY11</items>
+				<items ColumnName="strStarPY">BY05PY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">BY05YY04</items>
+				<items ColumnName="strStarPY">BY05PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">BY05YY10</items>
+				<items ColumnName="strStarPY">BY05PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">BY06YY01</items>
+				<items ColumnName="strStarPY">BY06PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">BY06YY03</items>
+				<items ColumnName="strStarPY">BY06PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">BY06YY04</items>
+				<items ColumnName="strStarPY">BY06PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">BY06YY07</items>
+				<items ColumnName="strStarPY">BY06PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">BY06YY02</items>
+				<items ColumnName="strStarPY">BY06PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">BY06YY05</items>
+				<items ColumnName="strStarPY">BY06PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">BY06YY08</items>
+				<items ColumnName="strStarPY">BY06PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">BY06YY11</items>
+				<items ColumnName="strStarPY">BY06PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">BY06YY10</items>
+				<items ColumnName="strStarPY">BY06PY04</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">BY06YY06</items>
+				<items ColumnName="strStarPY">BY06PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">BY06YY09</items>
+				<items ColumnName="strStarPY">BY06PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">BY06YY12</items>
+				<items ColumnName="strStarPY">BY06PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">BY07YY02</items>
+				<items ColumnName="strStarPY">BY07PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">BY07YY03</items>
+				<items ColumnName="strStarPY">BY07PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">BY07YY09</items>
+				<items ColumnName="strStarPY">BY07PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">BY07YY11</items>
+				<items ColumnName="strStarPY">BY07PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">BY07YY01</items>
+				<items ColumnName="strStarPY">BY07PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">BY07YY05</items>
+				<items ColumnName="strStarPY">BY07PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">BY07YY07</items>
+				<items ColumnName="strStarPY">BY07PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">BY07YY08</items>
+				<items ColumnName="strStarPY">BY07PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">BY07YY06</items>
+				<items ColumnName="strStarPY">BY07PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">BY07YY12</items>
+				<items ColumnName="strStarPY">BY07PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">BY07YY04</items>
+				<items ColumnName="strStarPY">BY07PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">BY07YY10</items>
+				<items ColumnName="strStarPY">BY07PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">BY08YY01</items>
+				<items ColumnName="strStarPY">BY08PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">BY08YY07</items>
+				<items ColumnName="strStarPY">BY08PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">BY08YY08</items>
+				<items ColumnName="strStarPY">BY08PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">BY08YY02</items>
+				<items ColumnName="strStarPY">BY08PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">BY08YY04</items>
+				<items ColumnName="strStarPY">BY08PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">BY08YY05</items>
+				<items ColumnName="strStarPY">BY08PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">BY08YY11</items>
+				<items ColumnName="strStarPY">BY08PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">BY08YY12</items>
+				<items ColumnName="strStarPY">BY08PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">BY08YY06</items>
+				<items ColumnName="strStarPY">BY08PY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">BY08YY03</items>
+				<items ColumnName="strStarPY">BY08PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">BY08YY09</items>
+				<items ColumnName="strStarPY">BY08PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">BY08YY10</items>
+				<items ColumnName="strStarPY">BY08PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">CY01YY02</items>
+				<items ColumnName="strStarPY">CY01PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">CY01YY06</items>
+				<items ColumnName="strStarPY">CY01PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">CY01YY10</items>
+				<items ColumnName="strStarPY">CY01PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">CY01YY01</items>
+				<items ColumnName="strStarPY">CY01PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">CY01YY05</items>
+				<items ColumnName="strStarPY">CY01PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">CY01YY09</items>
+				<items ColumnName="strStarPY">CY01PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">CY01YY12</items>
+				<items ColumnName="strStarPY">CY01PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">CY01YY04</items>
+				<items ColumnName="strStarPY">CY01PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">CY01YY08</items>
+				<items ColumnName="strStarPY">CY01PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">CY01YY03</items>
+				<items ColumnName="strStarPY">CY01PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">CY01YY07</items>
+				<items ColumnName="strStarPY">CY01PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">CY01YY11</items>
+				<items ColumnName="strStarPY">CY01PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">CY02YY01</items>
+				<items ColumnName="strStarPY">CY02PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">CY02YY02</items>
+				<items ColumnName="strStarPY">CY02PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">CY02YY05</items>
+				<items ColumnName="strStarPY">CY02PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">CY02YY06</items>
+				<items ColumnName="strStarPY">CY02PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">CY02YY10</items>
+				<items ColumnName="strStarPY">CY02PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">CY02YY04</items>
+				<items ColumnName="strStarPY">CY02PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">CY02YY08</items>
+				<items ColumnName="strStarPY">CY02PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">CY02YY12</items>
+				<items ColumnName="strStarPY">CY02PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">CY02YY03</items>
+				<items ColumnName="strStarPY">CY02PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">CY02YY09</items>
+				<items ColumnName="strStarPY">CY02PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">CY02YY07</items>
+				<items ColumnName="strStarPY">CY02PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">CY02YY11</items>
+				<items ColumnName="strStarPY">CY02PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">CY03YY03</items>
+				<items ColumnName="strStarPY">CY03PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">CY03YY07</items>
+				<items ColumnName="strStarPY">CY03PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">CY03YY11</items>
+				<items ColumnName="strStarPY">CY03PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">CY03YY02</items>
+				<items ColumnName="strStarPY">CY03PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">CY03YY06</items>
+				<items ColumnName="strStarPY">CY03PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">CY03YY01</items>
+				<items ColumnName="strStarPY">CY03PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">CY03YY04</items>
+				<items ColumnName="strStarPY">CY03PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">CY03YY12</items>
+				<items ColumnName="strStarPY">CY03PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">CY03YY05</items>
+				<items ColumnName="strStarPY">CY03PY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">CY03YY08</items>
+				<items ColumnName="strStarPY">CY03PY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">CY03YY09</items>
+				<items ColumnName="strStarPY">CY03PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">CY03YY10</items>
+				<items ColumnName="strStarPY">CY03PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">CY04YY03</items>
+				<items ColumnName="strStarPY">CY04PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">CY04YY04</items>
+				<items ColumnName="strStarPY">CY04PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">CY04YY07</items>
+				<items ColumnName="strStarPY">CY04PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">CY04YY11</items>
+				<items ColumnName="strStarPY">CY04PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">CY04YY12</items>
+				<items ColumnName="strStarPY">CY04PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">CY04YY05</items>
+				<items ColumnName="strStarPY">CY04PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">CY04YY06</items>
+				<items ColumnName="strStarPY">CY04PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">CY04YY08</items>
+				<items ColumnName="strStarPY">CY04PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">CY04YY09</items>
+				<items ColumnName="strStarPY">CY04PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">CY04YY01</items>
+				<items ColumnName="strStarPY">CY04PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">CY04YY02</items>
+				<items ColumnName="strStarPY">CY04PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">CY04YY10</items>
+				<items ColumnName="strStarPY">CY04PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">CY05YY07</items>
+				<items ColumnName="strStarPY">CY05PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">CY05YY09</items>
+				<items ColumnName="strStarPY">CY05PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">CY05YY03</items>
+				<items ColumnName="strStarPY">CY05PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">CY05YY04</items>
+				<items ColumnName="strStarPY">CY05PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">CY05YY08</items>
+				<items ColumnName="strStarPY">CY05PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">CY05YY10</items>
+				<items ColumnName="strStarPY">CY05PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">CY05YY11</items>
+				<items ColumnName="strStarPY">CY05PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">CY05YY06</items>
+				<items ColumnName="strStarPY">CY05PY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">CY05YY01</items>
+				<items ColumnName="strStarPY">CY05PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">CY05YY02</items>
+				<items ColumnName="strStarPY">CY05PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">CY05YY05</items>
+				<items ColumnName="strStarPY">CY05PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">CY05YY12</items>
+				<items ColumnName="strStarPY">CY05PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">CY06YY06</items>
+				<items ColumnName="strStarPY">CY06PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">CY06YY07</items>
+				<items ColumnName="strStarPY">CY06PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">CY06YY09</items>
+				<items ColumnName="strStarPY">CY06PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">CY06YY10</items>
+				<items ColumnName="strStarPY">CY06PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">CY06YY01</items>
+				<items ColumnName="strStarPY">CY06PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">CY06YY04</items>
+				<items ColumnName="strStarPY">CY06PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">CY06YY08</items>
+				<items ColumnName="strStarPY">CY06PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">CY06YY02</items>
+				<items ColumnName="strStarPY">CY06PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">CY06YY03</items>
+				<items ColumnName="strStarPY">CY06PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">CY06YY05</items>
+				<items ColumnName="strStarPY">CY06PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">CY06YY11</items>
+				<items ColumnName="strStarPY">CY06PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">CY06YY12</items>
+				<items ColumnName="strStarPY">CY06PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">CY07YY01</items>
+				<items ColumnName="strStarPY">CY07PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">CY07YY02</items>
+				<items ColumnName="strStarPY">CY07PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">CY07YY03</items>
+				<items ColumnName="strStarPY">CY07PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">CY07YY11</items>
+				<items ColumnName="strStarPY">CY07PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">CY07YY05</items>
+				<items ColumnName="strStarPY">CY07PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">CY07YY07</items>
+				<items ColumnName="strStarPY">CY07PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">CY07YY04</items>
+				<items ColumnName="strStarPY">CY07PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">CY07YY06</items>
+				<items ColumnName="strStarPY">CY07PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">CY07YY08</items>
+				<items ColumnName="strStarPY">CY07PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">CY07YY09</items>
+				<items ColumnName="strStarPY">CY07PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">CY07YY10</items>
+				<items ColumnName="strStarPY">CY07PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">CY07YY12</items>
+				<items ColumnName="strStarPY">CY07PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">CY08YY01</items>
+				<items ColumnName="strStarPY">CY08PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">CY08YY03</items>
+				<items ColumnName="strStarPY">CY08PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">CY08YY04</items>
+				<items ColumnName="strStarPY">CY08PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">CY08YY07</items>
+				<items ColumnName="strStarPY">CY08PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">CY08YY02</items>
+				<items ColumnName="strStarPY">CY08PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">CY08YY11</items>
+				<items ColumnName="strStarPY">CY08PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">CY08YY05</items>
+				<items ColumnName="strStarPY">CY08PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">CY08YY10</items>
+				<items ColumnName="strStarPY">CY08PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">CY08YY08</items>
+				<items ColumnName="strStarPY">CY08PY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">CY08YY06</items>
+				<items ColumnName="strStarPY">CY08PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">CY08YY09</items>
+				<items ColumnName="strStarPY">CY08PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">CY08YY12</items>
+				<items ColumnName="strStarPY">CY08PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">DM01YY02</items>
+				<items ColumnName="strStarPY">DM01PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">DM01YY03</items>
+				<items ColumnName="strStarPY">DM01PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">DM01YY05</items>
+				<items ColumnName="strStarPY">DM01PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">DM01YY08</items>
+				<items ColumnName="strStarPY">DM01PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">DM01YY11</items>
+				<items ColumnName="strStarPY">DM01PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">DM01YY01</items>
+				<items ColumnName="strStarPY">DM01PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">DM01YY07</items>
+				<items ColumnName="strStarPY">DM01PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">DM01YY06</items>
+				<items ColumnName="strStarPY">DM01PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">DM01YY09</items>
+				<items ColumnName="strStarPY">DM01PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">DM01YY12</items>
+				<items ColumnName="strStarPY">DM01PY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">DM01YY04</items>
+				<items ColumnName="strStarPY">DM01PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">DM01YY10</items>
+				<items ColumnName="strStarPY">DM01PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">DM02YY01</items>
+				<items ColumnName="strStarPY">DM02PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">DM02YY02</items>
+				<items ColumnName="strStarPY">DM02PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">DM02YY05</items>
+				<items ColumnName="strStarPY">DM02PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">DM02YY08</items>
+				<items ColumnName="strStarPY">DM02PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">DM02YY11</items>
+				<items ColumnName="strStarPY">DM02PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">DM02YY03</items>
+				<items ColumnName="strStarPY">DM02PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">DM02YY07</items>
+				<items ColumnName="strStarPY">DM02PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">DM02YY06</items>
+				<items ColumnName="strStarPY">DM02PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">DM02YY12</items>
+				<items ColumnName="strStarPY">DM02PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">DM02YY09</items>
+				<items ColumnName="strStarPY">DM02PY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">DM02YY04</items>
+				<items ColumnName="strStarPY">DM02PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">DM02YY10</items>
+				<items ColumnName="strStarPY">DM02PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">DM03YY03</items>
+				<items ColumnName="strStarPY">DM03PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">DM03YY04</items>
+				<items ColumnName="strStarPY">DM03PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">DM03YY10</items>
+				<items ColumnName="strStarPY">DM03PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">DM03YY11</items>
+				<items ColumnName="strStarPY">DM03PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">DM03YY01</items>
+				<items ColumnName="strStarPY">DM03PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">DM03YY05</items>
+				<items ColumnName="strStarPY">DM03PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">DM03YY07</items>
+				<items ColumnName="strStarPY">DM03PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">DM03YY02</items>
+				<items ColumnName="strStarPY">DM03PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">DM03YY06</items>
+				<items ColumnName="strStarPY">DM03PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">DM03YY08</items>
+				<items ColumnName="strStarPY">DM03PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">DM03YY09</items>
+				<items ColumnName="strStarPY">DM03PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">DM03YY12</items>
+				<items ColumnName="strStarPY">DM03PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">DM04YY04</items>
+				<items ColumnName="strStarPY">DM04PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">DM04YY10</items>
+				<items ColumnName="strStarPY">DM04PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">DM04YY11</items>
+				<items ColumnName="strStarPY">DM04PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">DM04YY03</items>
+				<items ColumnName="strStarPY">DM04PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">DM04YY08</items>
+				<items ColumnName="strStarPY">DM04PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">DM04YY02</items>
+				<items ColumnName="strStarPY">DM04PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">DM04YY06</items>
+				<items ColumnName="strStarPY">DM04PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">DM04YY07</items>
+				<items ColumnName="strStarPY">DM04PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">DM04YY09</items>
+				<items ColumnName="strStarPY">DM04PY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">DM04YY01</items>
+				<items ColumnName="strStarPY">DM04PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">DM04YY05</items>
+				<items ColumnName="strStarPY">DM04PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">DM04YY12</items>
+				<items ColumnName="strStarPY">DM04PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">DM05YY01</items>
+				<items ColumnName="strStarPY">DM05PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">DM05YY02</items>
+				<items ColumnName="strStarPY">DM05PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">DM05YY04</items>
+				<items ColumnName="strStarPY">DM05PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">DM05YY05</items>
+				<items ColumnName="strStarPY">DM05PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">DM05YY07</items>
+				<items ColumnName="strStarPY">DM05PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">DM05YY08</items>
+				<items ColumnName="strStarPY">DM05PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">DM05YY10</items>
+				<items ColumnName="strStarPY">DM05PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">DM05YY11</items>
+				<items ColumnName="strStarPY">DM05PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">DM05YY03</items>
+				<items ColumnName="strStarPY">DM05PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">DM05YY09</items>
+				<items ColumnName="strStarPY">DM05PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">DM05YY06</items>
+				<items ColumnName="strStarPY">DM05PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">DM05YY12</items>
+				<items ColumnName="strStarPY">DM05PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">DM06YY01</items>
+				<items ColumnName="strStarPY">DM06PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">DM06YY03</items>
+				<items ColumnName="strStarPY">DM06PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">DM06YY04</items>
+				<items ColumnName="strStarPY">DM06PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">DM06YY05</items>
+				<items ColumnName="strStarPY">DM06PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">DM06YY07</items>
+				<items ColumnName="strStarPY">DM06PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">DM06YY11</items>
+				<items ColumnName="strStarPY">DM06PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">DM06YY06</items>
+				<items ColumnName="strStarPY">DM06PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">DM06YY10</items>
+				<items ColumnName="strStarPY">DM06PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">DM06YY02</items>
+				<items ColumnName="strStarPY">DM06PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">DM06YY08</items>
+				<items ColumnName="strStarPY">DM06PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">DM06YY09</items>
+				<items ColumnName="strStarPY">DM06PY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">DM06YY12</items>
+				<items ColumnName="strStarPY">DM06PY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">DM07YY01</items>
+				<items ColumnName="strStarPY">DM07PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">DM07YY02</items>
+				<items ColumnName="strStarPY">DM07PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">DM07YY04</items>
+				<items ColumnName="strStarPY">DM07PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">DM07YY05</items>
+				<items ColumnName="strStarPY">DM07PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">DM07YY07</items>
+				<items ColumnName="strStarPY">DM07PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">DM07YY08</items>
+				<items ColumnName="strStarPY">DM07PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">DM07YY10</items>
+				<items ColumnName="strStarPY">DM07PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">DM07YY11</items>
+				<items ColumnName="strStarPY">DM07PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">DM07YY03</items>
+				<items ColumnName="strStarPY">DM07PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">DM07YY12</items>
+				<items ColumnName="strStarPY">DM07PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">DM07YY06</items>
+				<items ColumnName="strStarPY">DM07PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">DM07YY09</items>
+				<items ColumnName="strStarPY">DM07PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">DM08YY01</items>
+				<items ColumnName="strStarPY">DM08PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">DM08YY02</items>
+				<items ColumnName="strStarPY">DM08PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">DM08YY09</items>
+				<items ColumnName="strStarPY">DM08PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">DM08YY10</items>
+				<items ColumnName="strStarPY">DM08PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">DM08YY12</items>
+				<items ColumnName="strStarPY">DM08PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">DM08YY03</items>
+				<items ColumnName="strStarPY">DM08PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">DM08YY08</items>
+				<items ColumnName="strStarPY">DM08PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">DM08YY05</items>
+				<items ColumnName="strStarPY">DM08PY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">DM08YY04</items>
+				<items ColumnName="strStarPY">DM08PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">DM08YY06</items>
+				<items ColumnName="strStarPY">DM08PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">DM08YY07</items>
+				<items ColumnName="strStarPY">DM08PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">DM08YY11</items>
+				<items ColumnName="strStarPY">DM08PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">DM09YY01</items>
+				<items ColumnName="strStarPY">DM09PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">DM09YY02</items>
+				<items ColumnName="strStarPY">DM09PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">DM09YY09</items>
+				<items ColumnName="strStarPY">DM09PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">DM09YY10</items>
+				<items ColumnName="strStarPY">DM09PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">DM09YY12</items>
+				<items ColumnName="strStarPY">DM09PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">DM09YY03</items>
+				<items ColumnName="strStarPY">DM09PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">DM09YY08</items>
+				<items ColumnName="strStarPY">DM09PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">DM09YY05</items>
+				<items ColumnName="strStarPY">DM09PY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">DM09YY04</items>
+				<items ColumnName="strStarPY">DM09PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">DM09YY06</items>
+				<items ColumnName="strStarPY">DM09PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">DM09YY07</items>
+				<items ColumnName="strStarPY">DM09PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">DM09YY11</items>
+				<items ColumnName="strStarPY">DM09PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">EC03YY02</items>
+				<items ColumnName="strStarPY">EC03PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">EC03YY04</items>
+				<items ColumnName="strStarPY">EC03PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">EC03YY05</items>
+				<items ColumnName="strStarPY">EC03PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">EC03YY11</items>
+				<items ColumnName="strStarPY">EC03PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">EC03YY07</items>
+				<items ColumnName="strStarPY">EC03PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">EC03YY08</items>
+				<items ColumnName="strStarPY">EC03PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">EC03YY01</items>
+				<items ColumnName="strStarPY">EC03PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">EC03YY03</items>
+				<items ColumnName="strStarPY">EC03PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">EC03YY06</items>
+				<items ColumnName="strStarPY">EC03PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">EC03YY09</items>
+				<items ColumnName="strStarPY">EC03PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">EC03YY12</items>
+				<items ColumnName="strStarPY">EC03PY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">EC03YY10</items>
+				<items ColumnName="strStarPY">EC03PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">EC04YY01</items>
+				<items ColumnName="strStarPY">EC04PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">EC04YY10</items>
+				<items ColumnName="strStarPY">EC04PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">EC04YY02</items>
+				<items ColumnName="strStarPY">EC04PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">EC04YY04</items>
+				<items ColumnName="strStarPY">EC04PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">EC04YY05</items>
+				<items ColumnName="strStarPY">EC04PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">EC04YY07</items>
+				<items ColumnName="strStarPY">EC04PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">EC04YY08</items>
+				<items ColumnName="strStarPY">EC04PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">EC04YY11</items>
+				<items ColumnName="strStarPY">EC04PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">EC04YY03</items>
+				<items ColumnName="strStarPY">EC04PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">EC04YY06</items>
+				<items ColumnName="strStarPY">EC04PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">EC04YY12</items>
+				<items ColumnName="strStarPY">EC04PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">EC04YY09</items>
+				<items ColumnName="strStarPY">EC04PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">ED01YY02</items>
+				<items ColumnName="strStarPY">ED01PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">ED01YY05</items>
+				<items ColumnName="strStarPY">ED01PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">ED01YY08</items>
+				<items ColumnName="strStarPY">ED01PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">ED01YY10</items>
+				<items ColumnName="strStarPY">ED01PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">ED01YY07</items>
+				<items ColumnName="strStarPY">ED01PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">ED01YY11</items>
+				<items ColumnName="strStarPY">ED01PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">ED01YY01</items>
+				<items ColumnName="strStarPY">ED01PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">ED01YY03</items>
+				<items ColumnName="strStarPY">ED01PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">ED01YY06</items>
+				<items ColumnName="strStarPY">ED01PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">ED01YY09</items>
+				<items ColumnName="strStarPY">ED01PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">ED01YY12</items>
+				<items ColumnName="strStarPY">ED01PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">ED01YY04</items>
+				<items ColumnName="strStarPY">ED01PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">ED02YY02</items>
+				<items ColumnName="strStarPY">ED02PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">ED02YY03</items>
+				<items ColumnName="strStarPY">ED02PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">ED02YY06</items>
+				<items ColumnName="strStarPY">ED02PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">ED02YY09</items>
+				<items ColumnName="strStarPY">ED02PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">ED02YY10</items>
+				<items ColumnName="strStarPY">ED02PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">ED02YY12</items>
+				<items ColumnName="strStarPY">ED02PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">ED02YY05</items>
+				<items ColumnName="strStarPY">ED02PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">ED02YY07</items>
+				<items ColumnName="strStarPY">ED02PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">ED02YY04</items>
+				<items ColumnName="strStarPY">ED02PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">ED02YY08</items>
+				<items ColumnName="strStarPY">ED02PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">ED02YY11</items>
+				<items ColumnName="strStarPY">ED02PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">ED02YY01</items>
+				<items ColumnName="strStarPY">ED02PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX01YY02</items>
+				<items ColumnName="strStarPY">FX01PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX01YY05</items>
+				<items ColumnName="strStarPY">FX01PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX01YY08</items>
+				<items ColumnName="strStarPY">FX01PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX01YY11</items>
+				<items ColumnName="strStarPY">FX01PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX01YY03</items>
+				<items ColumnName="strStarPY">FX01PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX01YY06</items>
+				<items ColumnName="strStarPY">FX01PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX01YY09</items>
+				<items ColumnName="strStarPY">FX01PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX01YY12</items>
+				<items ColumnName="strStarPY">FX01PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX01YY01</items>
+				<items ColumnName="strStarPY">FX01PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX01YY04</items>
+				<items ColumnName="strStarPY">FX01PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX01YY07</items>
+				<items ColumnName="strStarPY">FX01PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX01YY10</items>
+				<items ColumnName="strStarPY">FX01PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX02YY03</items>
+				<items ColumnName="strStarPY">FX02PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX02YY06</items>
+				<items ColumnName="strStarPY">FX02PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX02YY09</items>
+				<items ColumnName="strStarPY">FX02PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX02YY12</items>
+				<items ColumnName="strStarPY">FX02PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX02YY02</items>
+				<items ColumnName="strStarPY">FX02PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX02YY05</items>
+				<items ColumnName="strStarPY">FX02PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX02YY08</items>
+				<items ColumnName="strStarPY">FX02PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX02YY11</items>
+				<items ColumnName="strStarPY">FX02PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX02YY07</items>
+				<items ColumnName="strStarPY">FX02PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX02YY01</items>
+				<items ColumnName="strStarPY">FX02PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX02YY04</items>
+				<items ColumnName="strStarPY">FX02PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX02YY10</items>
+				<items ColumnName="strStarPY">FX02PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX03YY01</items>
+				<items ColumnName="strStarPY">FX03PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX03YY04</items>
+				<items ColumnName="strStarPY">FX03PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX03YY07</items>
+				<items ColumnName="strStarPY">FX03PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX03YY10</items>
+				<items ColumnName="strStarPY">FX03PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX03YY02</items>
+				<items ColumnName="strStarPY">FX03PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX03YY05</items>
+				<items ColumnName="strStarPY">FX03PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX03YY08</items>
+				<items ColumnName="strStarPY">FX03PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX03YY11</items>
+				<items ColumnName="strStarPY">FX03PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX03YY03</items>
+				<items ColumnName="strStarPY">FX03PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX03YY06</items>
+				<items ColumnName="strStarPY">FX03PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX03YY09</items>
+				<items ColumnName="strStarPY">FX03PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX03YY12</items>
+				<items ColumnName="strStarPY">FX03PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX04YY03</items>
+				<items ColumnName="strStarPY">FX04PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX04YY05</items>
+				<items ColumnName="strStarPY">FX04PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX04YY06</items>
+				<items ColumnName="strStarPY">FX04PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX04YY08</items>
+				<items ColumnName="strStarPY">FX04PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX04YY09</items>
+				<items ColumnName="strStarPY">FX04PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX04YY10</items>
+				<items ColumnName="strStarPY">FX04PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX04YY11</items>
+				<items ColumnName="strStarPY">FX04PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX04YY04</items>
+				<items ColumnName="strStarPY">FX04PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX04YY07</items>
+				<items ColumnName="strStarPY">FX04PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX04YY01</items>
+				<items ColumnName="strStarPY">FX04PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX04YY02</items>
+				<items ColumnName="strStarPY">FX04PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX04YY12</items>
+				<items ColumnName="strStarPY">FX04PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX05YY01</items>
+				<items ColumnName="strStarPY">FX05PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX05YY02</items>
+				<items ColumnName="strStarPY">FX05PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX05YY04</items>
+				<items ColumnName="strStarPY">FX05PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX05YY05</items>
+				<items ColumnName="strStarPY">FX05PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX05YY07</items>
+				<items ColumnName="strStarPY">FX05PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX05YY11</items>
+				<items ColumnName="strStarPY">FX05PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX05YY12</items>
+				<items ColumnName="strStarPY">FX05PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX05YY09</items>
+				<items ColumnName="strStarPY">FX05PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX05YY10</items>
+				<items ColumnName="strStarPY">FX05PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX05YY03</items>
+				<items ColumnName="strStarPY">FX05PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX05YY06</items>
+				<items ColumnName="strStarPY">FX05PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX05YY08</items>
+				<items ColumnName="strStarPY">FX05PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX06YY02</items>
+				<items ColumnName="strStarPY">FX06PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX06YY05</items>
+				<items ColumnName="strStarPY">FX06PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX06YY08</items>
+				<items ColumnName="strStarPY">FX06PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX06YY09</items>
+				<items ColumnName="strStarPY">FX06PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX06YY11</items>
+				<items ColumnName="strStarPY">FX06PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX06YY12</items>
+				<items ColumnName="strStarPY">FX06PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX06YY06</items>
+				<items ColumnName="strStarPY">FX06PY03</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX06YY01</items>
+				<items ColumnName="strStarPY">FX06PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX06YY03</items>
+				<items ColumnName="strStarPY">FX06PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX06YY07</items>
+				<items ColumnName="strStarPY">FX06PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX06YY10</items>
+				<items ColumnName="strStarPY">FX06PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX06YY04</items>
+				<items ColumnName="strStarPY">FX06PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX07YY02</items>
+				<items ColumnName="strStarPY">FX07PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX07YY07</items>
+				<items ColumnName="strStarPY">FX07PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX07YY11</items>
+				<items ColumnName="strStarPY">FX07PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX07YY03</items>
+				<items ColumnName="strStarPY">FX07PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX07YY04</items>
+				<items ColumnName="strStarPY">FX07PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX07YY08</items>
+				<items ColumnName="strStarPY">FX07PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX07YY09</items>
+				<items ColumnName="strStarPY">FX07PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX07YY12</items>
+				<items ColumnName="strStarPY">FX07PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX07YY05</items>
+				<items ColumnName="strStarPY">FX07PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX07YY06</items>
+				<items ColumnName="strStarPY">FX07PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX07YY10</items>
+				<items ColumnName="strStarPY">FX07PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX07YY01</items>
+				<items ColumnName="strStarPY">FX07PY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX08YY04</items>
+				<items ColumnName="strStarPY">FX08PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX08YY05</items>
+				<items ColumnName="strStarPY">FX08PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX08YY07</items>
+				<items ColumnName="strStarPY">FX08PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX08YY09</items>
+				<items ColumnName="strStarPY">FX08PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX08YY01</items>
+				<items ColumnName="strStarPY">FX08PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX08YY02</items>
+				<items ColumnName="strStarPY">FX08PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX08YY03</items>
+				<items ColumnName="strStarPY">FX08PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX08YY08</items>
+				<items ColumnName="strStarPY">FX08PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX08YY11</items>
+				<items ColumnName="strStarPY">FX08PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX08YY12</items>
+				<items ColumnName="strStarPY">FX08PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX08YY10</items>
+				<items ColumnName="strStarPY">FX08PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX08YY06</items>
+				<items ColumnName="strStarPY">FX08PY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX09YY02</items>
+				<items ColumnName="strStarPY">FX09PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX09YY01</items>
+				<items ColumnName="strStarPY">FX09PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX09YY04</items>
+				<items ColumnName="strStarPY">FX09PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX09YY08</items>
+				<items ColumnName="strStarPY">FX09PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX09YY11</items>
+				<items ColumnName="strStarPY">FX09PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX09YY05</items>
+				<items ColumnName="strStarPY">FX09PY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX09YY03</items>
+				<items ColumnName="strStarPY">FX09PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX09YY06</items>
+				<items ColumnName="strStarPY">FX09PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX09YY07</items>
+				<items ColumnName="strStarPY">FX09PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX09YY09</items>
+				<items ColumnName="strStarPY">FX09PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX09YY10</items>
+				<items ColumnName="strStarPY">FX09PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX09YY12</items>
+				<items ColumnName="strStarPY">FX09PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX10YY01</items>
+				<items ColumnName="strStarPY">FX10PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX10YY02</items>
+				<items ColumnName="strStarPY">FX10PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX10YY09</items>
+				<items ColumnName="strStarPY">FX10PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX10YY07</items>
+				<items ColumnName="strStarPY">FX10PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX10YY08</items>
+				<items ColumnName="strStarPY">FX10PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX10YY04</items>
+				<items ColumnName="strStarPY">FX10PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX10YY05</items>
+				<items ColumnName="strStarPY">FX10PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX10YY06</items>
+				<items ColumnName="strStarPY">FX10PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX10YY12</items>
+				<items ColumnName="strStarPY">FX10PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX10YY03</items>
+				<items ColumnName="strStarPY">FX10PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX10YY10</items>
+				<items ColumnName="strStarPY">FX10PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX10YY11</items>
+				<items ColumnName="strStarPY">FX10PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX11YY02</items>
+				<items ColumnName="strStarPY">FX11PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX11YY05</items>
+				<items ColumnName="strStarPY">FX11PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX11YY08</items>
+				<items ColumnName="strStarPY">FX11PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX11YY11</items>
+				<items ColumnName="strStarPY">FX11PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX11YY09</items>
+				<items ColumnName="strStarPY">FX11PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX11YY10</items>
+				<items ColumnName="strStarPY">FX11PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX11YY12</items>
+				<items ColumnName="strStarPY">FX11PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX11YY03</items>
+				<items ColumnName="strStarPY">FX11PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX11YY06</items>
+				<items ColumnName="strStarPY">FX11PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX11YY01</items>
+				<items ColumnName="strStarPY">FX11PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX11YY04</items>
+				<items ColumnName="strStarPY">FX11PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FX11YY07</items>
+				<items ColumnName="strStarPY">FX11PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY01YY02</items>
+				<items ColumnName="strStarPY">FY01PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY01YY04</items>
+				<items ColumnName="strStarPY">FY01PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY01YY09</items>
+				<items ColumnName="strStarPY">FY01PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY01YY06</items>
+				<items ColumnName="strStarPY">FY01PY03</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY01YY01</items>
+				<items ColumnName="strStarPY">FY01PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY01YY03</items>
+				<items ColumnName="strStarPY">FY01PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY01YY05</items>
+				<items ColumnName="strStarPY">FY01PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY01YY08</items>
+				<items ColumnName="strStarPY">FY01PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY01YY11</items>
+				<items ColumnName="strStarPY">FY01PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY01YY12</items>
+				<items ColumnName="strStarPY">FY01PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY01YY10</items>
+				<items ColumnName="strStarPY">FY01PY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY01YY07</items>
+				<items ColumnName="strStarPY">FY01PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY02YY02</items>
+				<items ColumnName="strStarPY">FY02PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY02YY04</items>
+				<items ColumnName="strStarPY">FY02PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY02YY09</items>
+				<items ColumnName="strStarPY">FY02PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY02YY03</items>
+				<items ColumnName="strStarPY">FY02PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY02YY06</items>
+				<items ColumnName="strStarPY">FY02PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY02YY10</items>
+				<items ColumnName="strStarPY">FY02PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY02YY07</items>
+				<items ColumnName="strStarPY">FY02PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY02YY12</items>
+				<items ColumnName="strStarPY">FY02PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY02YY01</items>
+				<items ColumnName="strStarPY">FY02PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY02YY05</items>
+				<items ColumnName="strStarPY">FY02PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY02YY08</items>
+				<items ColumnName="strStarPY">FY02PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY02YY11</items>
+				<items ColumnName="strStarPY">FY02PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY03YY04</items>
+				<items ColumnName="strStarPY">FY03PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY03YY05</items>
+				<items ColumnName="strStarPY">FY03PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY03YY08</items>
+				<items ColumnName="strStarPY">FY03PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY03YY10</items>
+				<items ColumnName="strStarPY">FY03PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY03YY01</items>
+				<items ColumnName="strStarPY">FY03PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY03YY12</items>
+				<items ColumnName="strStarPY">FY03PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY03YY02</items>
+				<items ColumnName="strStarPY">FY03PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY03YY03</items>
+				<items ColumnName="strStarPY">FY03PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY03YY09</items>
+				<items ColumnName="strStarPY">FY03PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY03YY07</items>
+				<items ColumnName="strStarPY">FY03PY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY03YY06</items>
+				<items ColumnName="strStarPY">FY03PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY03YY11</items>
+				<items ColumnName="strStarPY">FY03PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY04YY01</items>
+				<items ColumnName="strStarPY">FY04PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY04YY03</items>
+				<items ColumnName="strStarPY">FY04PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY04YY06</items>
+				<items ColumnName="strStarPY">FY04PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY04YY10</items>
+				<items ColumnName="strStarPY">FY04PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY04YY11</items>
+				<items ColumnName="strStarPY">FY04PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY04YY04</items>
+				<items ColumnName="strStarPY">FY04PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY04YY12</items>
+				<items ColumnName="strStarPY">FY04PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY04YY02</items>
+				<items ColumnName="strStarPY">FY04PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY04YY07</items>
+				<items ColumnName="strStarPY">FY04PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY04YY09</items>
+				<items ColumnName="strStarPY">FY04PY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY04YY05</items>
+				<items ColumnName="strStarPY">FY04PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY04YY08</items>
+				<items ColumnName="strStarPY">FY04PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY05YY01</items>
+				<items ColumnName="strStarPY">FY05PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY05YY04</items>
+				<items ColumnName="strStarPY">FY05PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY05YY09</items>
+				<items ColumnName="strStarPY">FY05PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY05YY12</items>
+				<items ColumnName="strStarPY">FY05PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY05YY03</items>
+				<items ColumnName="strStarPY">FY05PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY05YY06</items>
+				<items ColumnName="strStarPY">FY05PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY05YY07</items>
+				<items ColumnName="strStarPY">FY05PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY05YY10</items>
+				<items ColumnName="strStarPY">FY05PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY05YY02</items>
+				<items ColumnName="strStarPY">FY05PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY05YY05</items>
+				<items ColumnName="strStarPY">FY05PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY05YY08</items>
+				<items ColumnName="strStarPY">FY05PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY05YY11</items>
+				<items ColumnName="strStarPY">FY05PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY06YY03</items>
+				<items ColumnName="strStarPY">FY06PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY06YY06</items>
+				<items ColumnName="strStarPY">FY06PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY06YY07</items>
+				<items ColumnName="strStarPY">FY06PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY06YY10</items>
+				<items ColumnName="strStarPY">FY06PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY06YY01</items>
+				<items ColumnName="strStarPY">FY06PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY06YY04</items>
+				<items ColumnName="strStarPY">FY06PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY06YY09</items>
+				<items ColumnName="strStarPY">FY06PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY06YY12</items>
+				<items ColumnName="strStarPY">FY06PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY06YY02</items>
+				<items ColumnName="strStarPY">FY06PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY06YY05</items>
+				<items ColumnName="strStarPY">FY06PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY06YY08</items>
+				<items ColumnName="strStarPY">FY06PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY06YY11</items>
+				<items ColumnName="strStarPY">FY06PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY07YY01</items>
+				<items ColumnName="strStarPY">FY07PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY07YY02</items>
+				<items ColumnName="strStarPY">FY07PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY07YY04</items>
+				<items ColumnName="strStarPY">FY07PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY07YY05</items>
+				<items ColumnName="strStarPY">FY07PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY07YY07</items>
+				<items ColumnName="strStarPY">FY07PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY07YY08</items>
+				<items ColumnName="strStarPY">FY07PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY07YY10</items>
+				<items ColumnName="strStarPY">FY07PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY07YY11</items>
+				<items ColumnName="strStarPY">FY07PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY07YY03</items>
+				<items ColumnName="strStarPY">FY07PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY07YY09</items>
+				<items ColumnName="strStarPY">FY07PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY07YY06</items>
+				<items ColumnName="strStarPY">FY07PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY07YY12</items>
+				<items ColumnName="strStarPY">FY07PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY08YY01</items>
+				<items ColumnName="strStarPY">FY08PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY08YY03</items>
+				<items ColumnName="strStarPY">FY08PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY08YY04</items>
+				<items ColumnName="strStarPY">FY08PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY08YY06</items>
+				<items ColumnName="strStarPY">FY08PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY08YY07</items>
+				<items ColumnName="strStarPY">FY08PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY08YY09</items>
+				<items ColumnName="strStarPY">FY08PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY08YY10</items>
+				<items ColumnName="strStarPY">FY08PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY08YY12</items>
+				<items ColumnName="strStarPY">FY08PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY08YY02</items>
+				<items ColumnName="strStarPY">FY08PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY08YY08</items>
+				<items ColumnName="strStarPY">FY08PY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY08YY05</items>
+				<items ColumnName="strStarPY">FY08PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY08YY11</items>
+				<items ColumnName="strStarPY">FY08PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY09YY01</items>
+				<items ColumnName="strStarPY">FY09PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY09YY02</items>
+				<items ColumnName="strStarPY">FY09PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY09YY03</items>
+				<items ColumnName="strStarPY">FY09PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY09YY04</items>
+				<items ColumnName="strStarPY">FY09PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY09YY05</items>
+				<items ColumnName="strStarPY">FY09PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY09YY06</items>
+				<items ColumnName="strStarPY">FY09PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY09YY07</items>
+				<items ColumnName="strStarPY">FY09PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY09YY08</items>
+				<items ColumnName="strStarPY">FY09PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY09YY09</items>
+				<items ColumnName="strStarPY">FY09PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY09YY10</items>
+				<items ColumnName="strStarPY">FY09PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY09YY11</items>
+				<items ColumnName="strStarPY">FY09PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY09YY12</items>
+				<items ColumnName="strStarPY">FY09PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY10YY01</items>
+				<items ColumnName="strStarPY">FY10PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY10YY03</items>
+				<items ColumnName="strStarPY">FY10PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY10YY04</items>
+				<items ColumnName="strStarPY">FY10PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY10YY05</items>
+				<items ColumnName="strStarPY">FY10PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY10YY07</items>
+				<items ColumnName="strStarPY">FY10PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY10YY08</items>
+				<items ColumnName="strStarPY">FY10PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY10YY09</items>
+				<items ColumnName="strStarPY">FY10PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY10YY11</items>
+				<items ColumnName="strStarPY">FY10PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY10YY12</items>
+				<items ColumnName="strStarPY">FY10PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY10YY10</items>
+				<items ColumnName="strStarPY">FY10PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY10YY02</items>
+				<items ColumnName="strStarPY">FY10PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY10YY06</items>
+				<items ColumnName="strStarPY">FY10PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY11YY03</items>
+				<items ColumnName="strStarPY">FY11PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY11YY06</items>
+				<items ColumnName="strStarPY">FY11PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY11YY09</items>
+				<items ColumnName="strStarPY">FY11PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY11YY12</items>
+				<items ColumnName="strStarPY">FY11PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY11YY01</items>
+				<items ColumnName="strStarPY">FY11PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY11YY04</items>
+				<items ColumnName="strStarPY">FY11PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY11YY07</items>
+				<items ColumnName="strStarPY">FY11PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY11YY10</items>
+				<items ColumnName="strStarPY">FY11PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY11YY02</items>
+				<items ColumnName="strStarPY">FY11PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY11YY08</items>
+				<items ColumnName="strStarPY">FY11PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY11YY05</items>
+				<items ColumnName="strStarPY">FY11PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY11YY11</items>
+				<items ColumnName="strStarPY">FY11PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY12YY02</items>
+				<items ColumnName="strStarPY">FY12PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY12YY05</items>
+				<items ColumnName="strStarPY">FY12PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY12YY08</items>
+				<items ColumnName="strStarPY">FY12PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY12YY11</items>
+				<items ColumnName="strStarPY">FY12PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY12YY03</items>
+				<items ColumnName="strStarPY">FY12PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY12YY09</items>
+				<items ColumnName="strStarPY">FY12PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY12YY12</items>
+				<items ColumnName="strStarPY">FY12PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY12YY01</items>
+				<items ColumnName="strStarPY">FY12PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY12YY06</items>
+				<items ColumnName="strStarPY">FY12PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY12YY07</items>
+				<items ColumnName="strStarPY">FY12PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY12YY10</items>
+				<items ColumnName="strStarPY">FY12PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">FY12YY04</items>
+				<items ColumnName="strStarPY">FY12PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB01YY01</items>
+				<items ColumnName="strStarPY">OB01PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB01YY07</items>
+				<items ColumnName="strStarPY">OB01PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB01YY02</items>
+				<items ColumnName="strStarPY">OB01PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB01YY05</items>
+				<items ColumnName="strStarPY">OB01PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB01YY08</items>
+				<items ColumnName="strStarPY">OB01PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB01YY11</items>
+				<items ColumnName="strStarPY">OB01PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB01YY04</items>
+				<items ColumnName="strStarPY">OB01PY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB01YY10</items>
+				<items ColumnName="strStarPY">OB01PY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB01YY03</items>
+				<items ColumnName="strStarPY">OB01PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB01YY06</items>
+				<items ColumnName="strStarPY">OB01PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB01YY09</items>
+				<items ColumnName="strStarPY">OB01PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB01YY12</items>
+				<items ColumnName="strStarPY">OB01PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB02YY01</items>
+				<items ColumnName="strStarPY">OB02PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB02YY02</items>
+				<items ColumnName="strStarPY">OB02PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB02YY03</items>
+				<items ColumnName="strStarPY">OB02PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB02YY04</items>
+				<items ColumnName="strStarPY">OB02PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB02YY05</items>
+				<items ColumnName="strStarPY">OB02PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB02YY06</items>
+				<items ColumnName="strStarPY">OB02PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB02YY07</items>
+				<items ColumnName="strStarPY">OB02PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB02YY08</items>
+				<items ColumnName="strStarPY">OB02PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB02YY09</items>
+				<items ColumnName="strStarPY">OB02PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB02YY10</items>
+				<items ColumnName="strStarPY">OB02PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB02YY11</items>
+				<items ColumnName="strStarPY">OB02PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB02YY12</items>
+				<items ColumnName="strStarPY">OB02PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB03YY01</items>
+				<items ColumnName="strStarPY">OB03PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB03YY02</items>
+				<items ColumnName="strStarPY">OB03PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB03YY03</items>
+				<items ColumnName="strStarPY">OB03PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB03YY04</items>
+				<items ColumnName="strStarPY">OB03PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB03YY05</items>
+				<items ColumnName="strStarPY">OB03PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB03YY06</items>
+				<items ColumnName="strStarPY">OB03PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB03YY07</items>
+				<items ColumnName="strStarPY">OB03PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB03YY08</items>
+				<items ColumnName="strStarPY">OB03PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB03YY09</items>
+				<items ColumnName="strStarPY">OB03PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB03YY10</items>
+				<items ColumnName="strStarPY">OB03PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB03YY11</items>
+				<items ColumnName="strStarPY">OB03PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB03YY12</items>
+				<items ColumnName="strStarPY">OB03PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB04YY01</items>
+				<items ColumnName="strStarPY">OB04PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB04YY02</items>
+				<items ColumnName="strStarPY">OB04PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB04YY03</items>
+				<items ColumnName="strStarPY">OB04PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB04YY04</items>
+				<items ColumnName="strStarPY">OB04PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB04YY05</items>
+				<items ColumnName="strStarPY">OB04PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB04YY06</items>
+				<items ColumnName="strStarPY">OB04PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB04YY07</items>
+				<items ColumnName="strStarPY">OB04PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB04YY08</items>
+				<items ColumnName="strStarPY">OB04PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB04YY09</items>
+				<items ColumnName="strStarPY">OB04PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB04YY10</items>
+				<items ColumnName="strStarPY">OB04PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB04YY11</items>
+				<items ColumnName="strStarPY">OB04PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB04YY12</items>
+				<items ColumnName="strStarPY">OB04PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB05YY01</items>
+				<items ColumnName="strStarPY">OB05PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB05YY02</items>
+				<items ColumnName="strStarPY">OB05PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB05YY03</items>
+				<items ColumnName="strStarPY">OB05PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB05YY04</items>
+				<items ColumnName="strStarPY">OB05PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB05YY05</items>
+				<items ColumnName="strStarPY">OB05PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB05YY06</items>
+				<items ColumnName="strStarPY">OB05PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB05YY07</items>
+				<items ColumnName="strStarPY">OB05PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB05YY08</items>
+				<items ColumnName="strStarPY">OB05PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB05YY09</items>
+				<items ColumnName="strStarPY">OB05PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB05YY10</items>
+				<items ColumnName="strStarPY">OB05PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB05YY11</items>
+				<items ColumnName="strStarPY">OB05PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB05YY12</items>
+				<items ColumnName="strStarPY">OB05PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB06YY01</items>
+				<items ColumnName="strStarPY">OB06PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB06YY02</items>
+				<items ColumnName="strStarPY">OB06PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB06YY03</items>
+				<items ColumnName="strStarPY">OB06PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB06YY04</items>
+				<items ColumnName="strStarPY">OB06PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB06YY05</items>
+				<items ColumnName="strStarPY">OB06PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB06YY06</items>
+				<items ColumnName="strStarPY">OB06PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB06YY07</items>
+				<items ColumnName="strStarPY">OB06PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB06YY08</items>
+				<items ColumnName="strStarPY">OB06PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB06YY09</items>
+				<items ColumnName="strStarPY">OB06PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB06YY10</items>
+				<items ColumnName="strStarPY">OB06PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB06YY11</items>
+				<items ColumnName="strStarPY">OB06PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB06YY12</items>
+				<items ColumnName="strStarPY">OB06PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB07YY01</items>
+				<items ColumnName="strStarPY">OB07PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB07YY02</items>
+				<items ColumnName="strStarPY">OB07PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB07YY03</items>
+				<items ColumnName="strStarPY">OB07PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB07YY04</items>
+				<items ColumnName="strStarPY">OB07PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB07YY05</items>
+				<items ColumnName="strStarPY">OB07PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB07YY06</items>
+				<items ColumnName="strStarPY">OB07PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB07YY07</items>
+				<items ColumnName="strStarPY">OB07PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB07YY08</items>
+				<items ColumnName="strStarPY">OB07PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB07YY09</items>
+				<items ColumnName="strStarPY">OB07PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB07YY10</items>
+				<items ColumnName="strStarPY">OB07PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB07YY11</items>
+				<items ColumnName="strStarPY">OB07PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB07YY12</items>
+				<items ColumnName="strStarPY">OB07PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB08YY01</items>
+				<items ColumnName="strStarPY">OB08PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB08YY02</items>
+				<items ColumnName="strStarPY">OB08PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB08YY03</items>
+				<items ColumnName="strStarPY">OB08PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB08YY04</items>
+				<items ColumnName="strStarPY">OB08PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB08YY05</items>
+				<items ColumnName="strStarPY">OB08PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB08YY06</items>
+				<items ColumnName="strStarPY">OB08PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB08YY07</items>
+				<items ColumnName="strStarPY">OB08PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB08YY08</items>
+				<items ColumnName="strStarPY">OB08PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB08YY09</items>
+				<items ColumnName="strStarPY">OB08PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB08YY10</items>
+				<items ColumnName="strStarPY">OB08PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB08YY11</items>
+				<items ColumnName="strStarPY">OB08PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB08YY12</items>
+				<items ColumnName="strStarPY">OB08PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB09YY01</items>
+				<items ColumnName="strStarPY">OB09PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB09YY02</items>
+				<items ColumnName="strStarPY">OB09PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB09YY03</items>
+				<items ColumnName="strStarPY">OB09PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB09YY04</items>
+				<items ColumnName="strStarPY">OB09PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB09YY05</items>
+				<items ColumnName="strStarPY">OB09PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB09YY06</items>
+				<items ColumnName="strStarPY">OB09PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB09YY07</items>
+				<items ColumnName="strStarPY">OB09PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB09YY08</items>
+				<items ColumnName="strStarPY">OB09PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB09YY09</items>
+				<items ColumnName="strStarPY">OB09PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB09YY10</items>
+				<items ColumnName="strStarPY">OB09PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB09YY11</items>
+				<items ColumnName="strStarPY">OB09PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB09YY12</items>
+				<items ColumnName="strStarPY">OB09PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB10YY01</items>
+				<items ColumnName="strStarPY">OB10PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB10YY02</items>
+				<items ColumnName="strStarPY">OB10PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB10YY03</items>
+				<items ColumnName="strStarPY">OB10PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB10YY04</items>
+				<items ColumnName="strStarPY">OB10PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB10YY05</items>
+				<items ColumnName="strStarPY">OB10PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB10YY06</items>
+				<items ColumnName="strStarPY">OB10PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB10YY07</items>
+				<items ColumnName="strStarPY">OB10PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB10YY08</items>
+				<items ColumnName="strStarPY">OB10PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB10YY09</items>
+				<items ColumnName="strStarPY">OB10PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB10YY10</items>
+				<items ColumnName="strStarPY">OB10PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB10YY11</items>
+				<items ColumnName="strStarPY">OB10PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB10YY12</items>
+				<items ColumnName="strStarPY">OB10PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB11YY01</items>
+				<items ColumnName="strStarPY">OB11PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB11YY02</items>
+				<items ColumnName="strStarPY">OB11PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB11YY03</items>
+				<items ColumnName="strStarPY">OB11PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB11YY04</items>
+				<items ColumnName="strStarPY">OB11PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB11YY05</items>
+				<items ColumnName="strStarPY">OB11PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB11YY06</items>
+				<items ColumnName="strStarPY">OB11PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB11YY07</items>
+				<items ColumnName="strStarPY">OB11PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB11YY08</items>
+				<items ColumnName="strStarPY">OB11PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB11YY09</items>
+				<items ColumnName="strStarPY">OB11PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB11YY10</items>
+				<items ColumnName="strStarPY">OB11PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB11YY11</items>
+				<items ColumnName="strStarPY">OB11PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB11YY12</items>
+				<items ColumnName="strStarPY">OB11PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB12YY01</items>
+				<items ColumnName="strStarPY">OB12PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB12YY02</items>
+				<items ColumnName="strStarPY">OB12PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB12YY03</items>
+				<items ColumnName="strStarPY">OB12PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB12YY04</items>
+				<items ColumnName="strStarPY">OB12PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB12YY05</items>
+				<items ColumnName="strStarPY">OB12PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB12YY06</items>
+				<items ColumnName="strStarPY">OB12PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB12YY07</items>
+				<items ColumnName="strStarPY">OB12PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB12YY08</items>
+				<items ColumnName="strStarPY">OB12PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB12YY09</items>
+				<items ColumnName="strStarPY">OB12PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB12YY10</items>
+				<items ColumnName="strStarPY">OB12PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB12YY11</items>
+				<items ColumnName="strStarPY">OB12PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">OB12YY12</items>
+				<items ColumnName="strStarPY">OB12PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY01YY01</items>
+				<items ColumnName="strStarPY">QY01PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY01YY02</items>
+				<items ColumnName="strStarPY">QY01PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY01YY05</items>
+				<items ColumnName="strStarPY">QY01PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY01YY08</items>
+				<items ColumnName="strStarPY">QY01PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY01YY11</items>
+				<items ColumnName="strStarPY">QY01PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY01YY06</items>
+				<items ColumnName="strStarPY">QY01PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY01YY07</items>
+				<items ColumnName="strStarPY">QY01PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY01YY03</items>
+				<items ColumnName="strStarPY">QY01PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY01YY04</items>
+				<items ColumnName="strStarPY">QY01PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY01YY09</items>
+				<items ColumnName="strStarPY">QY01PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY01YY12</items>
+				<items ColumnName="strStarPY">QY01PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY01YY10</items>
+				<items ColumnName="strStarPY">QY01PY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY02YY01</items>
+				<items ColumnName="strStarPY">QY02PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY02YY02</items>
+				<items ColumnName="strStarPY">QY02PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY02YY03</items>
+				<items ColumnName="strStarPY">QY02PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY02YY04</items>
+				<items ColumnName="strStarPY">QY02PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY02YY05</items>
+				<items ColumnName="strStarPY">QY02PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY02YY06</items>
+				<items ColumnName="strStarPY">QY02PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY02YY07</items>
+				<items ColumnName="strStarPY">QY02PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY02YY08</items>
+				<items ColumnName="strStarPY">QY02PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY02YY09</items>
+				<items ColumnName="strStarPY">QY02PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY02YY10</items>
+				<items ColumnName="strStarPY">QY02PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY02YY11</items>
+				<items ColumnName="strStarPY">QY02PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY02YY12</items>
+				<items ColumnName="strStarPY">QY02PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY03YY01</items>
+				<items ColumnName="strStarPY">QY03PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY03YY02</items>
+				<items ColumnName="strStarPY">QY03PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY03YY03</items>
+				<items ColumnName="strStarPY">QY03PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY03YY04</items>
+				<items ColumnName="strStarPY">QY03PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY03YY05</items>
+				<items ColumnName="strStarPY">QY03PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY03YY06</items>
+				<items ColumnName="strStarPY">QY03PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY03YY07</items>
+				<items ColumnName="strStarPY">QY03PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY03YY08</items>
+				<items ColumnName="strStarPY">QY03PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY03YY09</items>
+				<items ColumnName="strStarPY">QY03PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY03YY10</items>
+				<items ColumnName="strStarPY">QY03PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY03YY11</items>
+				<items ColumnName="strStarPY">QY03PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY03YY12</items>
+				<items ColumnName="strStarPY">QY03PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY04YY01</items>
+				<items ColumnName="strStarPY">QY04PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY04YY02</items>
+				<items ColumnName="strStarPY">QY04PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY04YY03</items>
+				<items ColumnName="strStarPY">QY04PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY04YY04</items>
+				<items ColumnName="strStarPY">QY04PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY04YY05</items>
+				<items ColumnName="strStarPY">QY04PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY04YY06</items>
+				<items ColumnName="strStarPY">QY04PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY04YY07</items>
+				<items ColumnName="strStarPY">QY04PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY04YY08</items>
+				<items ColumnName="strStarPY">QY04PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY04YY09</items>
+				<items ColumnName="strStarPY">QY04PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY04YY10</items>
+				<items ColumnName="strStarPY">QY04PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY04YY11</items>
+				<items ColumnName="strStarPY">QY04PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY04YY12</items>
+				<items ColumnName="strStarPY">QY04PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY05YY01</items>
+				<items ColumnName="strStarPY">QY05PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY05YY02</items>
+				<items ColumnName="strStarPY">QY05PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY05YY03</items>
+				<items ColumnName="strStarPY">QY05PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY05YY04</items>
+				<items ColumnName="strStarPY">QY05PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY05YY05</items>
+				<items ColumnName="strStarPY">QY05PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY05YY06</items>
+				<items ColumnName="strStarPY">QY05PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY05YY07</items>
+				<items ColumnName="strStarPY">QY05PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY05YY08</items>
+				<items ColumnName="strStarPY">QY05PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY05YY09</items>
+				<items ColumnName="strStarPY">QY05PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY05YY10</items>
+				<items ColumnName="strStarPY">QY05PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY05YY11</items>
+				<items ColumnName="strStarPY">QY05PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY05YY12</items>
+				<items ColumnName="strStarPY">QY05PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY06YY01</items>
+				<items ColumnName="strStarPY">QY06PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY06YY02</items>
+				<items ColumnName="strStarPY">QY06PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY06YY03</items>
+				<items ColumnName="strStarPY">QY06PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY06YY04</items>
+				<items ColumnName="strStarPY">QY06PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY06YY05</items>
+				<items ColumnName="strStarPY">QY06PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY06YY06</items>
+				<items ColumnName="strStarPY">QY06PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY06YY07</items>
+				<items ColumnName="strStarPY">QY06PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY06YY08</items>
+				<items ColumnName="strStarPY">QY06PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY06YY09</items>
+				<items ColumnName="strStarPY">QY06PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY06YY10</items>
+				<items ColumnName="strStarPY">QY06PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY06YY11</items>
+				<items ColumnName="strStarPY">QY06PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY06YY12</items>
+				<items ColumnName="strStarPY">QY06PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY07YY01</items>
+				<items ColumnName="strStarPY">QY07PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY07YY02</items>
+				<items ColumnName="strStarPY">QY07PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY07YY03</items>
+				<items ColumnName="strStarPY">QY07PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY07YY04</items>
+				<items ColumnName="strStarPY">QY07PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY07YY05</items>
+				<items ColumnName="strStarPY">QY07PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY07YY06</items>
+				<items ColumnName="strStarPY">QY07PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY07YY07</items>
+				<items ColumnName="strStarPY">QY07PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY07YY08</items>
+				<items ColumnName="strStarPY">QY07PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY07YY09</items>
+				<items ColumnName="strStarPY">QY07PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY07YY10</items>
+				<items ColumnName="strStarPY">QY07PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY07YY11</items>
+				<items ColumnName="strStarPY">QY07PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY07YY12</items>
+				<items ColumnName="strStarPY">QY07PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY08YY01</items>
+				<items ColumnName="strStarPY">QY08PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY08YY02</items>
+				<items ColumnName="strStarPY">QY08PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY08YY03</items>
+				<items ColumnName="strStarPY">QY08PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY08YY04</items>
+				<items ColumnName="strStarPY">QY08PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY08YY05</items>
+				<items ColumnName="strStarPY">QY08PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY08YY06</items>
+				<items ColumnName="strStarPY">QY08PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY08YY07</items>
+				<items ColumnName="strStarPY">QY08PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY08YY08</items>
+				<items ColumnName="strStarPY">QY08PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY08YY09</items>
+				<items ColumnName="strStarPY">QY08PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY08YY10</items>
+				<items ColumnName="strStarPY">QY08PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY08YY11</items>
+				<items ColumnName="strStarPY">QY08PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY08YY12</items>
+				<items ColumnName="strStarPY">QY08PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY09YY01</items>
+				<items ColumnName="strStarPY">QY09PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY09YY02</items>
+				<items ColumnName="strStarPY">QY09PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY09YY03</items>
+				<items ColumnName="strStarPY">QY09PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY09YY04</items>
+				<items ColumnName="strStarPY">QY09PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY09YY05</items>
+				<items ColumnName="strStarPY">QY09PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY09YY06</items>
+				<items ColumnName="strStarPY">QY09PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY09YY07</items>
+				<items ColumnName="strStarPY">QY09PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY09YY08</items>
+				<items ColumnName="strStarPY">QY09PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY09YY09</items>
+				<items ColumnName="strStarPY">QY09PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY09YY10</items>
+				<items ColumnName="strStarPY">QY09PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY09YY11</items>
+				<items ColumnName="strStarPY">QY09PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY09YY12</items>
+				<items ColumnName="strStarPY">QY09PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY10YY01</items>
+				<items ColumnName="strStarPY">QY10PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY10YY02</items>
+				<items ColumnName="strStarPY">QY10PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY10YY03</items>
+				<items ColumnName="strStarPY">QY10PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY10YY04</items>
+				<items ColumnName="strStarPY">QY10PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY10YY05</items>
+				<items ColumnName="strStarPY">QY10PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY10YY06</items>
+				<items ColumnName="strStarPY">QY10PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY10YY07</items>
+				<items ColumnName="strStarPY">QY10PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY10YY08</items>
+				<items ColumnName="strStarPY">QY10PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY10YY09</items>
+				<items ColumnName="strStarPY">QY10PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY10YY10</items>
+				<items ColumnName="strStarPY">QY10PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY10YY11</items>
+				<items ColumnName="strStarPY">QY10PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY10YY12</items>
+				<items ColumnName="strStarPY">QY10PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY11YY01</items>
+				<items ColumnName="strStarPY">QY11PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY11YY02</items>
+				<items ColumnName="strStarPY">QY11PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY11YY03</items>
+				<items ColumnName="strStarPY">QY11PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY11YY04</items>
+				<items ColumnName="strStarPY">QY11PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY11YY05</items>
+				<items ColumnName="strStarPY">QY11PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY11YY06</items>
+				<items ColumnName="strStarPY">QY11PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY11YY07</items>
+				<items ColumnName="strStarPY">QY11PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY11YY08</items>
+				<items ColumnName="strStarPY">QY11PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY11YY09</items>
+				<items ColumnName="strStarPY">QY11PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY11YY10</items>
+				<items ColumnName="strStarPY">QY11PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY11YY11</items>
+				<items ColumnName="strStarPY">QY11PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY11YY12</items>
+				<items ColumnName="strStarPY">QY11PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY12YY01</items>
+				<items ColumnName="strStarPY">QY12PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY12YY02</items>
+				<items ColumnName="strStarPY">QY12PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY12YY03</items>
+				<items ColumnName="strStarPY">QY12PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY12YY04</items>
+				<items ColumnName="strStarPY">QY12PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY12YY05</items>
+				<items ColumnName="strStarPY">QY12PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY12YY06</items>
+				<items ColumnName="strStarPY">QY12PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY12YY07</items>
+				<items ColumnName="strStarPY">QY12PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY12YY08</items>
+				<items ColumnName="strStarPY">QY12PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY12YY09</items>
+				<items ColumnName="strStarPY">QY12PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY12YY10</items>
+				<items ColumnName="strStarPY">QY12PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY12YY11</items>
+				<items ColumnName="strStarPY">QY12PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">QY12YY12</items>
+				<items ColumnName="strStarPY">QY12PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY01YY01</items>
+				<items ColumnName="strStarPY">RY01PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY01YY02</items>
+				<items ColumnName="strStarPY">RY01PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY01YY03</items>
+				<items ColumnName="strStarPY">RY01PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY01YY04</items>
+				<items ColumnName="strStarPY">RY01PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY01YY05</items>
+				<items ColumnName="strStarPY">RY01PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY01YY06</items>
+				<items ColumnName="strStarPY">RY01PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY01YY07</items>
+				<items ColumnName="strStarPY">RY01PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY01YY08</items>
+				<items ColumnName="strStarPY">RY01PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY01YY09</items>
+				<items ColumnName="strStarPY">RY01PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY01YY10</items>
+				<items ColumnName="strStarPY">RY01PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY01YY11</items>
+				<items ColumnName="strStarPY">RY01PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY01YY12</items>
+				<items ColumnName="strStarPY">RY01PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY02YY01</items>
+				<items ColumnName="strStarPY">RY02PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY02YY02</items>
+				<items ColumnName="strStarPY">RY02PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY02YY03</items>
+				<items ColumnName="strStarPY">RY02PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY02YY04</items>
+				<items ColumnName="strStarPY">RY02PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY02YY05</items>
+				<items ColumnName="strStarPY">RY02PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY02YY06</items>
+				<items ColumnName="strStarPY">RY02PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY02YY07</items>
+				<items ColumnName="strStarPY">RY02PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY02YY08</items>
+				<items ColumnName="strStarPY">RY02PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY02YY09</items>
+				<items ColumnName="strStarPY">RY02PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY02YY10</items>
+				<items ColumnName="strStarPY">RY02PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY02YY11</items>
+				<items ColumnName="strStarPY">RY02PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY02YY12</items>
+				<items ColumnName="strStarPY">RY02PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY03YY01</items>
+				<items ColumnName="strStarPY">RY03PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY03YY02</items>
+				<items ColumnName="strStarPY">RY03PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY03YY03</items>
+				<items ColumnName="strStarPY">RY03PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY03YY04</items>
+				<items ColumnName="strStarPY">RY03PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY03YY05</items>
+				<items ColumnName="strStarPY">RY03PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY03YY06</items>
+				<items ColumnName="strStarPY">RY03PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY03YY07</items>
+				<items ColumnName="strStarPY">RY03PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY03YY08</items>
+				<items ColumnName="strStarPY">RY03PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY03YY09</items>
+				<items ColumnName="strStarPY">RY03PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY03YY10</items>
+				<items ColumnName="strStarPY">RY03PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY03YY11</items>
+				<items ColumnName="strStarPY">RY03PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY03YY12</items>
+				<items ColumnName="strStarPY">RY03PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY04YY01</items>
+				<items ColumnName="strStarPY">RY04PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY04YY02</items>
+				<items ColumnName="strStarPY">RY04PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY04YY03</items>
+				<items ColumnName="strStarPY">RY04PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY04YY04</items>
+				<items ColumnName="strStarPY">RY04PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY04YY05</items>
+				<items ColumnName="strStarPY">RY04PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY04YY06</items>
+				<items ColumnName="strStarPY">RY04PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY04YY07</items>
+				<items ColumnName="strStarPY">RY04PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY04YY08</items>
+				<items ColumnName="strStarPY">RY04PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY04YY09</items>
+				<items ColumnName="strStarPY">RY04PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY04YY10</items>
+				<items ColumnName="strStarPY">RY04PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY04YY11</items>
+				<items ColumnName="strStarPY">RY04PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY04YY12</items>
+				<items ColumnName="strStarPY">RY04PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY05YY01</items>
+				<items ColumnName="strStarPY">RY05PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY05YY03</items>
+				<items ColumnName="strStarPY">RY05PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY05YY04</items>
+				<items ColumnName="strStarPY">RY05PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY05YY06</items>
+				<items ColumnName="strStarPY">RY05PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY05YY07</items>
+				<items ColumnName="strStarPY">RY05PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY05YY09</items>
+				<items ColumnName="strStarPY">RY05PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY05YY10</items>
+				<items ColumnName="strStarPY">RY05PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY05YY12</items>
+				<items ColumnName="strStarPY">RY05PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY05YY05</items>
+				<items ColumnName="strStarPY">RY05PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY05YY11</items>
+				<items ColumnName="strStarPY">RY05PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY05YY02</items>
+				<items ColumnName="strStarPY">RY05PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY05YY08</items>
+				<items ColumnName="strStarPY">RY05PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY06YY01</items>
+				<items ColumnName="strStarPY">RY06PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY06YY02</items>
+				<items ColumnName="strStarPY">RY06PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY06YY04</items>
+				<items ColumnName="strStarPY">RY06PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY06YY05</items>
+				<items ColumnName="strStarPY">RY06PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY06YY07</items>
+				<items ColumnName="strStarPY">RY06PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY06YY08</items>
+				<items ColumnName="strStarPY">RY06PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY06YY10</items>
+				<items ColumnName="strStarPY">RY06PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY06YY11</items>
+				<items ColumnName="strStarPY">RY06PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY06YY03</items>
+				<items ColumnName="strStarPY">RY06PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY06YY09</items>
+				<items ColumnName="strStarPY">RY06PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY06YY06</items>
+				<items ColumnName="strStarPY">RY06PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY06YY12</items>
+				<items ColumnName="strStarPY">RY06PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY07YY01</items>
+				<items ColumnName="strStarPY">RY07PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY07YY02</items>
+				<items ColumnName="strStarPY">RY07PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY07YY03</items>
+				<items ColumnName="strStarPY">RY07PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY07YY04</items>
+				<items ColumnName="strStarPY">RY07PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY07YY05</items>
+				<items ColumnName="strStarPY">RY07PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY07YY06</items>
+				<items ColumnName="strStarPY">RY07PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY07YY07</items>
+				<items ColumnName="strStarPY">RY07PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY07YY08</items>
+				<items ColumnName="strStarPY">RY07PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY07YY09</items>
+				<items ColumnName="strStarPY">RY07PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY07YY10</items>
+				<items ColumnName="strStarPY">RY07PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY07YY11</items>
+				<items ColumnName="strStarPY">RY07PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY07YY12</items>
+				<items ColumnName="strStarPY">RY07PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY08YY01</items>
+				<items ColumnName="strStarPY">RY08PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY08YY02</items>
+				<items ColumnName="strStarPY">RY08PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY08YY03</items>
+				<items ColumnName="strStarPY">RY08PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY08YY04</items>
+				<items ColumnName="strStarPY">RY08PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY08YY05</items>
+				<items ColumnName="strStarPY">RY08PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY08YY06</items>
+				<items ColumnName="strStarPY">RY08PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY08YY07</items>
+				<items ColumnName="strStarPY">RY08PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY08YY08</items>
+				<items ColumnName="strStarPY">RY08PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY08YY09</items>
+				<items ColumnName="strStarPY">RY08PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY08YY10</items>
+				<items ColumnName="strStarPY">RY08PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY08YY11</items>
+				<items ColumnName="strStarPY">RY08PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY08YY12</items>
+				<items ColumnName="strStarPY">RY08PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY09YY01</items>
+				<items ColumnName="strStarPY">RY09PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY09YY02</items>
+				<items ColumnName="strStarPY">RY09PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY09YY03</items>
+				<items ColumnName="strStarPY">RY09PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY09YY04</items>
+				<items ColumnName="strStarPY">RY09PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY09YY05</items>
+				<items ColumnName="strStarPY">RY09PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY09YY06</items>
+				<items ColumnName="strStarPY">RY09PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY09YY07</items>
+				<items ColumnName="strStarPY">RY09PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY09YY08</items>
+				<items ColumnName="strStarPY">RY09PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY09YY09</items>
+				<items ColumnName="strStarPY">RY09PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY09YY10</items>
+				<items ColumnName="strStarPY">RY09PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY09YY11</items>
+				<items ColumnName="strStarPY">RY09PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY09YY12</items>
+				<items ColumnName="strStarPY">RY09PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY10YY02</items>
+				<items ColumnName="strStarPY">RY10PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY10YY03</items>
+				<items ColumnName="strStarPY">RY10PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY10YY05</items>
+				<items ColumnName="strStarPY">RY10PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY10YY06</items>
+				<items ColumnName="strStarPY">RY10PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY10YY08</items>
+				<items ColumnName="strStarPY">RY10PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY10YY09</items>
+				<items ColumnName="strStarPY">RY10PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY10YY11</items>
+				<items ColumnName="strStarPY">RY10PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY10YY12</items>
+				<items ColumnName="strStarPY">RY10PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY10YY04</items>
+				<items ColumnName="strStarPY">RY10PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY10YY10</items>
+				<items ColumnName="strStarPY">RY10PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY10YY01</items>
+				<items ColumnName="strStarPY">RY10PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY10YY07</items>
+				<items ColumnName="strStarPY">RY10PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY11YY01</items>
+				<items ColumnName="strStarPY">RY11PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY11YY02</items>
+				<items ColumnName="strStarPY">RY11PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY11YY03</items>
+				<items ColumnName="strStarPY">RY11PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY11YY04</items>
+				<items ColumnName="strStarPY">RY11PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY11YY05</items>
+				<items ColumnName="strStarPY">RY11PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY11YY06</items>
+				<items ColumnName="strStarPY">RY11PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY11YY07</items>
+				<items ColumnName="strStarPY">RY11PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY11YY08</items>
+				<items ColumnName="strStarPY">RY11PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY11YY09</items>
+				<items ColumnName="strStarPY">RY11PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY11YY10</items>
+				<items ColumnName="strStarPY">RY11PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY11YY11</items>
+				<items ColumnName="strStarPY">RY11PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY11YY12</items>
+				<items ColumnName="strStarPY">RY11PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY12YY01</items>
+				<items ColumnName="strStarPY">RY12PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY12YY02</items>
+				<items ColumnName="strStarPY">RY12PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY12YY03</items>
+				<items ColumnName="strStarPY">RY12PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY12YY04</items>
+				<items ColumnName="strStarPY">RY12PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY12YY05</items>
+				<items ColumnName="strStarPY">RY12PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY12YY06</items>
+				<items ColumnName="strStarPY">RY12PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY12YY07</items>
+				<items ColumnName="strStarPY">RY12PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY12YY08</items>
+				<items ColumnName="strStarPY">RY12PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY12YY09</items>
+				<items ColumnName="strStarPY">RY12PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY12YY10</items>
+				<items ColumnName="strStarPY">RY12PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY12YY11</items>
+				<items ColumnName="strStarPY">RY12PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">RY12YY12</items>
+				<items ColumnName="strStarPY">RY12PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">SY01YY06</items>
+				<items ColumnName="strStarPY">SY01PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">SY01YY07</items>
+				<items ColumnName="strStarPY">SY01PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">SY01YY09</items>
+				<items ColumnName="strStarPY">SY01PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">SY01YY10</items>
+				<items ColumnName="strStarPY">SY01PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">SY01YY02</items>
+				<items ColumnName="strStarPY">SY01PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">SY01YY04</items>
+				<items ColumnName="strStarPY">SY01PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">SY01YY12</items>
+				<items ColumnName="strStarPY">SY01PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">SY01YY01</items>
+				<items ColumnName="strStarPY">SY01PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">SY01YY03</items>
+				<items ColumnName="strStarPY">SY01PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">SY01YY05</items>
+				<items ColumnName="strStarPY">SY01PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">SY01YY08</items>
+				<items ColumnName="strStarPY">SY01PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">SY01YY11</items>
+				<items ColumnName="strStarPY">SY01PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">SY02YY11</items>
+				<items ColumnName="strStarPY">SY02PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">SY02YY12</items>
+				<items ColumnName="strStarPY">SY02PY00</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">SY02YY06</items>
+				<items ColumnName="strStarPY">SY02PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">SY02YY07</items>
+				<items ColumnName="strStarPY">SY02PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">SY02YY09</items>
+				<items ColumnName="strStarPY">SY02PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">SY02YY10</items>
+				<items ColumnName="strStarPY">SY02PY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">SY02YY04</items>
+				<items ColumnName="strStarPY">SY02PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">SY02YY02</items>
+				<items ColumnName="strStarPY">SY02PY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">SY02YY01</items>
+				<items ColumnName="strStarPY">SY02PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">SY02YY03</items>
+				<items ColumnName="strStarPY">SY02PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">SY02YY05</items>
+				<items ColumnName="strStarPY">SY02PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">SY02YY08</items>
+				<items ColumnName="strStarPY">SY02PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">SY03YY12</items>
+				<items ColumnName="strStarPY">SY03PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">SY03YY02</items>
+				<items ColumnName="strStarPY">SY03PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">SY03YY03</items>
+				<items ColumnName="strStarPY">SY03PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">SY03YY05</items>
+				<items ColumnName="strStarPY">SY03PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">SY03YY06</items>
+				<items ColumnName="strStarPY">SY03PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">SY03YY09</items>
+				<items ColumnName="strStarPY">SY03PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">SY03YY10</items>
+				<items ColumnName="strStarPY">SY03PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">SY03YY11</items>
+				<items ColumnName="strStarPY">SY03PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">SY03YY01</items>
+				<items ColumnName="strStarPY">SY03PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">SY03YY04</items>
+				<items ColumnName="strStarPY">SY03PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">SY03YY07</items>
+				<items ColumnName="strStarPY">SY03PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">SY03YY08</items>
+				<items ColumnName="strStarPY">SY03PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">SY04YY12</items>
+				<items ColumnName="strStarPY">SY04PY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">SY04YY03</items>
+				<items ColumnName="strStarPY">SY04PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">SY04YY04</items>
+				<items ColumnName="strStarPY">SY04PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">SY04YY06</items>
+				<items ColumnName="strStarPY">SY04PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">SY04YY07</items>
+				<items ColumnName="strStarPY">SY04PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">SY04YY08</items>
+				<items ColumnName="strStarPY">SY04PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">SY04YY09</items>
+				<items ColumnName="strStarPY">SY04PY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">SY04YY01</items>
+				<items ColumnName="strStarPY">SY04PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">SY04YY02</items>
+				<items ColumnName="strStarPY">SY04PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">SY04YY05</items>
+				<items ColumnName="strStarPY">SY04PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">SY04YY10</items>
+				<items ColumnName="strStarPY">SY04PY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strStarYY">SY04YY11</items>
+				<items ColumnName="strStarPY">SY04PY07</items>
+			</DataRow>
+		</DataRows>
+	</DataTable>
+</FileName>

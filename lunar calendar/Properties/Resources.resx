@@ -118,7 +118,25 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="IDName" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IDName.xml;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
   <data name="LifeWeight" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\LifeWeight.xml;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;big5</value>
+  </data>
+  <data name="P60Flower" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\P60Flower.xml;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="P60To5Element" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\P60To5Element.xml;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="StarLocation" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\StarLocation.xml;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;big5</value>
+  </data>
+  <data name="StarStrongWeak" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\StarStrongWeak.xml;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;big5</value>
+  </data>
+  <data name="_24solarterms" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\24solarterms.xml;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
   </data>
 </root>

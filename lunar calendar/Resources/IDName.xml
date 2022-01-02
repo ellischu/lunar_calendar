@@ -1,0 +1,5723 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FileName Name="IDName.xml">
+	<DataTable TableName="tblIDName">
+		<DataColumns>
+			<DataColumn ColumnName="strID" DataType="System.String" Caption="strID" />
+			<DataColumn ColumnName="strIDName" DataType="System.String" Caption="strIDName" />
+		</DataColumns>
+		<DataRows>
+			<DataRow>
+				<items ColumnName="strID">0 </items>
+				<items ColumnName="strIDName">*</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY01</items>
+				<items ColumnName="strIDName">紫微</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY01PY00</items>
+				<items ColumnName="strIDName">紫微　</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY01PY00FX07</items>
+				<items ColumnName="strIDName">紫微權</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY01PY00FX08</items>
+				<items ColumnName="strIDName">紫微科</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY01PY01</items>
+				<items ColumnName="strIDName">紫微廟</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY01PY01FX07</items>
+				<items ColumnName="strIDName">紫微廟權</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY01PY01FX08</items>
+				<items ColumnName="strIDName">紫微廟科</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY01PY02</items>
+				<items ColumnName="strIDName">紫微旺</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY01PY02FX07</items>
+				<items ColumnName="strIDName">紫微旺權</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY01PY02FX08</items>
+				<items ColumnName="strIDName">紫微旺科</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY01PY03</items>
+				<items ColumnName="strIDName">紫微地</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY01PY03FX07</items>
+				<items ColumnName="strIDName">紫微地權</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY01PY03FX08</items>
+				<items ColumnName="strIDName">紫微地科</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY01PY04</items>
+				<items ColumnName="strIDName">紫微利</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY01PY04FX07</items>
+				<items ColumnName="strIDName">紫微利權</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY01PY04FX08</items>
+				<items ColumnName="strIDName">紫微利科</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY01PY05</items>
+				<items ColumnName="strIDName">紫微平</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY01PY05FX07</items>
+				<items ColumnName="strIDName">紫微平權</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY01PY05FX08</items>
+				<items ColumnName="strIDName">紫微平科</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY01PY06</items>
+				<items ColumnName="strIDName">紫微閑</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY01PY06FX07</items>
+				<items ColumnName="strIDName">紫微閑權</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY01PY06FX08</items>
+				<items ColumnName="strIDName">紫微閑科</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY01PY07</items>
+				<items ColumnName="strIDName">紫微陷</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY01PY07FX07</items>
+				<items ColumnName="strIDName">紫微陷權</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY01PY07FX08</items>
+				<items ColumnName="strIDName">紫微陷科</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY02</items>
+				<items ColumnName="strIDName">天機</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY02PY00</items>
+				<items ColumnName="strIDName">天機　</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY02PY00FX06</items>
+				<items ColumnName="strIDName">天機祿</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY02PY00FX07</items>
+				<items ColumnName="strIDName">天機權</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY02PY00FX08</items>
+				<items ColumnName="strIDName">天機科</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY02PY00FX09</items>
+				<items ColumnName="strIDName">天機忌</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY02PY01</items>
+				<items ColumnName="strIDName">天機廟</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY02PY01FX06</items>
+				<items ColumnName="strIDName">天機廟祿</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY02PY01FX07</items>
+				<items ColumnName="strIDName">天機廟權</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY02PY01FX08</items>
+				<items ColumnName="strIDName">天機廟科</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY02PY01FX09</items>
+				<items ColumnName="strIDName">天機廟忌</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY02PY02</items>
+				<items ColumnName="strIDName">天機旺</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY02PY02FX06</items>
+				<items ColumnName="strIDName">天機旺祿</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY02PY02FX07</items>
+				<items ColumnName="strIDName">天機旺權</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY02PY02FX08</items>
+				<items ColumnName="strIDName">天機旺科</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY02PY02FX09</items>
+				<items ColumnName="strIDName">天機旺忌</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY02PY03</items>
+				<items ColumnName="strIDName">天機地</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY02PY03FX06</items>
+				<items ColumnName="strIDName">天機地祿</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY02PY03FX07</items>
+				<items ColumnName="strIDName">天機地權</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY02PY03FX08</items>
+				<items ColumnName="strIDName">天機地科</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY02PY03FX09</items>
+				<items ColumnName="strIDName">天機地忌</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY02PY04</items>
+				<items ColumnName="strIDName">天機利</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY02PY04FX06</items>
+				<items ColumnName="strIDName">天機利祿</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY02PY04FX07</items>
+				<items ColumnName="strIDName">天機利權</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY02PY04FX08</items>
+				<items ColumnName="strIDName">天機利科</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY02PY04FX09</items>
+				<items ColumnName="strIDName">天機利忌</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY02PY05</items>
+				<items ColumnName="strIDName">天機平</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY02PY05FX06</items>
+				<items ColumnName="strIDName">天機平祿</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY02PY05FX07</items>
+				<items ColumnName="strIDName">天機平權</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY02PY05FX08</items>
+				<items ColumnName="strIDName">天機平科</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY02PY05FX09</items>
+				<items ColumnName="strIDName">天機平忌</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY02PY06</items>
+				<items ColumnName="strIDName">天機閑</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY02PY06FX06</items>
+				<items ColumnName="strIDName">天機閑祿</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY02PY06FX07</items>
+				<items ColumnName="strIDName">天機閑權</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY02PY06FX08</items>
+				<items ColumnName="strIDName">天機閑科</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY02PY06FX09</items>
+				<items ColumnName="strIDName">天機閑忌</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY02PY07</items>
+				<items ColumnName="strIDName">天機陷</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY02PY07FX06</items>
+				<items ColumnName="strIDName">天機陷祿</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY02PY07FX07</items>
+				<items ColumnName="strIDName">天機陷權</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY02PY07FX08</items>
+				<items ColumnName="strIDName">天機陷科</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY02PY07FX09</items>
+				<items ColumnName="strIDName">天機陷忌</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY03</items>
+				<items ColumnName="strIDName">太陽</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY03PY00</items>
+				<items ColumnName="strIDName">太陽　</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY03PY00FX06</items>
+				<items ColumnName="strIDName">太陽祿</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY03PY00FX07</items>
+				<items ColumnName="strIDName">太陽權</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY03PY00FX08</items>
+				<items ColumnName="strIDName">太陽科</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY03PY00FX09</items>
+				<items ColumnName="strIDName">太陽忌</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY03PY01</items>
+				<items ColumnName="strIDName">太陽廟</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY03PY01FX06</items>
+				<items ColumnName="strIDName">太陽廟祿</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY03PY01FX07</items>
+				<items ColumnName="strIDName">太陽廟權</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY03PY01FX08</items>
+				<items ColumnName="strIDName">太陽廟科</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY03PY01FX09</items>
+				<items ColumnName="strIDName">太陽廟忌</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY03PY02</items>
+				<items ColumnName="strIDName">太陽旺</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY03PY02FX06</items>
+				<items ColumnName="strIDName">太陽旺祿</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY03PY02FX07</items>
+				<items ColumnName="strIDName">太陽旺權</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY03PY02FX08</items>
+				<items ColumnName="strIDName">太陽旺科</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY03PY02FX09</items>
+				<items ColumnName="strIDName">太陽旺忌</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY03PY03</items>
+				<items ColumnName="strIDName">太陽地</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY03PY03FX06</items>
+				<items ColumnName="strIDName">太陽地祿</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY03PY03FX07</items>
+				<items ColumnName="strIDName">太陽地權</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY03PY03FX08</items>
+				<items ColumnName="strIDName">太陽地科</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY03PY03FX09</items>
+				<items ColumnName="strIDName">太陽地忌</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY03PY04</items>
+				<items ColumnName="strIDName">太陽利</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY03PY04FX06</items>
+				<items ColumnName="strIDName">太陽利祿</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY03PY04FX07</items>
+				<items ColumnName="strIDName">太陽利權</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY03PY04FX08</items>
+				<items ColumnName="strIDName">太陽利科</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY03PY04FX09</items>
+				<items ColumnName="strIDName">太陽利忌</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY03PY05</items>
+				<items ColumnName="strIDName">太陽平</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY03PY05FX06</items>
+				<items ColumnName="strIDName">太陽平祿</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY03PY05FX07</items>
+				<items ColumnName="strIDName">太陽平權</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY03PY05FX08</items>
+				<items ColumnName="strIDName">太陽平科</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY03PY05FX09</items>
+				<items ColumnName="strIDName">太陽平忌</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY03PY06</items>
+				<items ColumnName="strIDName">太陽閑</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY03PY06FX06</items>
+				<items ColumnName="strIDName">太陽閑祿</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY03PY06FX07</items>
+				<items ColumnName="strIDName">太陽閑權</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY03PY06FX08</items>
+				<items ColumnName="strIDName">太陽閑科</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY03PY06FX09</items>
+				<items ColumnName="strIDName">太陽閑忌</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY03PY07</items>
+				<items ColumnName="strIDName">太陽陷</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY03PY07FX06</items>
+				<items ColumnName="strIDName">太陽陷祿</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY03PY07FX07</items>
+				<items ColumnName="strIDName">太陽陷權</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY03PY07FX08</items>
+				<items ColumnName="strIDName">太陽陷科</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY03PY07FX09</items>
+				<items ColumnName="strIDName">太陽陷忌</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY04</items>
+				<items ColumnName="strIDName">武曲</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY04PY00</items>
+				<items ColumnName="strIDName">武曲　</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY04PY00FX06</items>
+				<items ColumnName="strIDName">武曲祿</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY04PY00FX07</items>
+				<items ColumnName="strIDName">武曲權</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY04PY00FX08</items>
+				<items ColumnName="strIDName">武曲科</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY04PY00FX09</items>
+				<items ColumnName="strIDName">武曲忌</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY04PY01</items>
+				<items ColumnName="strIDName">武曲廟</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY04PY01FX06</items>
+				<items ColumnName="strIDName">武曲廟祿</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY04PY01FX07</items>
+				<items ColumnName="strIDName">武曲廟權</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY04PY01FX08</items>
+				<items ColumnName="strIDName">武曲廟科</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY04PY01FX09</items>
+				<items ColumnName="strIDName">武曲廟忌</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY04PY02</items>
+				<items ColumnName="strIDName">武曲旺</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY04PY02FX06</items>
+				<items ColumnName="strIDName">武曲旺祿</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY04PY02FX07</items>
+				<items ColumnName="strIDName">武曲旺權</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY04PY02FX08</items>
+				<items ColumnName="strIDName">武曲旺科</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY04PY02FX09</items>
+				<items ColumnName="strIDName">武曲旺忌</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY04PY03</items>
+				<items ColumnName="strIDName">武曲地</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY04PY03FX06</items>
+				<items ColumnName="strIDName">武曲地祿</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY04PY03FX07</items>
+				<items ColumnName="strIDName">武曲地權</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY04PY03FX08</items>
+				<items ColumnName="strIDName">武曲地科</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY04PY03FX09</items>
+				<items ColumnName="strIDName">武曲地忌</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY04PY04</items>
+				<items ColumnName="strIDName">武曲利</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY04PY04FX06</items>
+				<items ColumnName="strIDName">武曲利祿</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY04PY04FX07</items>
+				<items ColumnName="strIDName">武曲利權</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY04PY04FX08</items>
+				<items ColumnName="strIDName">武曲利科</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY04PY04FX09</items>
+				<items ColumnName="strIDName">武曲利忌</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY04PY05</items>
+				<items ColumnName="strIDName">武曲平</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY04PY05FX06</items>
+				<items ColumnName="strIDName">武曲平祿</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY04PY05FX07</items>
+				<items ColumnName="strIDName">武曲平權</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY04PY05FX08</items>
+				<items ColumnName="strIDName">武曲平科</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY04PY05FX09</items>
+				<items ColumnName="strIDName">武曲平忌</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY04PY06</items>
+				<items ColumnName="strIDName">武曲閑</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY04PY06FX06</items>
+				<items ColumnName="strIDName">武曲閑祿</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY04PY06FX07</items>
+				<items ColumnName="strIDName">武曲閑權</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY04PY06FX08</items>
+				<items ColumnName="strIDName">武曲閑科</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY04PY06FX09</items>
+				<items ColumnName="strIDName">武曲閑忌</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY04PY07</items>
+				<items ColumnName="strIDName">武曲陷</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY04PY07FX06</items>
+				<items ColumnName="strIDName">武曲陷祿</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY04PY07FX07</items>
+				<items ColumnName="strIDName">武曲陷權</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY04PY07FX08</items>
+				<items ColumnName="strIDName">武曲陷科</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY04PY07FX09</items>
+				<items ColumnName="strIDName">武曲陷忌</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY05</items>
+				<items ColumnName="strIDName">天同</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY05PY00</items>
+				<items ColumnName="strIDName">天同　</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY05PY00FX06</items>
+				<items ColumnName="strIDName">天同祿</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY05PY00FX07</items>
+				<items ColumnName="strIDName">天同權</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY05PY00FX09</items>
+				<items ColumnName="strIDName">天同忌</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY05PY01</items>
+				<items ColumnName="strIDName">天同廟</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY05PY01FX06</items>
+				<items ColumnName="strIDName">天同廟祿</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY05PY01FX07</items>
+				<items ColumnName="strIDName">天同廟權</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY05PY01FX09</items>
+				<items ColumnName="strIDName">天同廟忌</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY05PY02</items>
+				<items ColumnName="strIDName">天同旺</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY05PY02FX06</items>
+				<items ColumnName="strIDName">天同旺祿</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY05PY02FX07</items>
+				<items ColumnName="strIDName">天同旺權</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY05PY02FX09</items>
+				<items ColumnName="strIDName">天同旺忌</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY05PY03</items>
+				<items ColumnName="strIDName">天同地</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY05PY03FX06</items>
+				<items ColumnName="strIDName">天同地祿</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY05PY03FX07</items>
+				<items ColumnName="strIDName">天同地權</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY05PY03FX09</items>
+				<items ColumnName="strIDName">天同地忌</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY05PY04</items>
+				<items ColumnName="strIDName">天同利</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY05PY04FX06</items>
+				<items ColumnName="strIDName">天同利祿</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY05PY04FX07</items>
+				<items ColumnName="strIDName">天同利權</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY05PY04FX09</items>
+				<items ColumnName="strIDName">天同利忌</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY05PY05</items>
+				<items ColumnName="strIDName">天同平</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY05PY05FX06</items>
+				<items ColumnName="strIDName">天同平祿</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY05PY05FX07</items>
+				<items ColumnName="strIDName">天同平權</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY05PY05FX09</items>
+				<items ColumnName="strIDName">天同平忌</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY05PY06</items>
+				<items ColumnName="strIDName">天同閑</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY05PY06FX06</items>
+				<items ColumnName="strIDName">天同閑祿</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY05PY06FX07</items>
+				<items ColumnName="strIDName">天同閑權</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY05PY06FX09</items>
+				<items ColumnName="strIDName">天同閑忌</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY05PY07</items>
+				<items ColumnName="strIDName">天同陷</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY05PY07FX06</items>
+				<items ColumnName="strIDName">天同陷祿</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY05PY07FX07</items>
+				<items ColumnName="strIDName">天同陷權</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY05PY07FX09</items>
+				<items ColumnName="strIDName">天同陷忌</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY06</items>
+				<items ColumnName="strIDName">廉貞</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY06PY00</items>
+				<items ColumnName="strIDName">廉貞　</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY06PY00FX06</items>
+				<items ColumnName="strIDName">廉貞祿</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY06PY00FX09</items>
+				<items ColumnName="strIDName">廉貞忌</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY06PY01</items>
+				<items ColumnName="strIDName">廉貞廟</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY06PY01FX06</items>
+				<items ColumnName="strIDName">廉貞廟祿</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY06PY01FX09</items>
+				<items ColumnName="strIDName">廉貞廟忌</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY06PY02</items>
+				<items ColumnName="strIDName">廉貞旺</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY06PY02FX06</items>
+				<items ColumnName="strIDName">廉貞旺祿</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY06PY02FX09</items>
+				<items ColumnName="strIDName">廉貞旺忌</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY06PY03</items>
+				<items ColumnName="strIDName">廉貞地</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY06PY03FX06</items>
+				<items ColumnName="strIDName">廉貞地祿</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY06PY03FX09</items>
+				<items ColumnName="strIDName">廉貞地忌</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY06PY04</items>
+				<items ColumnName="strIDName">廉貞利</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY06PY04FX06</items>
+				<items ColumnName="strIDName">廉貞利祿</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY06PY04FX09</items>
+				<items ColumnName="strIDName">廉貞利忌</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY06PY05</items>
+				<items ColumnName="strIDName">廉貞平</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY06PY05FX06</items>
+				<items ColumnName="strIDName">廉貞平祿</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY06PY05FX09</items>
+				<items ColumnName="strIDName">廉貞平忌</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY06PY06</items>
+				<items ColumnName="strIDName">廉貞閑</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY06PY06FX06</items>
+				<items ColumnName="strIDName">廉貞閑祿</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY06PY06FX09</items>
+				<items ColumnName="strIDName">廉貞閑忌</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY06PY07</items>
+				<items ColumnName="strIDName">廉貞陷</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY06PY07FX06</items>
+				<items ColumnName="strIDName">廉貞陷祿</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY06PY07FX09</items>
+				<items ColumnName="strIDName">廉貞陷忌</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY01</items>
+				<items ColumnName="strIDName">天府</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY01PY00</items>
+				<items ColumnName="strIDName">天府　</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY01PY01</items>
+				<items ColumnName="strIDName">天府廟</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY01PY02</items>
+				<items ColumnName="strIDName">天府旺</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY01PY03</items>
+				<items ColumnName="strIDName">天府地</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY01PY04</items>
+				<items ColumnName="strIDName">天府利</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY01PY05</items>
+				<items ColumnName="strIDName">天府平</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY01PY06</items>
+				<items ColumnName="strIDName">天府閑</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY01PY07</items>
+				<items ColumnName="strIDName">天府陷</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY02</items>
+				<items ColumnName="strIDName">太陰</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY02PY00</items>
+				<items ColumnName="strIDName">太陰　</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY02PY00FX06</items>
+				<items ColumnName="strIDName">太陰祿</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY02PY00FX07</items>
+				<items ColumnName="strIDName">太陰權</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY02PY00FX08</items>
+				<items ColumnName="strIDName">太陰科</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY02PY00FX09</items>
+				<items ColumnName="strIDName">太陰忌</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY02PY01</items>
+				<items ColumnName="strIDName">太陰廟</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY02PY01FX06</items>
+				<items ColumnName="strIDName">太陰廟祿</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY02PY01FX07</items>
+				<items ColumnName="strIDName">太陰廟權</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY02PY01FX08</items>
+				<items ColumnName="strIDName">太陰廟科</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY02PY01FX09</items>
+				<items ColumnName="strIDName">太陰廟忌</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY02PY02</items>
+				<items ColumnName="strIDName">太陰旺</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY02PY02FX06</items>
+				<items ColumnName="strIDName">太陰旺祿</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY02PY02FX07</items>
+				<items ColumnName="strIDName">太陰旺權</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY02PY02FX08</items>
+				<items ColumnName="strIDName">太陰旺科</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY02PY02FX09</items>
+				<items ColumnName="strIDName">太陰旺忌</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY02PY03</items>
+				<items ColumnName="strIDName">太陰地</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY02PY03FX06</items>
+				<items ColumnName="strIDName">太陰地祿</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY02PY03FX07</items>
+				<items ColumnName="strIDName">太陰地權</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY02PY03FX08</items>
+				<items ColumnName="strIDName">太陰地科</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY02PY03FX09</items>
+				<items ColumnName="strIDName">太陰地忌</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY02PY04</items>
+				<items ColumnName="strIDName">太陰利</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY02PY04FX06</items>
+				<items ColumnName="strIDName">太陰利祿</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY02PY04FX07</items>
+				<items ColumnName="strIDName">太陰利權</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY02PY04FX08</items>
+				<items ColumnName="strIDName">太陰利科</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY02PY04FX09</items>
+				<items ColumnName="strIDName">太陰利忌</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY02PY05</items>
+				<items ColumnName="strIDName">太陰平</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY02PY05FX06</items>
+				<items ColumnName="strIDName">太陰平祿</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY02PY05FX07</items>
+				<items ColumnName="strIDName">太陰平權</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY02PY05FX08</items>
+				<items ColumnName="strIDName">太陰平科</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY02PY05FX09</items>
+				<items ColumnName="strIDName">太陰平忌</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY02PY06</items>
+				<items ColumnName="strIDName">太陰閑</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY02PY06FX06</items>
+				<items ColumnName="strIDName">太陰閑祿</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY02PY06FX07</items>
+				<items ColumnName="strIDName">太陰閑權</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY02PY06FX08</items>
+				<items ColumnName="strIDName">太陰閑科</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY02PY06FX09</items>
+				<items ColumnName="strIDName">太陰閑忌</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY02PY07</items>
+				<items ColumnName="strIDName">太陰陷</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY02PY07FX06</items>
+				<items ColumnName="strIDName">太陰陷祿</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY02PY07FX07</items>
+				<items ColumnName="strIDName">太陰陷權</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY02PY07FX08</items>
+				<items ColumnName="strIDName">太陰陷科</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY02PY07FX09</items>
+				<items ColumnName="strIDName">太陰陷忌</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY03</items>
+				<items ColumnName="strIDName">貪狼</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY03PY00</items>
+				<items ColumnName="strIDName">貪狼　</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY03PY00FX06</items>
+				<items ColumnName="strIDName">貪狼祿</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY03PY00FX07</items>
+				<items ColumnName="strIDName">貪狼權</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY03PY00FX09</items>
+				<items ColumnName="strIDName">貪狼忌</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY03PY01</items>
+				<items ColumnName="strIDName">貪狼廟</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY03PY01FX06</items>
+				<items ColumnName="strIDName">貪狼廟祿</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY03PY01FX07</items>
+				<items ColumnName="strIDName">貪狼廟權</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY03PY01FX09</items>
+				<items ColumnName="strIDName">貪狼廟忌</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY03PY02</items>
+				<items ColumnName="strIDName">貪狼旺</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY03PY02FX06</items>
+				<items ColumnName="strIDName">貪狼旺祿</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY03PY02FX07</items>
+				<items ColumnName="strIDName">貪狼旺權</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY03PY02FX09</items>
+				<items ColumnName="strIDName">貪狼旺忌</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY03PY03</items>
+				<items ColumnName="strIDName">貪狼地</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY03PY03FX06</items>
+				<items ColumnName="strIDName">貪狼地祿</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY03PY03FX07</items>
+				<items ColumnName="strIDName">貪狼地權</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY03PY03FX09</items>
+				<items ColumnName="strIDName">貪狼地忌</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY03PY04</items>
+				<items ColumnName="strIDName">貪狼利</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY03PY04FX06</items>
+				<items ColumnName="strIDName">貪狼利祿</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY03PY04FX07</items>
+				<items ColumnName="strIDName">貪狼利權</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY03PY04FX09</items>
+				<items ColumnName="strIDName">貪狼利忌</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY03PY05</items>
+				<items ColumnName="strIDName">貪狼平</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY03PY05FX06</items>
+				<items ColumnName="strIDName">貪狼平祿</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY03PY05FX07</items>
+				<items ColumnName="strIDName">貪狼平權</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY03PY05FX09</items>
+				<items ColumnName="strIDName">貪狼平忌</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY03PY06</items>
+				<items ColumnName="strIDName">貪狼閑</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY03PY06FX06</items>
+				<items ColumnName="strIDName">貪狼閑祿</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY03PY06FX07</items>
+				<items ColumnName="strIDName">貪狼閑權</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY03PY06FX09</items>
+				<items ColumnName="strIDName">貪狼閑忌</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY03PY07</items>
+				<items ColumnName="strIDName">貪狼陷</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY03PY07FX06</items>
+				<items ColumnName="strIDName">貪狼陷祿</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY03PY07FX07</items>
+				<items ColumnName="strIDName">貪狼陷權</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY03PY07FX09</items>
+				<items ColumnName="strIDName">貪狼陷忌</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY04</items>
+				<items ColumnName="strIDName">巨門</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY04PY00</items>
+				<items ColumnName="strIDName">巨門　</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY04PY00FX06</items>
+				<items ColumnName="strIDName">巨門祿</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY04PY00FX07</items>
+				<items ColumnName="strIDName">巨門權</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY04PY00FX09</items>
+				<items ColumnName="strIDName">巨門忌</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY04PY01</items>
+				<items ColumnName="strIDName">巨門廟</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY04PY01FX06</items>
+				<items ColumnName="strIDName">巨門廟祿</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY04PY01FX07</items>
+				<items ColumnName="strIDName">巨門廟權</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY04PY01FX09</items>
+				<items ColumnName="strIDName">巨門廟忌</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY04PY02</items>
+				<items ColumnName="strIDName">巨門旺</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY04PY02FX06</items>
+				<items ColumnName="strIDName">巨門旺祿</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY04PY02FX07</items>
+				<items ColumnName="strIDName">巨門旺權</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY04PY02FX09</items>
+				<items ColumnName="strIDName">巨門旺忌</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY04PY03</items>
+				<items ColumnName="strIDName">巨門地</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY04PY03FX06</items>
+				<items ColumnName="strIDName">巨門地祿</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY04PY03FX07</items>
+				<items ColumnName="strIDName">巨門地權</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY04PY03FX09</items>
+				<items ColumnName="strIDName">巨門地忌</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY04PY04</items>
+				<items ColumnName="strIDName">巨門利</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY04PY04FX06</items>
+				<items ColumnName="strIDName">巨門利祿</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY04PY04FX07</items>
+				<items ColumnName="strIDName">巨門利權</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY04PY04FX09</items>
+				<items ColumnName="strIDName">巨門利忌</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY04PY05</items>
+				<items ColumnName="strIDName">巨門平</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY04PY05FX06</items>
+				<items ColumnName="strIDName">巨門平祿</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY04PY05FX07</items>
+				<items ColumnName="strIDName">巨門平權</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY04PY05FX09</items>
+				<items ColumnName="strIDName">巨門平忌</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY04PY06</items>
+				<items ColumnName="strIDName">巨門閑</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY04PY06FX06</items>
+				<items ColumnName="strIDName">巨門閑祿</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY04PY06FX07</items>
+				<items ColumnName="strIDName">巨門閑權</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY04PY06FX09</items>
+				<items ColumnName="strIDName">巨門閑忌</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY04PY07</items>
+				<items ColumnName="strIDName">巨門陷</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY04PY07FX06</items>
+				<items ColumnName="strIDName">巨門陷祿</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY04PY07FX07</items>
+				<items ColumnName="strIDName">巨門陷權</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY04PY07FX09</items>
+				<items ColumnName="strIDName">巨門陷忌</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY05</items>
+				<items ColumnName="strIDName">天相</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY05PY00</items>
+				<items ColumnName="strIDName">天相　</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY05PY01</items>
+				<items ColumnName="strIDName">天相廟</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY05PY02</items>
+				<items ColumnName="strIDName">天相旺</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY05PY03</items>
+				<items ColumnName="strIDName">天相地</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY05PY04</items>
+				<items ColumnName="strIDName">天相利</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY05PY05</items>
+				<items ColumnName="strIDName">天相平</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY05PY06</items>
+				<items ColumnName="strIDName">天相閑</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY05PY07</items>
+				<items ColumnName="strIDName">天相陷</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY06</items>
+				<items ColumnName="strIDName">天梁</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY06PY00</items>
+				<items ColumnName="strIDName">天梁　</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY06PY00FX06</items>
+				<items ColumnName="strIDName">天梁祿</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY06PY00FX07</items>
+				<items ColumnName="strIDName">天梁權</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY06PY00FX08</items>
+				<items ColumnName="strIDName">天梁科</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY06PY01</items>
+				<items ColumnName="strIDName">天梁廟</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY06PY01FX06</items>
+				<items ColumnName="strIDName">天梁廟祿</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY06PY01FX07</items>
+				<items ColumnName="strIDName">天梁廟權</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY06PY01FX08</items>
+				<items ColumnName="strIDName">天梁廟科</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY06PY02</items>
+				<items ColumnName="strIDName">天梁旺</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY06PY02FX06</items>
+				<items ColumnName="strIDName">天梁旺祿</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY06PY02FX07</items>
+				<items ColumnName="strIDName">天梁旺權</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY06PY02FX08</items>
+				<items ColumnName="strIDName">天梁旺科</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY06PY03</items>
+				<items ColumnName="strIDName">天梁地</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY06PY03FX06</items>
+				<items ColumnName="strIDName">天梁地祿</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY06PY03FX07</items>
+				<items ColumnName="strIDName">天梁地權</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY06PY03FX08</items>
+				<items ColumnName="strIDName">天梁地科</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY06PY04</items>
+				<items ColumnName="strIDName">天梁利</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY06PY04FX06</items>
+				<items ColumnName="strIDName">天梁利祿</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY06PY04FX07</items>
+				<items ColumnName="strIDName">天梁利權</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY06PY04FX08</items>
+				<items ColumnName="strIDName">天梁利科</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY06PY05</items>
+				<items ColumnName="strIDName">天梁平</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY06PY05FX06</items>
+				<items ColumnName="strIDName">天梁平祿</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY06PY05FX07</items>
+				<items ColumnName="strIDName">天梁平權</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY06PY05FX08</items>
+				<items ColumnName="strIDName">天梁平科</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY06PY06</items>
+				<items ColumnName="strIDName">天梁閑</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY06PY06FX06</items>
+				<items ColumnName="strIDName">天梁閑祿</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY06PY06FX07</items>
+				<items ColumnName="strIDName">天梁閑權</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY06PY06FX08</items>
+				<items ColumnName="strIDName">天梁閑科</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY06PY07</items>
+				<items ColumnName="strIDName">天梁陷</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY06PY07FX06</items>
+				<items ColumnName="strIDName">天梁陷祿</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY06PY07FX07</items>
+				<items ColumnName="strIDName">天梁陷權</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY06PY07FX08</items>
+				<items ColumnName="strIDName">天梁陷科</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY07</items>
+				<items ColumnName="strIDName">七殺</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY07PY00</items>
+				<items ColumnName="strIDName">七殺　</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY07PY01</items>
+				<items ColumnName="strIDName">七殺廟</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY07PY02</items>
+				<items ColumnName="strIDName">七殺旺</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY07PY03</items>
+				<items ColumnName="strIDName">七殺地</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY07PY04</items>
+				<items ColumnName="strIDName">七殺利</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY07PY05</items>
+				<items ColumnName="strIDName">七殺平</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY07PY06</items>
+				<items ColumnName="strIDName">七殺閑</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY07PY07</items>
+				<items ColumnName="strIDName">七殺陷</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY08</items>
+				<items ColumnName="strIDName">破軍</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY08PY00</items>
+				<items ColumnName="strIDName">破軍　</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY08PY00FX06</items>
+				<items ColumnName="strIDName">破軍祿</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY08PY00FX07</items>
+				<items ColumnName="strIDName">破軍權</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY08PY01</items>
+				<items ColumnName="strIDName">破軍廟</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY08PY01FX06</items>
+				<items ColumnName="strIDName">破軍廟祿</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY08PY01FX07</items>
+				<items ColumnName="strIDName">破軍廟權</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY08PY02</items>
+				<items ColumnName="strIDName">破軍旺</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY08PY02FX06</items>
+				<items ColumnName="strIDName">破軍旺祿</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY08PY02FX07</items>
+				<items ColumnName="strIDName">破軍旺權</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY08PY03</items>
+				<items ColumnName="strIDName">破軍地</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY08PY03FX06</items>
+				<items ColumnName="strIDName">破軍地祿</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY08PY03FX07</items>
+				<items ColumnName="strIDName">破軍地權</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY08PY04</items>
+				<items ColumnName="strIDName">破軍利</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY08PY04FX06</items>
+				<items ColumnName="strIDName">破軍利祿</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY08PY04FX07</items>
+				<items ColumnName="strIDName">破軍利權</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY08PY05</items>
+				<items ColumnName="strIDName">破軍平</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY08PY05FX06</items>
+				<items ColumnName="strIDName">破軍平祿</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY08PY05FX07</items>
+				<items ColumnName="strIDName">破軍平權</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY08PY06</items>
+				<items ColumnName="strIDName">破軍閑</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY08PY06FX06</items>
+				<items ColumnName="strIDName">破軍閑祿</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY08PY06FX07</items>
+				<items ColumnName="strIDName">破軍閑權</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY08PY07</items>
+				<items ColumnName="strIDName">破軍陷</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY08PY07FX06</items>
+				<items ColumnName="strIDName">破軍陷祿</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY08PY07FX07</items>
+				<items ColumnName="strIDName">破軍陷權</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY01</items>
+				<items ColumnName="strIDName">文昌</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY01PY00</items>
+				<items ColumnName="strIDName">文昌　</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY01PY00FX08</items>
+				<items ColumnName="strIDName">文昌科</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY01PY00FX09</items>
+				<items ColumnName="strIDName">文昌忌</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY01PY01</items>
+				<items ColumnName="strIDName">文昌廟</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY01PY01FX08</items>
+				<items ColumnName="strIDName">文昌廟科</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY01PY01FX09</items>
+				<items ColumnName="strIDName">文昌廟忌</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY01PY02</items>
+				<items ColumnName="strIDName">文昌旺</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY01PY02FX08</items>
+				<items ColumnName="strIDName">文昌旺科</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY01PY02FX09</items>
+				<items ColumnName="strIDName">文昌旺忌</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY01PY03</items>
+				<items ColumnName="strIDName">文昌地</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY01PY03FX08</items>
+				<items ColumnName="strIDName">文昌地科</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY01PY03FX09</items>
+				<items ColumnName="strIDName">文昌地忌</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY01PY04</items>
+				<items ColumnName="strIDName">文昌利</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY01PY04FX08</items>
+				<items ColumnName="strIDName">文昌利科</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY01PY04FX09</items>
+				<items ColumnName="strIDName">文昌利忌</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY01PY05</items>
+				<items ColumnName="strIDName">文昌平</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY01PY05FX08</items>
+				<items ColumnName="strIDName">文昌平科</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY01PY05FX09</items>
+				<items ColumnName="strIDName">文昌平忌</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY01PY06</items>
+				<items ColumnName="strIDName">文昌閑</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY01PY06FX08</items>
+				<items ColumnName="strIDName">文昌閑科</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY01PY06FX09</items>
+				<items ColumnName="strIDName">文昌閑忌</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY01PY07</items>
+				<items ColumnName="strIDName">文昌陷</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY01PY07FX08</items>
+				<items ColumnName="strIDName">文昌陷科</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY01PY07FX09</items>
+				<items ColumnName="strIDName">文昌陷忌</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY02</items>
+				<items ColumnName="strIDName">文曲</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY02PY00</items>
+				<items ColumnName="strIDName">文曲　</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY02PY00FX08</items>
+				<items ColumnName="strIDName">文曲科</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY02PY00FX09</items>
+				<items ColumnName="strIDName">文曲忌</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY02PY01</items>
+				<items ColumnName="strIDName">文曲廟</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY02PY01FX08</items>
+				<items ColumnName="strIDName">文曲廟科</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY02PY01FX09</items>
+				<items ColumnName="strIDName">文曲廟忌</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY02PY02</items>
+				<items ColumnName="strIDName">文曲旺</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY02PY02FX08</items>
+				<items ColumnName="strIDName">文曲旺科</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY02PY02FX09</items>
+				<items ColumnName="strIDName">文曲旺忌</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY02PY03</items>
+				<items ColumnName="strIDName">文曲地</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY02PY03FX08</items>
+				<items ColumnName="strIDName">文曲地科</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY02PY03FX09</items>
+				<items ColumnName="strIDName">文曲地忌</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY02PY04</items>
+				<items ColumnName="strIDName">文曲利</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY02PY04FX08</items>
+				<items ColumnName="strIDName">文曲利科</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY02PY04FX09</items>
+				<items ColumnName="strIDName">文曲利忌</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY02PY05</items>
+				<items ColumnName="strIDName">文曲平</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY02PY05FX08</items>
+				<items ColumnName="strIDName">文曲平科</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY02PY05FX09</items>
+				<items ColumnName="strIDName">文曲平忌</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY02PY06</items>
+				<items ColumnName="strIDName">文曲閑</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY02PY06FX08</items>
+				<items ColumnName="strIDName">文曲閑科</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY02PY06FX09</items>
+				<items ColumnName="strIDName">文曲閑忌</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY02PY07</items>
+				<items ColumnName="strIDName">文曲陷</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY02PY07FX08</items>
+				<items ColumnName="strIDName">文曲陷科</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY02PY07FX09</items>
+				<items ColumnName="strIDName">文曲陷忌</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03</items>
+				<items ColumnName="strIDName">火星</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03PY00</items>
+				<items ColumnName="strIDName">火星　</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03PY01</items>
+				<items ColumnName="strIDName">火星廟</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03PY02</items>
+				<items ColumnName="strIDName">火星旺</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03PY03</items>
+				<items ColumnName="strIDName">火星地</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03PY04</items>
+				<items ColumnName="strIDName">火星利</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03PY05</items>
+				<items ColumnName="strIDName">火星平</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03PY06</items>
+				<items ColumnName="strIDName">火星閑</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03PY07</items>
+				<items ColumnName="strIDName">火星陷</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04</items>
+				<items ColumnName="strIDName">鈴星</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04PY00</items>
+				<items ColumnName="strIDName">鈴星　</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04PY01</items>
+				<items ColumnName="strIDName">鈴星廟</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04PY02</items>
+				<items ColumnName="strIDName">鈴星旺</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04PY03</items>
+				<items ColumnName="strIDName">鈴星地</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04PY04</items>
+				<items ColumnName="strIDName">鈴星利</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04PY05</items>
+				<items ColumnName="strIDName">鈴星平</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04PY06</items>
+				<items ColumnName="strIDName">鈴星閑</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04PY07</items>
+				<items ColumnName="strIDName">鈴星陷</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY05</items>
+				<items ColumnName="strIDName">地劫</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY05PY00</items>
+				<items ColumnName="strIDName">地劫　</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY05PY01</items>
+				<items ColumnName="strIDName">地劫廟</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY05PY02</items>
+				<items ColumnName="strIDName">地劫旺</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY05PY03</items>
+				<items ColumnName="strIDName">地劫地</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY05PY04</items>
+				<items ColumnName="strIDName">地劫利</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY05PY05</items>
+				<items ColumnName="strIDName">地劫平</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY05PY06</items>
+				<items ColumnName="strIDName">地劫閑</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY05PY07</items>
+				<items ColumnName="strIDName">地劫陷</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY06</items>
+				<items ColumnName="strIDName">天空</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY06PY00</items>
+				<items ColumnName="strIDName">天空　</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY06PY01</items>
+				<items ColumnName="strIDName">天空廟</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY06PY02</items>
+				<items ColumnName="strIDName">天空旺</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY06PY03</items>
+				<items ColumnName="strIDName">天空地</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY06PY04</items>
+				<items ColumnName="strIDName">天空利</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY06PY05</items>
+				<items ColumnName="strIDName">天空平</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY06PY06</items>
+				<items ColumnName="strIDName">天空閑</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY06PY07</items>
+				<items ColumnName="strIDName">天空陷</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY07</items>
+				<items ColumnName="strIDName">台輔</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY07PY00</items>
+				<items ColumnName="strIDName">台輔　</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY07PY01</items>
+				<items ColumnName="strIDName">台輔廟</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY07PY02</items>
+				<items ColumnName="strIDName">台輔旺</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY07PY03</items>
+				<items ColumnName="strIDName">台輔地</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY07PY04</items>
+				<items ColumnName="strIDName">台輔利</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY07PY05</items>
+				<items ColumnName="strIDName">台輔平</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY07PY06</items>
+				<items ColumnName="strIDName">台輔閑</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY07PY07</items>
+				<items ColumnName="strIDName">台輔陷</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY08</items>
+				<items ColumnName="strIDName">封誥</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY08PY00</items>
+				<items ColumnName="strIDName">封誥　</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY08PY01</items>
+				<items ColumnName="strIDName">封誥廟</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY08PY02</items>
+				<items ColumnName="strIDName">封誥旺</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY08PY03</items>
+				<items ColumnName="strIDName">封誥地</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY08PY04</items>
+				<items ColumnName="strIDName">封誥利</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY08PY05</items>
+				<items ColumnName="strIDName">封誥平</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY08PY06</items>
+				<items ColumnName="strIDName">封誥閑</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY08PY07</items>
+				<items ColumnName="strIDName">封誥陷</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM01</items>
+				<items ColumnName="strIDName">左輔</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM01PY00</items>
+				<items ColumnName="strIDName">左輔　</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM01PY00FX08</items>
+				<items ColumnName="strIDName">左輔科</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM01PY01</items>
+				<items ColumnName="strIDName">左輔廟</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM01PY01FX08</items>
+				<items ColumnName="strIDName">左輔廟科</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM01PY02</items>
+				<items ColumnName="strIDName">左輔旺</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM01PY02FX08</items>
+				<items ColumnName="strIDName">左輔旺科</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM01PY03</items>
+				<items ColumnName="strIDName">左輔地</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM01PY03FX08</items>
+				<items ColumnName="strIDName">左輔地科</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM01PY04</items>
+				<items ColumnName="strIDName">左輔利</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM01PY04FX08</items>
+				<items ColumnName="strIDName">左輔利科</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM01PY05</items>
+				<items ColumnName="strIDName">左輔平</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM01PY05FX08</items>
+				<items ColumnName="strIDName">左輔平科</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM01PY06</items>
+				<items ColumnName="strIDName">左輔閑</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM01PY06FX08</items>
+				<items ColumnName="strIDName">左輔閑科</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM01PY07</items>
+				<items ColumnName="strIDName">左輔陷</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM01PY07FX08</items>
+				<items ColumnName="strIDName">左輔陷科</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM02</items>
+				<items ColumnName="strIDName">右弼</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM02PY00</items>
+				<items ColumnName="strIDName">右弼　</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM02PY00FX08</items>
+				<items ColumnName="strIDName">右弼科</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM02PY01</items>
+				<items ColumnName="strIDName">右弼廟</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM02PY01FX08</items>
+				<items ColumnName="strIDName">右弼廟科</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM02PY02</items>
+				<items ColumnName="strIDName">右弼旺</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM02PY02FX08</items>
+				<items ColumnName="strIDName">右弼旺科</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM02PY03</items>
+				<items ColumnName="strIDName">右弼地</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM02PY03FX08</items>
+				<items ColumnName="strIDName">右弼地科</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM02PY04</items>
+				<items ColumnName="strIDName">右弼利</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM02PY04FX08</items>
+				<items ColumnName="strIDName">右弼利科</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM02PY05</items>
+				<items ColumnName="strIDName">右弼平</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM02PY05FX08</items>
+				<items ColumnName="strIDName">右弼平科</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM02PY06</items>
+				<items ColumnName="strIDName">右弼閑</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM02PY06FX08</items>
+				<items ColumnName="strIDName">右弼閑科</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM02PY07</items>
+				<items ColumnName="strIDName">右弼陷</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM02PY07FX08</items>
+				<items ColumnName="strIDName">右弼陷科</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM03</items>
+				<items ColumnName="strIDName">天刑</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM03PY00</items>
+				<items ColumnName="strIDName">天刑　</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM03PY01</items>
+				<items ColumnName="strIDName">天刑廟</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM03PY02</items>
+				<items ColumnName="strIDName">天刑旺</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM03PY03</items>
+				<items ColumnName="strIDName">天刑地</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM03PY04</items>
+				<items ColumnName="strIDName">天刑利</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM03PY05</items>
+				<items ColumnName="strIDName">天刑平</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM03PY06</items>
+				<items ColumnName="strIDName">天刑閑</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM03PY07</items>
+				<items ColumnName="strIDName">天刑陷</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM04</items>
+				<items ColumnName="strIDName">天姚</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM04PY00</items>
+				<items ColumnName="strIDName">天姚　</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM04PY01</items>
+				<items ColumnName="strIDName">天姚廟</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM04PY02</items>
+				<items ColumnName="strIDName">天姚旺</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM04PY03</items>
+				<items ColumnName="strIDName">天姚地</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM04PY04</items>
+				<items ColumnName="strIDName">天姚利</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM04PY05</items>
+				<items ColumnName="strIDName">天姚平</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM04PY06</items>
+				<items ColumnName="strIDName">天姚閑</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM04PY07</items>
+				<items ColumnName="strIDName">天姚陷</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM05</items>
+				<items ColumnName="strIDName">天馬</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM05PY00</items>
+				<items ColumnName="strIDName">天馬　</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM05PY01</items>
+				<items ColumnName="strIDName">天馬廟</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM05PY02</items>
+				<items ColumnName="strIDName">天馬旺</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM05PY03</items>
+				<items ColumnName="strIDName">天馬地</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM05PY04</items>
+				<items ColumnName="strIDName">天馬利</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM05PY05</items>
+				<items ColumnName="strIDName">天馬平</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM05PY06</items>
+				<items ColumnName="strIDName">天馬閑</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM05PY07</items>
+				<items ColumnName="strIDName">天馬陷</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM06</items>
+				<items ColumnName="strIDName">解神</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM06PY00</items>
+				<items ColumnName="strIDName">解神　</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM06PY01</items>
+				<items ColumnName="strIDName">解神廟</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM06PY02</items>
+				<items ColumnName="strIDName">解神旺</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM06PY03</items>
+				<items ColumnName="strIDName">解神地</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM06PY04</items>
+				<items ColumnName="strIDName">解神利</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM06PY05</items>
+				<items ColumnName="strIDName">解神平</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM06PY06</items>
+				<items ColumnName="strIDName">解神閑</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM06PY07</items>
+				<items ColumnName="strIDName">解神陷</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM07</items>
+				<items ColumnName="strIDName">天巫</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM07PY00</items>
+				<items ColumnName="strIDName">天巫　</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM07PY01</items>
+				<items ColumnName="strIDName">天巫廟</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM07PY02</items>
+				<items ColumnName="strIDName">天巫旺</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM07PY03</items>
+				<items ColumnName="strIDName">天巫地</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM07PY04</items>
+				<items ColumnName="strIDName">天巫利</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM07PY05</items>
+				<items ColumnName="strIDName">天巫平</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM07PY06</items>
+				<items ColumnName="strIDName">天巫閑</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM07PY07</items>
+				<items ColumnName="strIDName">天巫陷</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM08</items>
+				<items ColumnName="strIDName">天月</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM08PY00</items>
+				<items ColumnName="strIDName">天月　</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM08PY01</items>
+				<items ColumnName="strIDName">天月廟</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM08PY02</items>
+				<items ColumnName="strIDName">天月旺</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM08PY03</items>
+				<items ColumnName="strIDName">天月地</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM08PY04</items>
+				<items ColumnName="strIDName">天月利</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM08PY05</items>
+				<items ColumnName="strIDName">天月平</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM08PY06</items>
+				<items ColumnName="strIDName">天月閑</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM08PY07</items>
+				<items ColumnName="strIDName">天月陷</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM09</items>
+				<items ColumnName="strIDName">陰煞</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM09PY00</items>
+				<items ColumnName="strIDName">陰煞　</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM09PY01</items>
+				<items ColumnName="strIDName">陰煞廟</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM09PY02</items>
+				<items ColumnName="strIDName">陰煞旺</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM09PY03</items>
+				<items ColumnName="strIDName">陰煞地</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM09PY04</items>
+				<items ColumnName="strIDName">陰煞利</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM09PY05</items>
+				<items ColumnName="strIDName">陰煞平</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM09PY06</items>
+				<items ColumnName="strIDName">陰煞閑</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM09PY07</items>
+				<items ColumnName="strIDName">陰煞陷</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">EC03</items>
+				<items ColumnName="strIDName">恩光</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">EC03PY00</items>
+				<items ColumnName="strIDName">恩光　</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">EC03PY01</items>
+				<items ColumnName="strIDName">恩光廟</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">EC03PY02</items>
+				<items ColumnName="strIDName">恩光旺</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">EC03PY03</items>
+				<items ColumnName="strIDName">恩光地</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">EC03PY04</items>
+				<items ColumnName="strIDName">恩光利</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">EC03PY05</items>
+				<items ColumnName="strIDName">恩光平</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">EC03PY06</items>
+				<items ColumnName="strIDName">恩光閑</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">EC03PY07</items>
+				<items ColumnName="strIDName">恩光陷</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">EC04</items>
+				<items ColumnName="strIDName">天貴</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">EC04PY00</items>
+				<items ColumnName="strIDName">天貴　</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">EC04PY01</items>
+				<items ColumnName="strIDName">天貴廟</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">EC04PY02</items>
+				<items ColumnName="strIDName">天貴旺</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">EC04PY03</items>
+				<items ColumnName="strIDName">天貴地</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">EC04PY04</items>
+				<items ColumnName="strIDName">天貴利</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">EC04PY05</items>
+				<items ColumnName="strIDName">天貴平</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">EC04PY06</items>
+				<items ColumnName="strIDName">天貴閑</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">EC04PY07</items>
+				<items ColumnName="strIDName">天貴陷</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">EC01</items>
+				<items ColumnName="strIDName">三台</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">EC01PY00</items>
+				<items ColumnName="strIDName">三台　</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">EC01PY01</items>
+				<items ColumnName="strIDName">三台廟</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">EC01PY02</items>
+				<items ColumnName="strIDName">三台旺</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">EC01PY03</items>
+				<items ColumnName="strIDName">三台地</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">EC01PY04</items>
+				<items ColumnName="strIDName">三台利</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">EC01PY05</items>
+				<items ColumnName="strIDName">三台平</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">EC01PY06</items>
+				<items ColumnName="strIDName">三台閑</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">EC01PY07</items>
+				<items ColumnName="strIDName">三台陷</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">EC02</items>
+				<items ColumnName="strIDName">八座</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">EC02PY00</items>
+				<items ColumnName="strIDName">八座　</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">EC02PY01</items>
+				<items ColumnName="strIDName">八座廟</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">EC02PY02</items>
+				<items ColumnName="strIDName">八座旺</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">EC02PY03</items>
+				<items ColumnName="strIDName">八座地</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">EC02PY04</items>
+				<items ColumnName="strIDName">八座利</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">EC02PY05</items>
+				<items ColumnName="strIDName">八座平</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">EC02PY06</items>
+				<items ColumnName="strIDName">八座閑</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">EC02PY07</items>
+				<items ColumnName="strIDName">八座陷</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">Female-</items>
+				<items ColumnName="strIDName">陰女</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">Female+</items>
+				<items ColumnName="strIDName">陽女</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX01</items>
+				<items ColumnName="strIDName">祿存</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX01PY00</items>
+				<items ColumnName="strIDName">祿存　</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX01PY01</items>
+				<items ColumnName="strIDName">祿存廟</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX01PY02</items>
+				<items ColumnName="strIDName">祿存旺</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX01PY03</items>
+				<items ColumnName="strIDName">祿存地</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX01PY04</items>
+				<items ColumnName="strIDName">祿存利</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX01PY05</items>
+				<items ColumnName="strIDName">祿存平</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX01PY06</items>
+				<items ColumnName="strIDName">祿存閑</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX01PY07</items>
+				<items ColumnName="strIDName">祿存陷</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX02</items>
+				<items ColumnName="strIDName">羊刃</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX02PY00</items>
+				<items ColumnName="strIDName">羊刃　</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX02PY01</items>
+				<items ColumnName="strIDName">羊刃廟</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX02PY02</items>
+				<items ColumnName="strIDName">羊刃旺</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX02PY03</items>
+				<items ColumnName="strIDName">羊刃地</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX02PY04</items>
+				<items ColumnName="strIDName">羊刃利</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX02PY05</items>
+				<items ColumnName="strIDName">羊刃平</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX02PY06</items>
+				<items ColumnName="strIDName">羊刃閑</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX02PY07</items>
+				<items ColumnName="strIDName">羊刃陷</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX03</items>
+				<items ColumnName="strIDName">陀羅</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX03PY00</items>
+				<items ColumnName="strIDName">陀羅　</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX03PY01</items>
+				<items ColumnName="strIDName">陀羅廟</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX03PY02</items>
+				<items ColumnName="strIDName">陀羅旺</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX03PY03</items>
+				<items ColumnName="strIDName">陀羅地</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX03PY04</items>
+				<items ColumnName="strIDName">陀羅利</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX03PY05</items>
+				<items ColumnName="strIDName">陀羅平</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX03PY06</items>
+				<items ColumnName="strIDName">陀羅閑</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX03PY07</items>
+				<items ColumnName="strIDName">陀羅陷</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX04</items>
+				<items ColumnName="strIDName">天魁</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX04PY00</items>
+				<items ColumnName="strIDName">天魁　</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX04PY01</items>
+				<items ColumnName="strIDName">天魁廟</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX04PY02</items>
+				<items ColumnName="strIDName">天魁旺</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX04PY03</items>
+				<items ColumnName="strIDName">天魁地</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX04PY04</items>
+				<items ColumnName="strIDName">天魁利</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX04PY05</items>
+				<items ColumnName="strIDName">天魁平</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX04PY06</items>
+				<items ColumnName="strIDName">天魁閑</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX04PY07</items>
+				<items ColumnName="strIDName">天魁陷</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX05</items>
+				<items ColumnName="strIDName">天鉞</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX05PY00</items>
+				<items ColumnName="strIDName">天鉞　</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX05PY01</items>
+				<items ColumnName="strIDName">天鉞廟</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX05PY02</items>
+				<items ColumnName="strIDName">天鉞旺</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX05PY03</items>
+				<items ColumnName="strIDName">天鉞地</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX05PY04</items>
+				<items ColumnName="strIDName">天鉞利</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX05PY05</items>
+				<items ColumnName="strIDName">天鉞平</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX05PY06</items>
+				<items ColumnName="strIDName">天鉞閑</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX05PY07</items>
+				<items ColumnName="strIDName">天鉞陷</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX06</items>
+				<items ColumnName="strIDName">祿</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX06PY00</items>
+				<items ColumnName="strIDName">化祿　</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX06PY01</items>
+				<items ColumnName="strIDName">化祿廟</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX06PY02</items>
+				<items ColumnName="strIDName">化祿旺</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX06PY03</items>
+				<items ColumnName="strIDName">化祿地</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX06PY04</items>
+				<items ColumnName="strIDName">化祿利</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX06PY05</items>
+				<items ColumnName="strIDName">化祿平</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX06PY06</items>
+				<items ColumnName="strIDName">化祿閑</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX06PY07</items>
+				<items ColumnName="strIDName">化祿陷</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX07</items>
+				<items ColumnName="strIDName">權</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX07PY00</items>
+				<items ColumnName="strIDName">化權　</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX07PY01</items>
+				<items ColumnName="strIDName">化權廟</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX07PY02</items>
+				<items ColumnName="strIDName">化權旺</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX07PY03</items>
+				<items ColumnName="strIDName">化權地</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX07PY04</items>
+				<items ColumnName="strIDName">化權利</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX07PY05</items>
+				<items ColumnName="strIDName">化權平</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX07PY06</items>
+				<items ColumnName="strIDName">化權閑</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX07PY07</items>
+				<items ColumnName="strIDName">化權陷</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX08</items>
+				<items ColumnName="strIDName">科</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX08PY00</items>
+				<items ColumnName="strIDName">化科　</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX08PY01</items>
+				<items ColumnName="strIDName">化科廟</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX08PY02</items>
+				<items ColumnName="strIDName">化科旺</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX08PY03</items>
+				<items ColumnName="strIDName">化科地</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX08PY04</items>
+				<items ColumnName="strIDName">化科利</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX08PY05</items>
+				<items ColumnName="strIDName">化科平</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX08PY06</items>
+				<items ColumnName="strIDName">化科閑</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX08PY07</items>
+				<items ColumnName="strIDName">化科陷</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX09</items>
+				<items ColumnName="strIDName">忌</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX09PY00</items>
+				<items ColumnName="strIDName">化忌　</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX09PY01</items>
+				<items ColumnName="strIDName">化忌廟</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX09PY02</items>
+				<items ColumnName="strIDName">化忌旺</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX09PY03</items>
+				<items ColumnName="strIDName">化忌地</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX09PY04</items>
+				<items ColumnName="strIDName">化忌利</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX09PY05</items>
+				<items ColumnName="strIDName">化忌平</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX09PY06</items>
+				<items ColumnName="strIDName">化忌閑</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX09PY07</items>
+				<items ColumnName="strIDName">化忌陷</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX10</items>
+				<items ColumnName="strIDName">天官</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX10PY00</items>
+				<items ColumnName="strIDName">天官　</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX10PY01</items>
+				<items ColumnName="strIDName">天官廟</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX10PY02</items>
+				<items ColumnName="strIDName">天官旺</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX10PY03</items>
+				<items ColumnName="strIDName">天官地</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX10PY04</items>
+				<items ColumnName="strIDName">天官利</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX10PY05</items>
+				<items ColumnName="strIDName">天官平</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX10PY06</items>
+				<items ColumnName="strIDName">天官閑</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX10PY07</items>
+				<items ColumnName="strIDName">天官陷</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX11</items>
+				<items ColumnName="strIDName">天福</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX11PY00</items>
+				<items ColumnName="strIDName">天福　</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX11PY01</items>
+				<items ColumnName="strIDName">天福廟</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX11PY02</items>
+				<items ColumnName="strIDName">天福旺</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX11PY03</items>
+				<items ColumnName="strIDName">天福地</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX11PY04</items>
+				<items ColumnName="strIDName">天福利</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX11PY05</items>
+				<items ColumnName="strIDName">天福平</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX11PY06</items>
+				<items ColumnName="strIDName">天福閑</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX11PY07</items>
+				<items ColumnName="strIDName">天福陷</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY01</items>
+				<items ColumnName="strIDName">天哭</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY01PY00</items>
+				<items ColumnName="strIDName">天哭　</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY01PY01</items>
+				<items ColumnName="strIDName">天哭廟</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY01PY02</items>
+				<items ColumnName="strIDName">天哭旺</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY01PY03</items>
+				<items ColumnName="strIDName">天哭地</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY01PY04</items>
+				<items ColumnName="strIDName">天哭利</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY01PY05</items>
+				<items ColumnName="strIDName">天哭平</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY01PY06</items>
+				<items ColumnName="strIDName">天哭閑</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY01PY07</items>
+				<items ColumnName="strIDName">天哭陷</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY02</items>
+				<items ColumnName="strIDName">天虛</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY02PY00</items>
+				<items ColumnName="strIDName">天虛　</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY02PY01</items>
+				<items ColumnName="strIDName">天虛廟</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY02PY02</items>
+				<items ColumnName="strIDName">天虛旺</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY02PY03</items>
+				<items ColumnName="strIDName">天虛地</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY02PY04</items>
+				<items ColumnName="strIDName">天虛利</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY02PY05</items>
+				<items ColumnName="strIDName">天虛平</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY02PY06</items>
+				<items ColumnName="strIDName">天虛閑</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY02PY07</items>
+				<items ColumnName="strIDName">天虛陷</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY03</items>
+				<items ColumnName="strIDName">龍池</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY03PY00</items>
+				<items ColumnName="strIDName">龍池　</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY03PY01</items>
+				<items ColumnName="strIDName">龍池廟</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY03PY02</items>
+				<items ColumnName="strIDName">龍池旺</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY03PY03</items>
+				<items ColumnName="strIDName">龍池地</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY03PY04</items>
+				<items ColumnName="strIDName">龍池利</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY03PY05</items>
+				<items ColumnName="strIDName">龍池平</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY03PY06</items>
+				<items ColumnName="strIDName">龍池閑</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY03PY07</items>
+				<items ColumnName="strIDName">龍池陷</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY04</items>
+				<items ColumnName="strIDName">鳳閣</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY04PY00</items>
+				<items ColumnName="strIDName">鳳閣　</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY04PY01</items>
+				<items ColumnName="strIDName">鳳閣廟</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY04PY02</items>
+				<items ColumnName="strIDName">鳳閣旺</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY04PY03</items>
+				<items ColumnName="strIDName">鳳閣地</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY04PY04</items>
+				<items ColumnName="strIDName">鳳閣利</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY04PY05</items>
+				<items ColumnName="strIDName">鳳閣平</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY04PY06</items>
+				<items ColumnName="strIDName">鳳閣閑</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY04PY07</items>
+				<items ColumnName="strIDName">鳳閣陷</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY05</items>
+				<items ColumnName="strIDName">紅鸞</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY05PY00</items>
+				<items ColumnName="strIDName">紅鸞　</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY05PY01</items>
+				<items ColumnName="strIDName">紅鸞廟</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY05PY02</items>
+				<items ColumnName="strIDName">紅鸞旺</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY05PY03</items>
+				<items ColumnName="strIDName">紅鸞地</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY05PY04</items>
+				<items ColumnName="strIDName">紅鸞利</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY05PY05</items>
+				<items ColumnName="strIDName">紅鸞平</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY05PY06</items>
+				<items ColumnName="strIDName">紅鸞閑</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY05PY07</items>
+				<items ColumnName="strIDName">紅鸞陷</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY06</items>
+				<items ColumnName="strIDName">天喜</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY06PY00</items>
+				<items ColumnName="strIDName">天喜　</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY06PY01</items>
+				<items ColumnName="strIDName">天喜廟</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY06PY02</items>
+				<items ColumnName="strIDName">天喜旺</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY06PY03</items>
+				<items ColumnName="strIDName">天喜地</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY06PY04</items>
+				<items ColumnName="strIDName">天喜利</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY06PY05</items>
+				<items ColumnName="strIDName">天喜平</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY06PY06</items>
+				<items ColumnName="strIDName">天喜閑</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY06PY07</items>
+				<items ColumnName="strIDName">天喜陷</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY07</items>
+				<items ColumnName="strIDName">孤辰</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY07PY00</items>
+				<items ColumnName="strIDName">孤辰　</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY07PY01</items>
+				<items ColumnName="strIDName">孤辰廟</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY07PY02</items>
+				<items ColumnName="strIDName">孤辰旺</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY07PY03</items>
+				<items ColumnName="strIDName">孤辰地</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY07PY04</items>
+				<items ColumnName="strIDName">孤辰利</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY07PY05</items>
+				<items ColumnName="strIDName">孤辰平</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY07PY06</items>
+				<items ColumnName="strIDName">孤辰閑</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY07PY07</items>
+				<items ColumnName="strIDName">孤辰陷</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY08</items>
+				<items ColumnName="strIDName">寡宿</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY08PY00</items>
+				<items ColumnName="strIDName">寡宿　</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY08PY01</items>
+				<items ColumnName="strIDName">寡宿廟</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY08PY02</items>
+				<items ColumnName="strIDName">寡宿旺</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY08PY03</items>
+				<items ColumnName="strIDName">寡宿地</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY08PY04</items>
+				<items ColumnName="strIDName">寡宿利</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY08PY05</items>
+				<items ColumnName="strIDName">寡宿平</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY08PY06</items>
+				<items ColumnName="strIDName">寡宿閑</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY08PY07</items>
+				<items ColumnName="strIDName">寡宿陷</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY09</items>
+				<items ColumnName="strIDName">蜚廉</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY09PY00</items>
+				<items ColumnName="strIDName">蜚廉　</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY09PY01</items>
+				<items ColumnName="strIDName">蜚廉廟</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY09PY02</items>
+				<items ColumnName="strIDName">蜚廉旺</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY09PY03</items>
+				<items ColumnName="strIDName">蜚廉地</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY09PY04</items>
+				<items ColumnName="strIDName">蜚廉利</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY09PY05</items>
+				<items ColumnName="strIDName">蜚廉平</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY09PY06</items>
+				<items ColumnName="strIDName">蜚廉閑</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY09PY07</items>
+				<items ColumnName="strIDName">蜚廉陷</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY10</items>
+				<items ColumnName="strIDName">破碎</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY10PY00</items>
+				<items ColumnName="strIDName">破碎　</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY10PY01</items>
+				<items ColumnName="strIDName">破碎廟</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY10PY02</items>
+				<items ColumnName="strIDName">破碎旺</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY10PY03</items>
+				<items ColumnName="strIDName">破碎地</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY10PY04</items>
+				<items ColumnName="strIDName">破碎利</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY10PY05</items>
+				<items ColumnName="strIDName">破碎平</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY10PY06</items>
+				<items ColumnName="strIDName">破碎閑</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY10PY07</items>
+				<items ColumnName="strIDName">破碎陷</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY11</items>
+				<items ColumnName="strIDName">天才</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY11PY00</items>
+				<items ColumnName="strIDName">天才　</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY11PY01</items>
+				<items ColumnName="strIDName">天才廟</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY11PY02</items>
+				<items ColumnName="strIDName">天才旺</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY11PY03</items>
+				<items ColumnName="strIDName">天才地</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY11PY04</items>
+				<items ColumnName="strIDName">天才利</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY11PY05</items>
+				<items ColumnName="strIDName">天才平</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY11PY06</items>
+				<items ColumnName="strIDName">天才閑</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY11PY07</items>
+				<items ColumnName="strIDName">天才陷</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY12</items>
+				<items ColumnName="strIDName">天壽</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY12PY00</items>
+				<items ColumnName="strIDName">天壽　</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY12PY01</items>
+				<items ColumnName="strIDName">天壽廟</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY12PY02</items>
+				<items ColumnName="strIDName">天壽旺</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY12PY03</items>
+				<items ColumnName="strIDName">天壽地</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY12PY04</items>
+				<items ColumnName="strIDName">天壽利</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY12PY05</items>
+				<items ColumnName="strIDName">天壽平</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY12PY06</items>
+				<items ColumnName="strIDName">天壽閑</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY12PY07</items>
+				<items ColumnName="strIDName">天壽陷</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">GX01</items>
+				<items ColumnName="strIDName">(正印)</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">GX02</items>
+				<items ColumnName="strIDName">(偏印)</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">GX03</items>
+				<items ColumnName="strIDName">(正官)</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">GX04</items>
+				<items ColumnName="strIDName">(七殺)</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">GX05</items>
+				<items ColumnName="strIDName">(比肩)</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">GX06</items>
+				<items ColumnName="strIDName">(劫財)</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">GX07</items>
+				<items ColumnName="strIDName">(正財)</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">GX08</items>
+				<items ColumnName="strIDName">(偏財)</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">GX09</items>
+				<items ColumnName="strIDName">(食神)</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">GX10</items>
+				<items ColumnName="strIDName">(傷官)</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">HS01</items>
+				<items ColumnName="strIDName">角</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">HS02</items>
+				<items ColumnName="strIDName">亢</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">HS03</items>
+				<items ColumnName="strIDName">氐</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">HS04</items>
+				<items ColumnName="strIDName">房</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">HS05</items>
+				<items ColumnName="strIDName">心</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">HS06</items>
+				<items ColumnName="strIDName">尾</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">HS07</items>
+				<items ColumnName="strIDName">箕</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">HS08</items>
+				<items ColumnName="strIDName">斗</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">HS09</items>
+				<items ColumnName="strIDName">牛</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">HS10</items>
+				<items ColumnName="strIDName">女</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">HS11</items>
+				<items ColumnName="strIDName">虛</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">HS12</items>
+				<items ColumnName="strIDName">危</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">HS13</items>
+				<items ColumnName="strIDName">室</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">HS14</items>
+				<items ColumnName="strIDName">壁</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">HS15</items>
+				<items ColumnName="strIDName">奎</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">HS16</items>
+				<items ColumnName="strIDName">婁</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">HS17</items>
+				<items ColumnName="strIDName">胃</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">HS18</items>
+				<items ColumnName="strIDName">昂</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">HS19</items>
+				<items ColumnName="strIDName">畢</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">HS20</items>
+				<items ColumnName="strIDName">觜</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">HS21</items>
+				<items ColumnName="strIDName">參</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">HS22</items>
+				<items ColumnName="strIDName">井</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">HS23</items>
+				<items ColumnName="strIDName">鬼</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">HS24</items>
+				<items ColumnName="strIDName">柳</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">HS25</items>
+				<items ColumnName="strIDName">星</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">HS26</items>
+				<items ColumnName="strIDName">張</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">HS27</items>
+				<items ColumnName="strIDName">翼</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">HS28</items>
+				<items ColumnName="strIDName">軫</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">IS01</items>
+				<items ColumnName="strIDName">建</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">IS02</items>
+				<items ColumnName="strIDName">除</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">IS03</items>
+				<items ColumnName="strIDName">滿</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">IS04</items>
+				<items ColumnName="strIDName">平</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">IS05</items>
+				<items ColumnName="strIDName">定</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">IS06</items>
+				<items ColumnName="strIDName">執</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">IS07</items>
+				<items ColumnName="strIDName">破</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">IS08</items>
+				<items ColumnName="strIDName">危</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">IS09</items>
+				<items ColumnName="strIDName">成</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">IS10</items>
+				<items ColumnName="strIDName">收</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">IS11</items>
+				<items ColumnName="strIDName">開</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">IS12</items>
+				<items ColumnName="strIDName">閉</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">JE01</items>
+				<items ColumnName="strIDName">木</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">JE02</items>
+				<items ColumnName="strIDName">火</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">JE03</items>
+				<items ColumnName="strIDName">土</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">JE04</items>
+				<items ColumnName="strIDName">金</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">JE05</items>
+				<items ColumnName="strIDName">水</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">KF01</items>
+				<items ColumnName="strIDName">1白</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">KF02</items>
+				<items ColumnName="strIDName">2黑</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">KF03</items>
+				<items ColumnName="strIDName">3碧</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">KF04</items>
+				<items ColumnName="strIDName">4綠</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">KF05</items>
+				<items ColumnName="strIDName">5黃</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">KF06</items>
+				<items ColumnName="strIDName">6白</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">KF07</items>
+				<items ColumnName="strIDName">7赤</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">KF08</items>
+				<items ColumnName="strIDName">8白</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">KF09</items>
+				<items ColumnName="strIDName">9紫</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">LN01</items>
+				<items ColumnName="strIDName">本命宮</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">LN02</items>
+				<items ColumnName="strIDName">父母宮</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">LN03</items>
+				<items ColumnName="strIDName">福德宮</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">LN04</items>
+				<items ColumnName="strIDName">田宅宮</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">LN05</items>
+				<items ColumnName="strIDName">官錄宮</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">LN06</items>
+				<items ColumnName="strIDName">奴僕宮</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">LN07</items>
+				<items ColumnName="strIDName">遷移宮</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">LN08</items>
+				<items ColumnName="strIDName">疾厄宮</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">LN09</items>
+				<items ColumnName="strIDName">財帛宮</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">LN10</items>
+				<items ColumnName="strIDName">子女宮</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">LN11</items>
+				<items ColumnName="strIDName">夫妻宮</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">LN12</items>
+				<items ColumnName="strIDName">兄弟宮</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">Male-</items>
+				<items ColumnName="strIDName">陰男</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">Male+</items>
+				<items ColumnName="strIDName">陽男</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">ME01</items>
+				<items ColumnName="strIDName">長生</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">ME02</items>
+				<items ColumnName="strIDName">沐浴</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">ME03</items>
+				<items ColumnName="strIDName">冠帶</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">ME04</items>
+				<items ColumnName="strIDName">臨官</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">ME05</items>
+				<items ColumnName="strIDName">帝旺</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">ME06</items>
+				<items ColumnName="strIDName">衰</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">ME07</items>
+				<items ColumnName="strIDName">病</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">ME08</items>
+				<items ColumnName="strIDName">死</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">ME09</items>
+				<items ColumnName="strIDName">墓</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">ME10</items>
+				<items ColumnName="strIDName">絕</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">ME11</items>
+				<items ColumnName="strIDName">胎</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">ME12</items>
+				<items ColumnName="strIDName">養</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE02</items>
+				<items ColumnName="strIDName">水二局</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE03</items>
+				<items ColumnName="strIDName">木三局</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE04</items>
+				<items ColumnName="strIDName">金四局</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE05</items>
+				<items ColumnName="strIDName">土五局</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE06</items>
+				<items ColumnName="strIDName">火六局</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NF01</items>
+				<items ColumnName="strIDName">海中金</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NF02</items>
+				<items ColumnName="strIDName">爐中火</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NF03</items>
+				<items ColumnName="strIDName">大林木</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NF04</items>
+				<items ColumnName="strIDName">路旁土</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NF05</items>
+				<items ColumnName="strIDName">劍鋒金</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NF06</items>
+				<items ColumnName="strIDName">山頭火</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NF07</items>
+				<items ColumnName="strIDName">澗下水</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NF08</items>
+				<items ColumnName="strIDName">城頭土</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NF09</items>
+				<items ColumnName="strIDName">白蠟金</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NF10</items>
+				<items ColumnName="strIDName">楊柳木</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NF11</items>
+				<items ColumnName="strIDName">泉中水</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NF12</items>
+				<items ColumnName="strIDName">屋上土</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NF13</items>
+				<items ColumnName="strIDName">霹靂火</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NF14</items>
+				<items ColumnName="strIDName">松柏木</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NF15</items>
+				<items ColumnName="strIDName">長流水</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NF16</items>
+				<items ColumnName="strIDName">沙中金</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NF17</items>
+				<items ColumnName="strIDName">山下火</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NF18</items>
+				<items ColumnName="strIDName">平地木</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NF19</items>
+				<items ColumnName="strIDName">壁上土</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NF20</items>
+				<items ColumnName="strIDName">金箔金</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NF21</items>
+				<items ColumnName="strIDName">覆燈火</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NF22</items>
+				<items ColumnName="strIDName">天河水</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NF23</items>
+				<items ColumnName="strIDName">大澤土</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NF24</items>
+				<items ColumnName="strIDName">釵釧金</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NF25</items>
+				<items ColumnName="strIDName">桑拓木</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NF26</items>
+				<items ColumnName="strIDName">大溪水</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NF27</items>
+				<items ColumnName="strIDName">沙中土</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NF28</items>
+				<items ColumnName="strIDName">天上火</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NF29</items>
+				<items ColumnName="strIDName">石榴木</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NF30</items>
+				<items ColumnName="strIDName">大海水</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">OB01</items>
+				<items ColumnName="strIDName">博士</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">OB01PY00</items>
+				<items ColumnName="strIDName">博士　</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">OB01PY01</items>
+				<items ColumnName="strIDName">博士廟</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">OB01PY02</items>
+				<items ColumnName="strIDName">博士旺</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">OB01PY03</items>
+				<items ColumnName="strIDName">博士地</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">OB01PY04</items>
+				<items ColumnName="strIDName">博士利</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">OB01PY05</items>
+				<items ColumnName="strIDName">博士平</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">OB01PY06</items>
+				<items ColumnName="strIDName">博士閑</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">OB01PY07</items>
+				<items ColumnName="strIDName">博士陷</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">OB02</items>
+				<items ColumnName="strIDName">力士</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">OB02PY00</items>
+				<items ColumnName="strIDName">力士　</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">OB02PY01</items>
+				<items ColumnName="strIDName">力士廟</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">OB02PY02</items>
+				<items ColumnName="strIDName">力士旺</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">OB02PY03</items>
+				<items ColumnName="strIDName">力士地</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">OB02PY04</items>
+				<items ColumnName="strIDName">力士利</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">OB02PY05</items>
+				<items ColumnName="strIDName">力士平</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">OB02PY06</items>
+				<items ColumnName="strIDName">力士閑</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">OB02PY07</items>
+				<items ColumnName="strIDName">力士陷</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">OB03</items>
+				<items ColumnName="strIDName">青龍</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">OB03PY00</items>
+				<items ColumnName="strIDName">青龍　</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">OB03PY01</items>
+				<items ColumnName="strIDName">青龍廟</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">OB03PY02</items>
+				<items ColumnName="strIDName">青龍旺</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">OB03PY03</items>
+				<items ColumnName="strIDName">青龍地</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">OB03PY04</items>
+				<items ColumnName="strIDName">青龍利</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">OB03PY05</items>
+				<items ColumnName="strIDName">青龍平</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">OB03PY06</items>
+				<items ColumnName="strIDName">青龍閑</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">OB03PY07</items>
+				<items ColumnName="strIDName">青龍陷</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">OB04</items>
+				<items ColumnName="strIDName">小耗</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">OB04PY00</items>
+				<items ColumnName="strIDName">小耗　</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">OB04PY01</items>
+				<items ColumnName="strIDName">小耗廟</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">OB04PY02</items>
+				<items ColumnName="strIDName">小耗旺</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">OB04PY03</items>
+				<items ColumnName="strIDName">小耗地</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">OB04PY04</items>
+				<items ColumnName="strIDName">小耗利</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">OB04PY05</items>
+				<items ColumnName="strIDName">小耗平</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">OB04PY06</items>
+				<items ColumnName="strIDName">小耗閑</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">OB04PY07</items>
+				<items ColumnName="strIDName">小耗陷</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">OB05</items>
+				<items ColumnName="strIDName">將軍</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">OB05PY00</items>
+				<items ColumnName="strIDName">將軍　</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">OB05PY01</items>
+				<items ColumnName="strIDName">將軍廟</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">OB05PY02</items>
+				<items ColumnName="strIDName">將軍旺</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">OB05PY03</items>
+				<items ColumnName="strIDName">將軍地</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">OB05PY04</items>
+				<items ColumnName="strIDName">將軍利</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">OB05PY05</items>
+				<items ColumnName="strIDName">將軍平</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">OB05PY06</items>
+				<items ColumnName="strIDName">將軍閑</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">OB05PY07</items>
+				<items ColumnName="strIDName">將軍陷</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">OB06</items>
+				<items ColumnName="strIDName">奏書</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">OB06PY00</items>
+				<items ColumnName="strIDName">奏書　</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">OB06PY01</items>
+				<items ColumnName="strIDName">奏書廟</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">OB06PY02</items>
+				<items ColumnName="strIDName">奏書旺</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">OB06PY03</items>
+				<items ColumnName="strIDName">奏書地</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">OB06PY04</items>
+				<items ColumnName="strIDName">奏書利</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">OB06PY05</items>
+				<items ColumnName="strIDName">奏書平</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">OB06PY06</items>
+				<items ColumnName="strIDName">奏書閑</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">OB06PY07</items>
+				<items ColumnName="strIDName">奏書陷</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">OB07</items>
+				<items ColumnName="strIDName">飛廉</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">OB07PY00</items>
+				<items ColumnName="strIDName">飛廉　</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">OB07PY01</items>
+				<items ColumnName="strIDName">飛廉廟</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">OB07PY02</items>
+				<items ColumnName="strIDName">飛廉旺</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">OB07PY03</items>
+				<items ColumnName="strIDName">飛廉地</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">OB07PY04</items>
+				<items ColumnName="strIDName">飛廉利</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">OB07PY05</items>
+				<items ColumnName="strIDName">飛廉平</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">OB07PY06</items>
+				<items ColumnName="strIDName">飛廉閑</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">OB07PY07</items>
+				<items ColumnName="strIDName">飛廉陷</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">OB08</items>
+				<items ColumnName="strIDName">喜神</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">OB08PY00</items>
+				<items ColumnName="strIDName">喜神　</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">OB08PY01</items>
+				<items ColumnName="strIDName">喜神廟</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">OB08PY02</items>
+				<items ColumnName="strIDName">喜神旺</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">OB08PY03</items>
+				<items ColumnName="strIDName">喜神地</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">OB08PY04</items>
+				<items ColumnName="strIDName">喜神利</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">OB08PY05</items>
+				<items ColumnName="strIDName">喜神平</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">OB08PY06</items>
+				<items ColumnName="strIDName">喜神閑</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">OB08PY07</items>
+				<items ColumnName="strIDName">喜神陷</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">OB09</items>
+				<items ColumnName="strIDName">病符</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">OB09PY00</items>
+				<items ColumnName="strIDName">病符　</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">OB09PY01</items>
+				<items ColumnName="strIDName">病符廟</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">OB09PY02</items>
+				<items ColumnName="strIDName">病符旺</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">OB09PY03</items>
+				<items ColumnName="strIDName">病符地</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">OB09PY04</items>
+				<items ColumnName="strIDName">病符利</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">OB09PY05</items>
+				<items ColumnName="strIDName">病符平</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">OB09PY06</items>
+				<items ColumnName="strIDName">病符閑</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">OB09PY07</items>
+				<items ColumnName="strIDName">病符陷</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">OB10</items>
+				<items ColumnName="strIDName">大耗</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">OB10PY00</items>
+				<items ColumnName="strIDName">大耗　</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">OB10PY01</items>
+				<items ColumnName="strIDName">大耗廟</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">OB10PY02</items>
+				<items ColumnName="strIDName">大耗旺</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">OB10PY03</items>
+				<items ColumnName="strIDName">大耗地</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">OB10PY04</items>
+				<items ColumnName="strIDName">大耗利</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">OB10PY05</items>
+				<items ColumnName="strIDName">大耗平</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">OB10PY06</items>
+				<items ColumnName="strIDName">大耗閑</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">OB10PY07</items>
+				<items ColumnName="strIDName">大耗陷</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">OB11</items>
+				<items ColumnName="strIDName">伏兵</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">OB11PY00</items>
+				<items ColumnName="strIDName">伏兵　</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">OB11PY01</items>
+				<items ColumnName="strIDName">伏兵廟</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">OB11PY02</items>
+				<items ColumnName="strIDName">伏兵旺</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">OB11PY03</items>
+				<items ColumnName="strIDName">伏兵地</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">OB11PY04</items>
+				<items ColumnName="strIDName">伏兵利</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">OB11PY05</items>
+				<items ColumnName="strIDName">伏兵平</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">OB11PY06</items>
+				<items ColumnName="strIDName">伏兵閑</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">OB11PY07</items>
+				<items ColumnName="strIDName">伏兵陷</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">OB12</items>
+				<items ColumnName="strIDName">官府</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">OB12PY00</items>
+				<items ColumnName="strIDName">官府　</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">OB12PY01</items>
+				<items ColumnName="strIDName">官府廟</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">OB12PY02</items>
+				<items ColumnName="strIDName">官府旺</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">OB12PY03</items>
+				<items ColumnName="strIDName">官府地</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">OB12PY04</items>
+				<items ColumnName="strIDName">官府利</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">OB12PY05</items>
+				<items ColumnName="strIDName">官府平</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">OB12PY06</items>
+				<items ColumnName="strIDName">官府閑</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">OB12PY07</items>
+				<items ColumnName="strIDName">官府陷</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">PG01</items>
+				<items ColumnName="strIDName">乾</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">PG02</items>
+				<items ColumnName="strIDName">兌</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">PG03</items>
+				<items ColumnName="strIDName">離</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">PG04</items>
+				<items ColumnName="strIDName">震</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">PG05</items>
+				<items ColumnName="strIDName">巽</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">PG06</items>
+				<items ColumnName="strIDName">坎</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">PG07</items>
+				<items ColumnName="strIDName">艮</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">PG08</items>
+				<items ColumnName="strIDName">坤</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">PY00</items>
+				<items ColumnName="strIDName">[　]</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">PY01</items>
+				<items ColumnName="strIDName">[廟]</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">PY02</items>
+				<items ColumnName="strIDName">[旺]</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">PY03</items>
+				<items ColumnName="strIDName">[地]</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">PY04</items>
+				<items ColumnName="strIDName">[利]</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">PY05</items>
+				<items ColumnName="strIDName">[平]</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">PY06</items>
+				<items ColumnName="strIDName">[閑]</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">PY07</items>
+				<items ColumnName="strIDName">[陷]</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">QY01</items>
+				<items ColumnName="strIDName">歲建</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">QY01PY00</items>
+				<items ColumnName="strIDName">歲建　</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">QY01PY01</items>
+				<items ColumnName="strIDName">歲建廟</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">QY01PY02</items>
+				<items ColumnName="strIDName">歲建旺</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">QY01PY03</items>
+				<items ColumnName="strIDName">歲建地</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">QY01PY04</items>
+				<items ColumnName="strIDName">歲建利</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">QY01PY05</items>
+				<items ColumnName="strIDName">歲建平</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">QY01PY06</items>
+				<items ColumnName="strIDName">歲建閑</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">QY01PY07</items>
+				<items ColumnName="strIDName">歲建陷</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">QY02</items>
+				<items ColumnName="strIDName">晦氣</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">QY02PY00</items>
+				<items ColumnName="strIDName">晦氣　</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">QY02PY01</items>
+				<items ColumnName="strIDName">晦氣廟</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">QY02PY02</items>
+				<items ColumnName="strIDName">晦氣旺</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">QY02PY03</items>
+				<items ColumnName="strIDName">晦氣地</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">QY02PY04</items>
+				<items ColumnName="strIDName">晦氣利</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">QY02PY05</items>
+				<items ColumnName="strIDName">晦氣平</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">QY02PY06</items>
+				<items ColumnName="strIDName">晦氣閑</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">QY02PY07</items>
+				<items ColumnName="strIDName">晦氣陷</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">QY03</items>
+				<items ColumnName="strIDName">喪門</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">QY03PY00</items>
+				<items ColumnName="strIDName">喪門　</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">QY03PY01</items>
+				<items ColumnName="strIDName">喪門廟</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">QY03PY02</items>
+				<items ColumnName="strIDName">喪門旺</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">QY03PY03</items>
+				<items ColumnName="strIDName">喪門地</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">QY03PY04</items>
+				<items ColumnName="strIDName">喪門利</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">QY03PY05</items>
+				<items ColumnName="strIDName">喪門平</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">QY03PY06</items>
+				<items ColumnName="strIDName">喪門閑</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">QY03PY07</items>
+				<items ColumnName="strIDName">喪門陷</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">QY04</items>
+				<items ColumnName="strIDName">貫索</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">QY04PY00</items>
+				<items ColumnName="strIDName">貫索　</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">QY04PY01</items>
+				<items ColumnName="strIDName">貫索廟</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">QY04PY02</items>
+				<items ColumnName="strIDName">貫索旺</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">QY04PY03</items>
+				<items ColumnName="strIDName">貫索地</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">QY04PY04</items>
+				<items ColumnName="strIDName">貫索利</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">QY04PY05</items>
+				<items ColumnName="strIDName">貫索平</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">QY04PY06</items>
+				<items ColumnName="strIDName">貫索閑</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">QY04PY07</items>
+				<items ColumnName="strIDName">貫索陷</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">QY05</items>
+				<items ColumnName="strIDName">官符</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">QY05PY00</items>
+				<items ColumnName="strIDName">官符　</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">QY05PY01</items>
+				<items ColumnName="strIDName">官符廟</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">QY05PY02</items>
+				<items ColumnName="strIDName">官符旺</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">QY05PY03</items>
+				<items ColumnName="strIDName">官符地</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">QY05PY04</items>
+				<items ColumnName="strIDName">官符利</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">QY05PY05</items>
+				<items ColumnName="strIDName">官符平</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">QY05PY06</items>
+				<items ColumnName="strIDName">官符閑</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">QY05PY07</items>
+				<items ColumnName="strIDName">官符陷</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">QY06</items>
+				<items ColumnName="strIDName">小秏</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">QY06PY00</items>
+				<items ColumnName="strIDName">小秏　</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">QY06PY01</items>
+				<items ColumnName="strIDName">小秏廟</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">QY06PY02</items>
+				<items ColumnName="strIDName">小秏旺</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">QY06PY03</items>
+				<items ColumnName="strIDName">小秏地</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">QY06PY04</items>
+				<items ColumnName="strIDName">小秏利</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">QY06PY05</items>
+				<items ColumnName="strIDName">小秏平</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">QY06PY06</items>
+				<items ColumnName="strIDName">小秏閑</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">QY06PY07</items>
+				<items ColumnName="strIDName">小秏陷</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">QY07</items>
+				<items ColumnName="strIDName">大秏</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">QY07PY00</items>
+				<items ColumnName="strIDName">大秏　</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">QY07PY01</items>
+				<items ColumnName="strIDName">大秏廟</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">QY07PY02</items>
+				<items ColumnName="strIDName">大秏旺</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">QY07PY03</items>
+				<items ColumnName="strIDName">大秏地</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">QY07PY04</items>
+				<items ColumnName="strIDName">大秏利</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">QY07PY05</items>
+				<items ColumnName="strIDName">大秏平</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">QY07PY06</items>
+				<items ColumnName="strIDName">大秏閑</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">QY07PY07</items>
+				<items ColumnName="strIDName">大秏陷</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">QY08</items>
+				<items ColumnName="strIDName">龍德</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">QY08PY00</items>
+				<items ColumnName="strIDName">龍德　</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">QY08PY01</items>
+				<items ColumnName="strIDName">龍德廟</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">QY08PY02</items>
+				<items ColumnName="strIDName">龍德旺</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">QY08PY03</items>
+				<items ColumnName="strIDName">龍德地</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">QY08PY04</items>
+				<items ColumnName="strIDName">龍德利</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">QY08PY05</items>
+				<items ColumnName="strIDName">龍德平</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">QY08PY06</items>
+				<items ColumnName="strIDName">龍德閑</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">QY08PY07</items>
+				<items ColumnName="strIDName">龍德陷</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">QY09</items>
+				<items ColumnName="strIDName">白虎</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">QY09PY00</items>
+				<items ColumnName="strIDName">白虎　</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">QY09PY01</items>
+				<items ColumnName="strIDName">白虎廟</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">QY09PY02</items>
+				<items ColumnName="strIDName">白虎旺</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">QY09PY03</items>
+				<items ColumnName="strIDName">白虎地</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">QY09PY04</items>
+				<items ColumnName="strIDName">白虎利</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">QY09PY05</items>
+				<items ColumnName="strIDName">白虎平</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">QY09PY06</items>
+				<items ColumnName="strIDName">白虎閑</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">QY09PY07</items>
+				<items ColumnName="strIDName">白虎陷</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">QY10</items>
+				<items ColumnName="strIDName">天德</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">QY10PY00</items>
+				<items ColumnName="strIDName">天德　</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">QY10PY01</items>
+				<items ColumnName="strIDName">天德廟</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">QY10PY02</items>
+				<items ColumnName="strIDName">天德旺</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">QY10PY03</items>
+				<items ColumnName="strIDName">天德地</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">QY10PY04</items>
+				<items ColumnName="strIDName">天德利</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">QY10PY05</items>
+				<items ColumnName="strIDName">天德平</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">QY10PY06</items>
+				<items ColumnName="strIDName">天德閑</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">QY10PY07</items>
+				<items ColumnName="strIDName">天德陷</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">QY11</items>
+				<items ColumnName="strIDName">弔客</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">QY11PY00</items>
+				<items ColumnName="strIDName">弔客　</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">QY11PY01</items>
+				<items ColumnName="strIDName">弔客廟</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">QY11PY02</items>
+				<items ColumnName="strIDName">弔客旺</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">QY11PY03</items>
+				<items ColumnName="strIDName">弔客地</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">QY11PY04</items>
+				<items ColumnName="strIDName">弔客利</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">QY11PY05</items>
+				<items ColumnName="strIDName">弔客平</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">QY11PY06</items>
+				<items ColumnName="strIDName">弔客閑</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">QY11PY07</items>
+				<items ColumnName="strIDName">弔客陷</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">QY12</items>
+				<items ColumnName="strIDName">病符.</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">QY12PY00</items>
+				<items ColumnName="strIDName">病符.　</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">QY12PY01</items>
+				<items ColumnName="strIDName">病符.廟</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">QY12PY02</items>
+				<items ColumnName="strIDName">病符.旺</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">QY12PY03</items>
+				<items ColumnName="strIDName">病符.地</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">QY12PY04</items>
+				<items ColumnName="strIDName">病符.利</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">QY12PY05</items>
+				<items ColumnName="strIDName">病符.平</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">QY12PY06</items>
+				<items ColumnName="strIDName">病符.閑</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">QY12PY07</items>
+				<items ColumnName="strIDName">病符.陷</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">RY01</items>
+				<items ColumnName="strIDName">將星</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">RY01PY00</items>
+				<items ColumnName="strIDName">將星　</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">RY01PY01</items>
+				<items ColumnName="strIDName">將星廟</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">RY01PY02</items>
+				<items ColumnName="strIDName">將星旺</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">RY01PY03</items>
+				<items ColumnName="strIDName">將星地</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">RY01PY04</items>
+				<items ColumnName="strIDName">將星利</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">RY01PY05</items>
+				<items ColumnName="strIDName">將星平</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">RY01PY06</items>
+				<items ColumnName="strIDName">將星閑</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">RY01PY07</items>
+				<items ColumnName="strIDName">將星陷</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">RY02</items>
+				<items ColumnName="strIDName">攀鞍</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">RY02PY00</items>
+				<items ColumnName="strIDName">攀鞍　</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">RY02PY01</items>
+				<items ColumnName="strIDName">攀鞍廟</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">RY02PY02</items>
+				<items ColumnName="strIDName">攀鞍旺</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">RY02PY03</items>
+				<items ColumnName="strIDName">攀鞍地</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">RY02PY04</items>
+				<items ColumnName="strIDName">攀鞍利</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">RY02PY05</items>
+				<items ColumnName="strIDName">攀鞍平</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">RY02PY06</items>
+				<items ColumnName="strIDName">攀鞍閑</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">RY02PY07</items>
+				<items ColumnName="strIDName">攀鞍陷</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">RY03</items>
+				<items ColumnName="strIDName">歲驛</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">RY03PY00</items>
+				<items ColumnName="strIDName">歲驛　</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">RY03PY01</items>
+				<items ColumnName="strIDName">歲驛廟</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">RY03PY02</items>
+				<items ColumnName="strIDName">歲驛旺</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">RY03PY03</items>
+				<items ColumnName="strIDName">歲驛地</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">RY03PY04</items>
+				<items ColumnName="strIDName">歲驛利</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">RY03PY05</items>
+				<items ColumnName="strIDName">歲驛平</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">RY03PY06</items>
+				<items ColumnName="strIDName">歲驛閑</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">RY03PY07</items>
+				<items ColumnName="strIDName">歲驛陷</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">RY04</items>
+				<items ColumnName="strIDName">息神</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">RY04PY00</items>
+				<items ColumnName="strIDName">息神　</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">RY04PY01</items>
+				<items ColumnName="strIDName">息神廟</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">RY04PY02</items>
+				<items ColumnName="strIDName">息神旺</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">RY04PY03</items>
+				<items ColumnName="strIDName">息神地</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">RY04PY04</items>
+				<items ColumnName="strIDName">息神利</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">RY04PY05</items>
+				<items ColumnName="strIDName">息神平</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">RY04PY06</items>
+				<items ColumnName="strIDName">息神閑</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">RY04PY07</items>
+				<items ColumnName="strIDName">息神陷</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">RY05</items>
+				<items ColumnName="strIDName">華蓋</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">RY05PY00</items>
+				<items ColumnName="strIDName">華蓋　</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">RY05PY01</items>
+				<items ColumnName="strIDName">華蓋廟</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">RY05PY02</items>
+				<items ColumnName="strIDName">華蓋旺</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">RY05PY03</items>
+				<items ColumnName="strIDName">華蓋地</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">RY05PY04</items>
+				<items ColumnName="strIDName">華蓋利</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">RY05PY05</items>
+				<items ColumnName="strIDName">華蓋平</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">RY05PY06</items>
+				<items ColumnName="strIDName">華蓋閑</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">RY05PY07</items>
+				<items ColumnName="strIDName">華蓋陷</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">RY06</items>
+				<items ColumnName="strIDName">劫煞</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">RY06PY00</items>
+				<items ColumnName="strIDName">劫煞　</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">RY06PY01</items>
+				<items ColumnName="strIDName">劫煞廟</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">RY06PY02</items>
+				<items ColumnName="strIDName">劫煞旺</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">RY06PY03</items>
+				<items ColumnName="strIDName">劫煞地</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">RY06PY04</items>
+				<items ColumnName="strIDName">劫煞利</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">RY06PY05</items>
+				<items ColumnName="strIDName">劫煞平</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">RY06PY06</items>
+				<items ColumnName="strIDName">劫煞閑</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">RY06PY07</items>
+				<items ColumnName="strIDName">劫煞陷</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">RY07</items>
+				<items ColumnName="strIDName">災煞</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">RY07PY00</items>
+				<items ColumnName="strIDName">災煞　</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">RY07PY01</items>
+				<items ColumnName="strIDName">災煞廟</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">RY07PY02</items>
+				<items ColumnName="strIDName">災煞旺</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">RY07PY03</items>
+				<items ColumnName="strIDName">災煞地</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">RY07PY04</items>
+				<items ColumnName="strIDName">災煞利</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">RY07PY05</items>
+				<items ColumnName="strIDName">災煞平</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">RY07PY06</items>
+				<items ColumnName="strIDName">災煞閑</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">RY07PY07</items>
+				<items ColumnName="strIDName">災煞陷</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">RY08</items>
+				<items ColumnName="strIDName">天煞</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">RY08PY00</items>
+				<items ColumnName="strIDName">天煞　</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">RY08PY01</items>
+				<items ColumnName="strIDName">天煞廟</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">RY08PY02</items>
+				<items ColumnName="strIDName">天煞旺</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">RY08PY03</items>
+				<items ColumnName="strIDName">天煞地</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">RY08PY04</items>
+				<items ColumnName="strIDName">天煞利</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">RY08PY05</items>
+				<items ColumnName="strIDName">天煞平</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">RY08PY06</items>
+				<items ColumnName="strIDName">天煞閑</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">RY08PY07</items>
+				<items ColumnName="strIDName">天煞陷</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">RY09</items>
+				<items ColumnName="strIDName">指背</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">RY09PY00</items>
+				<items ColumnName="strIDName">指背　</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">RY09PY01</items>
+				<items ColumnName="strIDName">指背廟</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">RY09PY02</items>
+				<items ColumnName="strIDName">指背旺</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">RY09PY03</items>
+				<items ColumnName="strIDName">指背地</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">RY09PY04</items>
+				<items ColumnName="strIDName">指背利</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">RY09PY05</items>
+				<items ColumnName="strIDName">指背平</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">RY09PY06</items>
+				<items ColumnName="strIDName">指背閑</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">RY09PY07</items>
+				<items ColumnName="strIDName">指背陷</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">RY10</items>
+				<items ColumnName="strIDName">咸池</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">RY10PY00</items>
+				<items ColumnName="strIDName">咸池　</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">RY10PY01</items>
+				<items ColumnName="strIDName">咸池廟</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">RY10PY02</items>
+				<items ColumnName="strIDName">咸池旺</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">RY10PY03</items>
+				<items ColumnName="strIDName">咸池地</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">RY10PY04</items>
+				<items ColumnName="strIDName">咸池利</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">RY10PY05</items>
+				<items ColumnName="strIDName">咸池平</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">RY10PY06</items>
+				<items ColumnName="strIDName">咸池閑</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">RY10PY07</items>
+				<items ColumnName="strIDName">咸池陷</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">RY11</items>
+				<items ColumnName="strIDName">月煞</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">RY11PY00</items>
+				<items ColumnName="strIDName">月煞　</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">RY11PY01</items>
+				<items ColumnName="strIDName">月煞廟</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">RY11PY02</items>
+				<items ColumnName="strIDName">月煞旺</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">RY11PY03</items>
+				<items ColumnName="strIDName">月煞地</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">RY11PY04</items>
+				<items ColumnName="strIDName">月煞利</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">RY11PY05</items>
+				<items ColumnName="strIDName">月煞平</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">RY11PY06</items>
+				<items ColumnName="strIDName">月煞閑</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">RY11PY07</items>
+				<items ColumnName="strIDName">月煞陷</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">RY12</items>
+				<items ColumnName="strIDName">亡神</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">RY12PY00</items>
+				<items ColumnName="strIDName">亡神　</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">RY12PY01</items>
+				<items ColumnName="strIDName">亡神廟</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">RY12PY02</items>
+				<items ColumnName="strIDName">亡神旺</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">RY12PY03</items>
+				<items ColumnName="strIDName">亡神地</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">RY12PY04</items>
+				<items ColumnName="strIDName">亡神利</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">RY12PY05</items>
+				<items ColumnName="strIDName">亡神平</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">RY12PY06</items>
+				<items ColumnName="strIDName">亡神閑</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">RY12PY07</items>
+				<items ColumnName="strIDName">亡神陷</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">SY01</items>
+				<items ColumnName="strIDName">旬空</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">SY01PY00</items>
+				<items ColumnName="strIDName">旬空　</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">SY01PY01</items>
+				<items ColumnName="strIDName">旬空廟</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">SY01PY02</items>
+				<items ColumnName="strIDName">旬空旺</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">SY01PY03</items>
+				<items ColumnName="strIDName">旬空地</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">SY01PY04</items>
+				<items ColumnName="strIDName">旬空利</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">SY01PY05</items>
+				<items ColumnName="strIDName">旬空平</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">SY01PY06</items>
+				<items ColumnName="strIDName">旬空閑</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">SY01PY07</items>
+				<items ColumnName="strIDName">旬空陷</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">SY02</items>
+				<items ColumnName="strIDName">截空</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">SY02PY00</items>
+				<items ColumnName="strIDName">截空　</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">SY02PY01</items>
+				<items ColumnName="strIDName">截空廟</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">SY02PY02</items>
+				<items ColumnName="strIDName">截空旺</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">SY02PY03</items>
+				<items ColumnName="strIDName">截空地</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">SY02PY04</items>
+				<items ColumnName="strIDName">截空利</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">SY02PY05</items>
+				<items ColumnName="strIDName">截空平</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">SY02PY06</items>
+				<items ColumnName="strIDName">截空閑</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">SY02PY07</items>
+				<items ColumnName="strIDName">截空陷</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">SY03</items>
+				<items ColumnName="strIDName">天傷</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">SY03PY00</items>
+				<items ColumnName="strIDName">天傷　</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">SY03PY01</items>
+				<items ColumnName="strIDName">天傷廟</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">SY03PY02</items>
+				<items ColumnName="strIDName">天傷旺</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">SY03PY03</items>
+				<items ColumnName="strIDName">天傷地</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">SY03PY04</items>
+				<items ColumnName="strIDName">天傷利</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">SY03PY05</items>
+				<items ColumnName="strIDName">天傷平</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">SY03PY06</items>
+				<items ColumnName="strIDName">天傷閑</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">SY03PY07</items>
+				<items ColumnName="strIDName">天傷陷</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">SY04</items>
+				<items ColumnName="strIDName">天使</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">SY04PY00</items>
+				<items ColumnName="strIDName">天使　</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">SY04PY01</items>
+				<items ColumnName="strIDName">天使廟</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">SY04PY02</items>
+				<items ColumnName="strIDName">天使旺</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">SY04PY03</items>
+				<items ColumnName="strIDName">天使地</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">SY04PY04</items>
+				<items ColumnName="strIDName">天使利</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">SY04PY05</items>
+				<items ColumnName="strIDName">天使平</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">SY04PY06</items>
+				<items ColumnName="strIDName">天使閑</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">SY04PY07</items>
+				<items ColumnName="strIDName">天使陷</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">XX01</items>
+				<items ColumnName="strIDName">甲</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">XX01YY01</items>
+				<items ColumnName="strIDName">甲子</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">XX01YY03</items>
+				<items ColumnName="strIDName">甲寅</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">XX01YY05</items>
+				<items ColumnName="strIDName">甲辰</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">XX01YY07</items>
+				<items ColumnName="strIDName">甲午</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">XX01YY09</items>
+				<items ColumnName="strIDName">甲申</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">XX01YY11</items>
+				<items ColumnName="strIDName">甲戌</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">XX02</items>
+				<items ColumnName="strIDName">乙</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">XX02YY02</items>
+				<items ColumnName="strIDName">乙丑</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">XX02YY04</items>
+				<items ColumnName="strIDName">乙卯</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">XX02YY06</items>
+				<items ColumnName="strIDName">乙巳</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">XX02YY08</items>
+				<items ColumnName="strIDName">乙未</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">XX02YY10</items>
+				<items ColumnName="strIDName">乙酉</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">XX02YY12</items>
+				<items ColumnName="strIDName">乙亥</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">XX03</items>
+				<items ColumnName="strIDName">丙</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">XX03YY01</items>
+				<items ColumnName="strIDName">丙子</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">XX03YY03</items>
+				<items ColumnName="strIDName">丙寅</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">XX03YY05</items>
+				<items ColumnName="strIDName">丙辰</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">XX03YY07</items>
+				<items ColumnName="strIDName">丙午</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">XX03YY09</items>
+				<items ColumnName="strIDName">丙申</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">XX03YY11</items>
+				<items ColumnName="strIDName">丙戌</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">XX04</items>
+				<items ColumnName="strIDName">丁</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">XX04YY02</items>
+				<items ColumnName="strIDName">丁丑</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">XX04YY04</items>
+				<items ColumnName="strIDName">丁卯</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">XX04YY06</items>
+				<items ColumnName="strIDName">丁巳</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">XX04YY08</items>
+				<items ColumnName="strIDName">丁未</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">XX04YY10</items>
+				<items ColumnName="strIDName">丁酉</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">XX04YY12</items>
+				<items ColumnName="strIDName">丁亥</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">XX05</items>
+				<items ColumnName="strIDName">戊</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">XX05YY01</items>
+				<items ColumnName="strIDName">戊子</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">XX05YY03</items>
+				<items ColumnName="strIDName">戊寅</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">XX05YY05</items>
+				<items ColumnName="strIDName">戊辰</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">XX05YY07</items>
+				<items ColumnName="strIDName">戊午</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">XX05YY09</items>
+				<items ColumnName="strIDName">戊申</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">XX05YY11</items>
+				<items ColumnName="strIDName">戊戌</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">XX06</items>
+				<items ColumnName="strIDName">己</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">XX06YY02</items>
+				<items ColumnName="strIDName">己丑</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">XX06YY04</items>
+				<items ColumnName="strIDName">己卯</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">XX06YY06</items>
+				<items ColumnName="strIDName">己巳</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">XX06YY08</items>
+				<items ColumnName="strIDName">己未</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">XX06YY10</items>
+				<items ColumnName="strIDName">己酉</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">XX06YY12</items>
+				<items ColumnName="strIDName">己亥</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">XX07</items>
+				<items ColumnName="strIDName">庚</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">XX07YY01</items>
+				<items ColumnName="strIDName">庚子</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">XX07YY03</items>
+				<items ColumnName="strIDName">庚寅</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">XX07YY05</items>
+				<items ColumnName="strIDName">庚辰</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">XX07YY07</items>
+				<items ColumnName="strIDName">庚午</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">XX07YY09</items>
+				<items ColumnName="strIDName">庚申</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">XX07YY11</items>
+				<items ColumnName="strIDName">庚戌</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">XX08</items>
+				<items ColumnName="strIDName">辛</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">XX08YY02</items>
+				<items ColumnName="strIDName">辛丑</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">XX08YY04</items>
+				<items ColumnName="strIDName">辛卯</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">XX08YY06</items>
+				<items ColumnName="strIDName">辛巳</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">XX08YY08</items>
+				<items ColumnName="strIDName">辛未</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">XX08YY10</items>
+				<items ColumnName="strIDName">辛酉</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">XX08YY12</items>
+				<items ColumnName="strIDName">辛亥</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">XX09</items>
+				<items ColumnName="strIDName">壬</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">XX09YY01</items>
+				<items ColumnName="strIDName">壬子</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">XX09YY03</items>
+				<items ColumnName="strIDName">壬寅</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">XX09YY05</items>
+				<items ColumnName="strIDName">壬辰</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">XX09YY07</items>
+				<items ColumnName="strIDName">壬午</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">XX09YY09</items>
+				<items ColumnName="strIDName">壬申</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">XX09YY11</items>
+				<items ColumnName="strIDName">壬戌</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">XX10</items>
+				<items ColumnName="strIDName">癸</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">XX10YY02</items>
+				<items ColumnName="strIDName">癸丑</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">XX10YY04</items>
+				<items ColumnName="strIDName">癸卯</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">XX10YY06</items>
+				<items ColumnName="strIDName">癸巳</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">XX10YY08</items>
+				<items ColumnName="strIDName">癸未</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">XX10YY10</items>
+				<items ColumnName="strIDName">癸酉</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">XX10YY12</items>
+				<items ColumnName="strIDName">癸亥</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">YY01</items>
+				<items ColumnName="strIDName">子</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">YY02</items>
+				<items ColumnName="strIDName">丑</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">YY03</items>
+				<items ColumnName="strIDName">寅</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">YY04</items>
+				<items ColumnName="strIDName">卯</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">YY05</items>
+				<items ColumnName="strIDName">辰</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">YY06</items>
+				<items ColumnName="strIDName">巳</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">YY07</items>
+				<items ColumnName="strIDName">午</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">YY08</items>
+				<items ColumnName="strIDName">未</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">YY09</items>
+				<items ColumnName="strIDName">申</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">YY10</items>
+				<items ColumnName="strIDName">酉</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">YY11</items>
+				<items ColumnName="strIDName">戌</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">YY12</items>
+				<items ColumnName="strIDName">亥</items>
+			</DataRow>
+		</DataRows>
+	</DataTable>
+</FileName>

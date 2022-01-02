@@ -1,234 +1,582 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LifeWeight>
-	<tblname>tblWeight</tblname>
-	<rowsdata>
-		<strInput>XX01YY01</strInput>
-		<shtWeight>1.2</shtWeight>
-		<strInput>XX02YY02</strInput>
-		<shtWeight>0.9</shtWeight>
-		<strInput>XX03YY03</strInput>
-		<shtWeight>0.6</shtWeight>
-		<strInput>XX04YY04</strInput>
-		<shtWeight>	0.7</shtWeight>
-		<strInput>XX05YY05</strInput>
-		<shtWeight>	1.2</shtWeight>
-		<strInput>XX06YY06</strInput>
-		<shtWeight>	0.5</shtWeight>
-		<strInput>XX07YY07</strInput>
-		<shtWeight>0.9</shtWeight>
-		<strInput>XX08YY08</strInput>
-		<shtWeight>	0.8</shtWeight>
-		<strInput>XX09YY09</strInput>
-		<shtWeight>	0.7</shtWeight>
-		<strInput>XX10YY10</strInput>
-		<shtWeight>	0.8</shtWeight>
-		<strInput>XX01YY11</strInput>
-		<shtWeight>	1.5</shtWeight>
-		<strInput>XX02YY12</strInput>
-		<shtWeight>	0.9</shtWeight>
-		<strInput>XX03YY01</strInput>
-		<shtWeight>	1.6</shtWeight>
-		<strInput>XX04YY02	</strInput>
-		<shtWeight>0.8</shtWeight>
-		<strInput>XX05YY03</strInput>
-		<shtWeight>	0.8</shtWeight>
-		<strInput>XX06YY04</strInput>
-		<shtWeight>	1.9</shtWeight>
-		<strInput>XX07YY05</strInput>
-		<shtWeight>	1.2</shtWeight>
-		<strInput>XX08YY06</strInput>
-		<shtWeight>	0.6</shtWeight>
-		<strInput>XX09YY07</strInput>
-		<shtWeight>	0.8</shtWeight>
-		<strInput>XX10YY08	</strInput>
-		<shtWeight>0.7</shtWeight>
-		<strInput>XX01YY09</strInput>
-		<shtWeight>	0.5</shtWeight>
-		<strInput>XX02YY10</strInput>
-		<shtWeight>	1.5</shtWeight>
-		<strInput>XX03YY11	</strInput>
-		<shtWeight>0.6</shtWeight>
-		<strInput>XX04YY12	</strInput>
-		<shtWeight>1.6</shtWeight>
-		<strInput>XX05YY01	</strInput>
-		<shtWeight>1.5</shtWeight>
-		<strInput>XX06YY02</strInput>
-		<shtWeight>	0.7</shtWeight>
-		<strInput>XX07YY03</strInput>
-		<shtWeight>	0.9</shtWeight>
-		<strInput>XX08YY04</strInput>
-		<shtWeight>	1.2</shtWeight>
-		<strInput>XX09YY05</strInput>
-		<shtWeight>	1</shtWeight>
-		<strInput>XX10YY06</strInput>
-		<shtWeight>	0.7</shtWeight>
-		<strInput>XX01YY07</strInput>
-		<shtWeight>	1.5</shtWeight>
-		<strInput>XX02YY08	</strInput>
-		<shtWeight>0.6</shtWeight>
-		<strInput>XX03YY09</strInput>
-		<shtWeight>	0.5</shtWeight>
-		<strInput>XX04YY10</strInput>
-		<shtWeight>	1.4</shtWeight>
-		<strInput>XX05YY11	</strInput>
-		<shtWeight>1.4</shtWeight>
-		<strInput>XX06YY12</strInput>
-		<shtWeight>	0.9</shtWeight>
-		<strInput>XX07YY0</strInput>
-		<shtWeight>	0.7</shtWeight>
-		<strInput>XX08YY02</strInput>
-		<shtWeight>	0.7</shtWeight>
-		<strInput>XX09YY03</strInput>
-		<shtWeight>	0.9</shtWeight>
-		<strInput>XX10YY04</strInput>
-		<shtWeight>	1.2</shtWeight>
-		<strInput>XX01YY05</strInput>
-		<shtWeight>	0.8</shtWeight>
-		<strInput>XX02YY06</strInput>
-		<shtWeight>	0.7</shtWeight>
-		<strInput>XX03YY07	</strInput>
-		<shtWeight>1.3</shtWeight>
-		<strInput>XX04YY08</strInput>
-		<shtWeight>	0.5</shtWeight>
-		<strInput>XX05YY09	</strInput>
-		<shtWeight>1.4</shtWeight>
-		<strInput>XX06YY10	</strInput>
-		<shtWeight>0.5</shtWeight>
-		<strInput>XX07YY11	</strInput>
-		<shtWeight>0.9</shtWeight>
-		<strInput>XX08YY12</strInput>
-		<shtWeight>	1.7</shtWeight>
-		<strInput>XX09YY01</strInput>
-		<shtWeight>	0.5</shtWeight>
-		<strInput>XX10YY02</strInput>
-		<shtWeight>	0.7</shtWeight>
-		<strInput>XX01YY03</strInput>
-		<shtWeight>	1.2</shtWeight>
-		<strInput>XX02YY04</strInput>
-		<shtWeight>	0.8</shtWeight>
-		<strInput>XX03YY05</strInput>
-		<shtWeight>	0.8</shtWeight>
-		<strInput>XX04YY06</strInput>
-		<shtWeight>	0.6</shtWeight>
-		<strInput>XX05YY07</strInput>
-		<shtWeight>	1.9</shtWeight>
-		<strInput>XX06YY08</strInput>
-		<shtWeight>	0.6</shtWeight>
-		<strInput>XX07YY09</strInput>
-		<shtWeight>	0.8</shtWeight>
-		<strInput>XX08YY10</strInput>
-		<shtWeight>	1.6</shtWeight>
-		<strInput>XX09YY11</strInput>
-		<shtWeight>	1</shtWeight>
-		<strInput>XX10YY12	</strInput>
-		<shtWeight>0.7</shtWeight>
-		<strInput>M01</strInput>
-		<shtWeight>	0.6</shtWeight>
-		<strInput>M02	</strInput>
-		<shtWeight>0.7</shtWeight>
-		<strInput>M03</strInput>
-		<shtWeight>	1.8</shtWeight>
-		<strInput>M04</strInput>
-		<shtWeight>	0.9</shtWeight>
-		<strInput>M05	</strInput>
-		<shtWeight>0.5</shtWeight>
-		<strInput>M06</strInput>
-		<shtWeight>	1.6</shtWeight>
-		<strInput>M07	</strInput>
-		<shtWeight>0.9</shtWeight>
-		<strInput>M08</strInput>
-		<shtWeight>	1.5</shtWeight>
-		<strInput>M09</strInput>
-		<shtWeight>	1.8</shtWeight>
-		<strInput>M10	</strInput>
-		<shtWeight>0.8</shtWeight>
-		<strInput>M11</strInput>
-		<shtWeight>	0.9</shtWeight>
-		<strInput>M12	</strInput>
-		<shtWeight>0.5</shtWeight>
-		<strInput>D01</strInput>
-		<shtWeight>	0.5</shtWeight>
-		<strInput>D02</strInput>
-		<shtWeight>	1</shtWeight>
-		<strInput>D03</strInput>
-		<shtWeight>	0.8</shtWeight>
-		<strInput>D04</strInput>
-		<shtWeight>	1.5</shtWeight>
-		<strInput>D05	</strInput>
-		<shtWeight>1.6</shtWeight>
-		<strInput>D06	</strInput>
-		<shtWeight>1.5</shtWeight>
-		<strInput>D07	</strInput>
-		<shtWeight>0.8</shtWeight>
-		<strInput>D08</strInput>
-		<shtWeight>	1.6</shtWeight>
-		<strInput>D09</strInput>
-		<shtWeight>	0.8</shtWeight>
-		<strInput>D10	</strInput>
-		<shtWeight>1.6</shtWeight>
-		<strInput>D11	</strInput>
-		<shtWeight>0.9</shtWeight>
-		<strInput>D12</strInput>
-		<shtWeight>	1.7</shtWeight>
-		<strInput>D13</strInput>
-		<shtWeight>	0.8</shtWeight>
-		<strInput>D14</strInput>
-		<shtWeight>	1.7</shtWeight>
-		<strInput>D15	</strInput>
-		<shtWeight>1</shtWeight>
-		<strInput>D16	</strInput>
-		<shtWeight>0.8</shtWeight>
-		<strInput>D17</strInput>
-		<shtWeight>	0.9</shtWeight>
-		<strInput>D18	</strInput>
-		<shtWeight>1.8</shtWeight>
-		<strInput>D19</strInput>
-		<shtWeight>	0.5</shtWeight>
-		<strInput>D20</strInput>
-		<shtWeight>	1.5</shtWeight>
-		<strInput>D21	</strInput>
-		<shtWeight>1</shtWeight>
-		<strInput>D22	</strInput>
-		<shtWeight>0.9</shtWeight>
-		<strInput>D23	</strInput>
-		<shtWeight>0.8</shtWeight>
-		<strInput>D24	</strInput>
-		<shtWeight>0.9</shtWeight>
-		<strInput>D25	</strInput>
-		<shtWeight>1.5</shtWeight>
-		<strInput>D26	</strInput>
-		<shtWeight>1.8</shtWeight>
-		<strInput>D27	</strInput>
-		<shtWeight>0.7</shtWeight>
-		<strInput>D28	</strInput>
-		<shtWeight>0.8</shtWeight>
-		<strInput>D29	</strInput>
-		<shtWeight>1.6</shtWeight>
-		<strInput>D30	</strInput>
-		<shtWeight>0.6</shtWeight>
-		<strInput>YY01	</strInput>
-		<shtWeight>1.6</shtWeight>
-		<strInput>YY02	</strInput>
-		<shtWeight>0.6</shtWeight>
-		<strInput>YY03</strInput>
-		<shtWeight>	0.7</shtWeight>
-		<strInput>YY04</strInput>
-		<shtWeight>	1</shtWeight>
-		<strInput>YY05	</strInput>
-		<shtWeight>0.9</shtWeight>
-		<strInput>YY06	</strInput>
-		<shtWeight>1.6</shtWeight>
-		<strInput>YY07	</strInput>
-		<shtWeight>1</shtWeight>
-		<strInput>YY08	</strInput>
-		<shtWeight>0.8</shtWeight>
-		<strInput>YY09	</strInput>
-		<shtWeight>0.8</shtWeight>
-		<strInput>YY10</strInput>
-		<shtWeight>	0.9</shtWeight>
-		<strInput>YY11	</strInput>
-		<shtWeight>0.6</shtWeight>
-		<strInput>YY12	</strInput>
-		<shtWeight>0.6</shtWeight>
-	</rowsdata>
-</LifeWeight>
+<FileName Name="tblWeight.xml">
+	<DataTable TableName="tblWeight">
+		<DataColumns>
+			<DataColumn ColumnName="lngSN" DataType="System.Int32" Caption="lngSN" />
+			<DataColumn ColumnName="strInput" DataType="System.String" Caption="strInput" />
+			<DataColumn ColumnName="shtWeight" DataType="System.Single" Caption="shtWeight" />
+		</DataColumns>
+		<DataRows>
+			<DataRow>
+				<items ColumnName="lngSN">61</items>
+				<items ColumnName="strInput">XX01YY01</items>
+				<items ColumnName="shtWeight">1.2</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="lngSN">62</items>
+				<items ColumnName="strInput">XX02YY02</items>
+				<items ColumnName="shtWeight">0.9</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="lngSN">63</items>
+				<items ColumnName="strInput">XX03YY03</items>
+				<items ColumnName="shtWeight">0.6</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="lngSN">64</items>
+				<items ColumnName="strInput">XX04YY04</items>
+				<items ColumnName="shtWeight">0.7</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="lngSN">65</items>
+				<items ColumnName="strInput">XX05YY05</items>
+				<items ColumnName="shtWeight">1.2</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="lngSN">66</items>
+				<items ColumnName="strInput">XX06YY06</items>
+				<items ColumnName="shtWeight">0.5</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="lngSN">67</items>
+				<items ColumnName="strInput">XX07YY07</items>
+				<items ColumnName="shtWeight">0.9</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="lngSN">68</items>
+				<items ColumnName="strInput">XX08YY08</items>
+				<items ColumnName="shtWeight">0.8</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="lngSN">69</items>
+				<items ColumnName="strInput">XX09YY09</items>
+				<items ColumnName="shtWeight">0.7</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="lngSN">70</items>
+				<items ColumnName="strInput">XX10YY10</items>
+				<items ColumnName="shtWeight">0.8</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="lngSN">71</items>
+				<items ColumnName="strInput">XX01YY11</items>
+				<items ColumnName="shtWeight">1.5</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="lngSN">72</items>
+				<items ColumnName="strInput">XX02YY12</items>
+				<items ColumnName="shtWeight">0.9</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="lngSN">73</items>
+				<items ColumnName="strInput">XX03YY01</items>
+				<items ColumnName="shtWeight">1.6</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="lngSN">74</items>
+				<items ColumnName="strInput">XX04YY02</items>
+				<items ColumnName="shtWeight">0.8</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="lngSN">75</items>
+				<items ColumnName="strInput">XX05YY03</items>
+				<items ColumnName="shtWeight">0.8</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="lngSN">76</items>
+				<items ColumnName="strInput">XX06YY04</items>
+				<items ColumnName="shtWeight">1.9</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="lngSN">77</items>
+				<items ColumnName="strInput">XX07YY05</items>
+				<items ColumnName="shtWeight">1.2</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="lngSN">78</items>
+				<items ColumnName="strInput">XX08YY06</items>
+				<items ColumnName="shtWeight">0.6</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="lngSN">79</items>
+				<items ColumnName="strInput">XX09YY07</items>
+				<items ColumnName="shtWeight">0.8</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="lngSN">80</items>
+				<items ColumnName="strInput">XX10YY08</items>
+				<items ColumnName="shtWeight">0.7</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="lngSN">81</items>
+				<items ColumnName="strInput">XX01YY09</items>
+				<items ColumnName="shtWeight">0.5</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="lngSN">82</items>
+				<items ColumnName="strInput">XX02YY10</items>
+				<items ColumnName="shtWeight">1.5</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="lngSN">83</items>
+				<items ColumnName="strInput">XX03YY11</items>
+				<items ColumnName="shtWeight">0.6</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="lngSN">84</items>
+				<items ColumnName="strInput">XX04YY12</items>
+				<items ColumnName="shtWeight">1.6</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="lngSN">85</items>
+				<items ColumnName="strInput">XX05YY01</items>
+				<items ColumnName="shtWeight">1.5</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="lngSN">86</items>
+				<items ColumnName="strInput">XX06YY02</items>
+				<items ColumnName="shtWeight">0.7</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="lngSN">87</items>
+				<items ColumnName="strInput">XX07YY03</items>
+				<items ColumnName="shtWeight">0.9</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="lngSN">88</items>
+				<items ColumnName="strInput">XX08YY04</items>
+				<items ColumnName="shtWeight">1.2</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="lngSN">89</items>
+				<items ColumnName="strInput">XX09YY05</items>
+				<items ColumnName="shtWeight">1</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="lngSN">90</items>
+				<items ColumnName="strInput">XX10YY06</items>
+				<items ColumnName="shtWeight">0.7</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="lngSN">91</items>
+				<items ColumnName="strInput">XX01YY07</items>
+				<items ColumnName="shtWeight">1.5</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="lngSN">92</items>
+				<items ColumnName="strInput">XX02YY08</items>
+				<items ColumnName="shtWeight">0.6</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="lngSN">93</items>
+				<items ColumnName="strInput">XX03YY09</items>
+				<items ColumnName="shtWeight">0.5</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="lngSN">94</items>
+				<items ColumnName="strInput">XX04YY10</items>
+				<items ColumnName="shtWeight">1.4</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="lngSN">95</items>
+				<items ColumnName="strInput">XX05YY11</items>
+				<items ColumnName="shtWeight">1.4</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="lngSN">96</items>
+				<items ColumnName="strInput">XX06YY12</items>
+				<items ColumnName="shtWeight">0.9</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="lngSN">97</items>
+				<items ColumnName="strInput">XX07YY01</items>
+				<items ColumnName="shtWeight">0.7</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="lngSN">98</items>
+				<items ColumnName="strInput">XX08YY02</items>
+				<items ColumnName="shtWeight">0.7</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="lngSN">99</items>
+				<items ColumnName="strInput">XX09YY03</items>
+				<items ColumnName="shtWeight">0.9</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="lngSN">100</items>
+				<items ColumnName="strInput">XX10YY04</items>
+				<items ColumnName="shtWeight">1.2</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="lngSN">101</items>
+				<items ColumnName="strInput">XX01YY05</items>
+				<items ColumnName="shtWeight">0.8</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="lngSN">102</items>
+				<items ColumnName="strInput">XX02YY06</items>
+				<items ColumnName="shtWeight">0.7</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="lngSN">103</items>
+				<items ColumnName="strInput">XX03YY07</items>
+				<items ColumnName="shtWeight">1.3</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="lngSN">104</items>
+				<items ColumnName="strInput">XX04YY08</items>
+				<items ColumnName="shtWeight">0.5</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="lngSN">105</items>
+				<items ColumnName="strInput">XX05YY09</items>
+				<items ColumnName="shtWeight">1.4</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="lngSN">106</items>
+				<items ColumnName="strInput">XX06YY10</items>
+				<items ColumnName="shtWeight">0.5</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="lngSN">107</items>
+				<items ColumnName="strInput">XX07YY11</items>
+				<items ColumnName="shtWeight">0.9</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="lngSN">108</items>
+				<items ColumnName="strInput">XX08YY12</items>
+				<items ColumnName="shtWeight">1.7</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="lngSN">109</items>
+				<items ColumnName="strInput">XX09YY01</items>
+				<items ColumnName="shtWeight">0.5</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="lngSN">110</items>
+				<items ColumnName="strInput">XX10YY02</items>
+				<items ColumnName="shtWeight">0.7</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="lngSN">111</items>
+				<items ColumnName="strInput">XX01YY03</items>
+				<items ColumnName="shtWeight">1.2</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="lngSN">112</items>
+				<items ColumnName="strInput">XX02YY04</items>
+				<items ColumnName="shtWeight">0.8</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="lngSN">113</items>
+				<items ColumnName="strInput">XX03YY05</items>
+				<items ColumnName="shtWeight">0.8</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="lngSN">114</items>
+				<items ColumnName="strInput">XX04YY06</items>
+				<items ColumnName="shtWeight">0.6</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="lngSN">115</items>
+				<items ColumnName="strInput">XX05YY07</items>
+				<items ColumnName="shtWeight">1.9</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="lngSN">116</items>
+				<items ColumnName="strInput">XX06YY08</items>
+				<items ColumnName="shtWeight">0.6</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="lngSN">117</items>
+				<items ColumnName="strInput">XX07YY09</items>
+				<items ColumnName="shtWeight">0.8</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="lngSN">118</items>
+				<items ColumnName="strInput">XX08YY10</items>
+				<items ColumnName="shtWeight">1.6</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="lngSN">119</items>
+				<items ColumnName="strInput">XX09YY11</items>
+				<items ColumnName="shtWeight">1</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="lngSN">120</items>
+				<items ColumnName="strInput">XX10YY12</items>
+				<items ColumnName="shtWeight">0.7</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="lngSN">121</items>
+				<items ColumnName="strInput">M01</items>
+				<items ColumnName="shtWeight">0.6</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="lngSN">122</items>
+				<items ColumnName="strInput">M02</items>
+				<items ColumnName="shtWeight">0.7</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="lngSN">123</items>
+				<items ColumnName="strInput">M03</items>
+				<items ColumnName="shtWeight">1.8</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="lngSN">124</items>
+				<items ColumnName="strInput">M04</items>
+				<items ColumnName="shtWeight">0.9</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="lngSN">125</items>
+				<items ColumnName="strInput">M05</items>
+				<items ColumnName="shtWeight">0.5</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="lngSN">126</items>
+				<items ColumnName="strInput">M06</items>
+				<items ColumnName="shtWeight">1.6</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="lngSN">127</items>
+				<items ColumnName="strInput">M07</items>
+				<items ColumnName="shtWeight">0.9</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="lngSN">128</items>
+				<items ColumnName="strInput">M08</items>
+				<items ColumnName="shtWeight">1.5</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="lngSN">129</items>
+				<items ColumnName="strInput">M09</items>
+				<items ColumnName="shtWeight">1.8</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="lngSN">130</items>
+				<items ColumnName="strInput">M10</items>
+				<items ColumnName="shtWeight">0.8</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="lngSN">131</items>
+				<items ColumnName="strInput">M11</items>
+				<items ColumnName="shtWeight">0.9</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="lngSN">132</items>
+				<items ColumnName="strInput">M12</items>
+				<items ColumnName="shtWeight">0.5</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="lngSN">133</items>
+				<items ColumnName="strInput">D01</items>
+				<items ColumnName="shtWeight">0.5</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="lngSN">134</items>
+				<items ColumnName="strInput">D02</items>
+				<items ColumnName="shtWeight">1</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="lngSN">135</items>
+				<items ColumnName="strInput">D03</items>
+				<items ColumnName="shtWeight">0.8</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="lngSN">136</items>
+				<items ColumnName="strInput">D04</items>
+				<items ColumnName="shtWeight">1.5</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="lngSN">137</items>
+				<items ColumnName="strInput">D05</items>
+				<items ColumnName="shtWeight">1.6</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="lngSN">138</items>
+				<items ColumnName="strInput">D06</items>
+				<items ColumnName="shtWeight">1.5</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="lngSN">139</items>
+				<items ColumnName="strInput">D07</items>
+				<items ColumnName="shtWeight">0.8</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="lngSN">140</items>
+				<items ColumnName="strInput">D08</items>
+				<items ColumnName="shtWeight">1.6</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="lngSN">141</items>
+				<items ColumnName="strInput">D09</items>
+				<items ColumnName="shtWeight">0.8</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="lngSN">142</items>
+				<items ColumnName="strInput">D10</items>
+				<items ColumnName="shtWeight">1.6</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="lngSN">143</items>
+				<items ColumnName="strInput">D11</items>
+				<items ColumnName="shtWeight">0.9</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="lngSN">144</items>
+				<items ColumnName="strInput">D12</items>
+				<items ColumnName="shtWeight">1.7</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="lngSN">145</items>
+				<items ColumnName="strInput">D13</items>
+				<items ColumnName="shtWeight">0.8</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="lngSN">146</items>
+				<items ColumnName="strInput">D14</items>
+				<items ColumnName="shtWeight">1.7</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="lngSN">147</items>
+				<items ColumnName="strInput">D15</items>
+				<items ColumnName="shtWeight">1</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="lngSN">148</items>
+				<items ColumnName="strInput">D16</items>
+				<items ColumnName="shtWeight">0.8</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="lngSN">149</items>
+				<items ColumnName="strInput">D17</items>
+				<items ColumnName="shtWeight">0.9</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="lngSN">150</items>
+				<items ColumnName="strInput">D18</items>
+				<items ColumnName="shtWeight">1.8</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="lngSN">151</items>
+				<items ColumnName="strInput">D19</items>
+				<items ColumnName="shtWeight">0.5</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="lngSN">152</items>
+				<items ColumnName="strInput">D20</items>
+				<items ColumnName="shtWeight">1.5</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="lngSN">153</items>
+				<items ColumnName="strInput">D21</items>
+				<items ColumnName="shtWeight">1</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="lngSN">154</items>
+				<items ColumnName="strInput">D22</items>
+				<items ColumnName="shtWeight">0.9</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="lngSN">155</items>
+				<items ColumnName="strInput">D23</items>
+				<items ColumnName="shtWeight">0.8</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="lngSN">156</items>
+				<items ColumnName="strInput">D24</items>
+				<items ColumnName="shtWeight">0.9</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="lngSN">157</items>
+				<items ColumnName="strInput">D25</items>
+				<items ColumnName="shtWeight">1.5</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="lngSN">158</items>
+				<items ColumnName="strInput">D26</items>
+				<items ColumnName="shtWeight">1.8</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="lngSN">159</items>
+				<items ColumnName="strInput">D27</items>
+				<items ColumnName="shtWeight">0.7</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="lngSN">160</items>
+				<items ColumnName="strInput">D28</items>
+				<items ColumnName="shtWeight">0.8</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="lngSN">161</items>
+				<items ColumnName="strInput">D29</items>
+				<items ColumnName="shtWeight">1.6</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="lngSN">162</items>
+				<items ColumnName="strInput">D30</items>
+				<items ColumnName="shtWeight">0.6</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="lngSN">163</items>
+				<items ColumnName="strInput">YY01</items>
+				<items ColumnName="shtWeight">1.6</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="lngSN">164</items>
+				<items ColumnName="strInput">YY02</items>
+				<items ColumnName="shtWeight">0.6</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="lngSN">165</items>
+				<items ColumnName="strInput">YY03</items>
+				<items ColumnName="shtWeight">0.7</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="lngSN">166</items>
+				<items ColumnName="strInput">YY04</items>
+				<items ColumnName="shtWeight">1</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="lngSN">167</items>
+				<items ColumnName="strInput">YY05</items>
+				<items ColumnName="shtWeight">0.9</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="lngSN">168</items>
+				<items ColumnName="strInput">YY06</items>
+				<items ColumnName="shtWeight">1.6</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="lngSN">169</items>
+				<items ColumnName="strInput">YY07</items>
+				<items ColumnName="shtWeight">1</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="lngSN">170</items>
+				<items ColumnName="strInput">YY08</items>
+				<items ColumnName="shtWeight">0.8</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="lngSN">171</items>
+				<items ColumnName="strInput">YY09</items>
+				<items ColumnName="shtWeight">0.8</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="lngSN">172</items>
+				<items ColumnName="strInput">YY10</items>
+				<items ColumnName="shtWeight">0.9</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="lngSN">173</items>
+				<items ColumnName="strInput">YY11</items>
+				<items ColumnName="shtWeight">0.6</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="lngSN">174</items>
+				<items ColumnName="strInput">YY12</items>
+				<items ColumnName="shtWeight">0.6</items>
+			</DataRow>
+		</DataRows>
+	</DataTable>
+</FileName>

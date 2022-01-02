@@ -1,0 +1,251 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<FileName Name="tblP60Flower.xml">
+  <DataTable TableName="tblP60Flower">
+    <DataColumns>
+      <DataColumn ColumnName="strXYID" DataType="System.String" Caption="strXYID" />
+      <DataColumn ColumnName="strNFID" DataType="System.String" Caption="strNFID" />
+    </DataColumns>
+    <DataRows>
+      <DataRow>
+        <items ColumnName="strXYID">XX01YY01</items>
+        <items ColumnName="strNFID">NF01</items>
+      </DataRow>
+      <DataRow>
+        <items ColumnName="strXYID">XX02YY02</items>
+        <items ColumnName="strNFID">NF01</items>
+      </DataRow>
+      <DataRow>
+        <items ColumnName="strXYID">XX03YY03</items>
+        <items ColumnName="strNFID">NF02</items>
+      </DataRow>
+      <DataRow>
+        <items ColumnName="strXYID">XX04YY04</items>
+        <items ColumnName="strNFID">NF02</items>
+      </DataRow>
+      <DataRow>
+        <items ColumnName="strXYID">XX05YY05</items>
+        <items ColumnName="strNFID">NF03</items>
+      </DataRow>
+      <DataRow>
+        <items ColumnName="strXYID">XX06YY06</items>
+        <items ColumnName="strNFID">NF03</items>
+      </DataRow>
+      <DataRow>
+        <items ColumnName="strXYID">XX07YY07</items>
+        <items ColumnName="strNFID">NF04</items>
+      </DataRow>
+      <DataRow>
+        <items ColumnName="strXYID">XX08YY08</items>
+        <items ColumnName="strNFID">NF04</items>
+      </DataRow>
+      <DataRow>
+        <items ColumnName="strXYID">XX09YY09</items>
+        <items ColumnName="strNFID">NF05</items>
+      </DataRow>
+      <DataRow>
+        <items ColumnName="strXYID">XX10YY10</items>
+        <items ColumnName="strNFID">NF05</items>
+      </DataRow>
+      <DataRow>
+        <items ColumnName="strXYID">XX01YY11</items>
+        <items ColumnName="strNFID">NF06</items>
+      </DataRow>
+      <DataRow>
+        <items ColumnName="strXYID">XX02YY12</items>
+        <items ColumnName="strNFID">NF06</items>
+      </DataRow>
+      <DataRow>
+        <items ColumnName="strXYID">XX03YY01</items>
+        <items ColumnName="strNFID">NF07</items>
+      </DataRow>
+      <DataRow>
+        <items ColumnName="strXYID">XX04YY02</items>
+        <items ColumnName="strNFID">NF07</items>
+      </DataRow>
+      <DataRow>
+        <items ColumnName="strXYID">XX05YY03</items>
+        <items ColumnName="strNFID">NF08</items>
+      </DataRow>
+      <DataRow>
+        <items ColumnName="strXYID">XX06YY04</items>
+        <items ColumnName="strNFID">NF08</items>
+      </DataRow>
+      <DataRow>
+        <items ColumnName="strXYID">XX07YY05</items>
+        <items ColumnName="strNFID">NF09</items>
+      </DataRow>
+      <DataRow>
+        <items ColumnName="strXYID">XX08YY06</items>
+        <items ColumnName="strNFID">NF09</items>
+      </DataRow>
+      <DataRow>
+        <items ColumnName="strXYID">XX09YY07</items>
+        <items ColumnName="strNFID">NF10</items>
+      </DataRow>
+      <DataRow>
+        <items ColumnName="strXYID">XX10YY08</items>
+        <items ColumnName="strNFID">NF10</items>
+      </DataRow>
+      <DataRow>
+        <items ColumnName="strXYID">XX01YY09</items>
+        <items ColumnName="strNFID">NF11</items>
+      </DataRow>
+      <DataRow>
+        <items ColumnName="strXYID">XX02YY10</items>
+        <items ColumnName="strNFID">NF11</items>
+      </DataRow>
+      <DataRow>
+        <items ColumnName="strXYID">XX03YY11</items>
+        <items ColumnName="strNFID">NF12</items>
+      </DataRow>
+      <DataRow>
+        <items ColumnName="strXYID">XX04YY12</items>
+        <items ColumnName="strNFID">NF12</items>
+      </DataRow>
+      <DataRow>
+        <items ColumnName="strXYID">XX05YY01</items>
+        <items ColumnName="strNFID">NF13</items>
+      </DataRow>
+      <DataRow>
+        <items ColumnName="strXYID">XX06YY02</items>
+        <items ColumnName="strNFID">NF13</items>
+      </DataRow>
+      <DataRow>
+        <items ColumnName="strXYID">XX07YY03</items>
+        <items ColumnName="strNFID">NF14</items>
+      </DataRow>
+      <DataRow>
+        <items ColumnName="strXYID">XX08YY04</items>
+        <items ColumnName="strNFID">NF14</items>
+      </DataRow>
+      <DataRow>
+        <items ColumnName="strXYID">XX09YY05</items>
+        <items ColumnName="strNFID">NF15</items>
+      </DataRow>
+      <DataRow>
+        <items ColumnName="strXYID">XX10YY06</items>
+        <items ColumnName="strNFID">NF15</items>
+      </DataRow>
+      <DataRow>
+        <items ColumnName="strXYID">XX01YY07</items>
+        <items ColumnName="strNFID">NF16</items>
+      </DataRow>
+      <DataRow>
+        <items ColumnName="strXYID">XX02YY08</items>
+        <items ColumnName="strNFID">NF16</items>
+      </DataRow>
+      <DataRow>
+        <items ColumnName="strXYID">XX03YY09</items>
+        <items ColumnName="strNFID">NF17</items>
+      </DataRow>
+      <DataRow>
+        <items ColumnName="strXYID">XX04YY10</items>
+        <items ColumnName="strNFID">NF17</items>
+      </DataRow>
+      <DataRow>
+        <items ColumnName="strXYID">XX05YY11</items>
+        <items ColumnName="strNFID">NF18</items>
+      </DataRow>
+      <DataRow>
+        <items ColumnName="strXYID">XX06YY12</items>
+        <items ColumnName="strNFID">NF18</items>
+      </DataRow>
+      <DataRow>
+        <items ColumnName="strXYID">XX07YY01</items>
+        <items ColumnName="strNFID">NF19</items>
+      </DataRow>
+      <DataRow>
+        <items ColumnName="strXYID">XX08YY02</items>
+        <items ColumnName="strNFID">NF19</items>
+      </DataRow>
+      <DataRow>
+        <items ColumnName="strXYID">XX09YY03</items>
+        <items ColumnName="strNFID">NF20</items>
+      </DataRow>
+      <DataRow>
+        <items ColumnName="strXYID">XX10YY04</items>
+        <items ColumnName="strNFID">NF20</items>
+      </DataRow>
+      <DataRow>
+        <items ColumnName="strXYID">XX01YY05</items>
+        <items ColumnName="strNFID">NF21</items>
+      </DataRow>
+      <DataRow>
+        <items ColumnName="strXYID">XX02YY06</items>
+        <items ColumnName="strNFID">NF21</items>
+      </DataRow>
+      <DataRow>
+        <items ColumnName="strXYID">XX03YY07</items>
+        <items ColumnName="strNFID">NF22</items>
+      </DataRow>
+      <DataRow>
+        <items ColumnName="strXYID">XX04YY08</items>
+        <items ColumnName="strNFID">NF22</items>
+      </DataRow>
+      <DataRow>
+        <items ColumnName="strXYID">XX05YY09</items>
+        <items ColumnName="strNFID">NF23</items>
+      </DataRow>
+      <DataRow>
+        <items ColumnName="strXYID">XX06YY10</items>
+        <items ColumnName="strNFID">NF23</items>
+      </DataRow>
+      <DataRow>
+        <items ColumnName="strXYID">XX07YY11</items>
+        <items ColumnName="strNFID">NF24</items>
+      </DataRow>
+      <DataRow>
+        <items ColumnName="strXYID">XX08YY12</items>
+        <items ColumnName="strNFID">NF24</items>
+      </DataRow>
+      <DataRow>
+        <items ColumnName="strXYID">XX09YY01</items>
+        <items ColumnName="strNFID">NF25</items>
+      </DataRow>
+      <DataRow>
+        <items ColumnName="strXYID">XX10YY02</items>
+        <items ColumnName="strNFID">NF25</items>
+      </DataRow>
+      <DataRow>
+        <items ColumnName="strXYID">XX01YY03</items>
+        <items ColumnName="strNFID">NF26</items>
+      </DataRow>
+      <DataRow>
+        <items ColumnName="strXYID">XX02YY04</items>
+        <items ColumnName="strNFID">NF26</items>
+      </DataRow>
+      <DataRow>
+        <items ColumnName="strXYID">XX03YY05</items>
+        <items ColumnName="strNFID">NF27</items>
+      </DataRow>
+      <DataRow>
+        <items ColumnName="strXYID">XX04YY06</items>
+        <items ColumnName="strNFID">NF27</items>
+      </DataRow>
+      <DataRow>
+        <items ColumnName="strXYID">XX05YY07</items>
+        <items ColumnName="strNFID">NF28</items>
+      </DataRow>
+      <DataRow>
+        <items ColumnName="strXYID">XX06YY08</items>
+        <items ColumnName="strNFID">NF28</items>
+      </DataRow>
+      <DataRow>
+        <items ColumnName="strXYID">XX07YY09</items>
+        <items ColumnName="strNFID">NF29</items>
+      </DataRow>
+      <DataRow>
+        <items ColumnName="strXYID">XX08YY10</items>
+        <items ColumnName="strNFID">NF29</items>
+      </DataRow>
+      <DataRow>
+        <items ColumnName="strXYID">XX09YY11</items>
+        <items ColumnName="strNFID">NF30</items>
+      </DataRow>
+      <DataRow>
+        <items ColumnName="strXYID">XX10YY12</items>
+        <items ColumnName="strNFID">NF30</items>
+      </DataRow>
+    </DataRows>
+  </DataTable>
+</FileName>

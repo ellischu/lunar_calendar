@@ -62,41 +62,149 @@ namespace lunar_calendar.Properties {
         
         /// <summary>
         ///   查詢類似 &lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-8&quot;?&gt;
-        ///&lt;LifeWeight&gt;
-        ///&lt;item&gt;
-        ///&lt;name&gt;tblWeight&lt;/name&gt;
-        ///&lt;rowsdata&gt;
-        ///
-        ///&lt;/rowsdata&gt;
-        ///&lt;/item&gt;
-        ///
-        ///61	XX01YY01	1.2
-        ///62	XX02YY02	0.9
-        ///63	XX03YY03	0.6
-        ///64	XX04YY04	0.7
-        ///65	XX05YY05	1.2
-        ///66	XX06YY06	0.5
-        ///67	XX07YY07	0.9
-        ///68	XX08YY08	0.8
-        ///69	XX09YY09	0.7
-        ///70	XX10YY10	0.8
-        ///71	XX01YY11	1.5
-        ///72	XX02YY12	0.9
-        ///73	XX03YY01	1.6
-        ///74	XX04YY02	0.8
-        ///75	XX05YY03	0.8
-        ///76	XX06YY04	1.9
-        ///77	XX07YY05	1.2
-        ///78	XX08YY06	0.6
-        ///79	XX09YY07	0.8
-        ///80	XX10YY08	0.7
-        ///81	XX01YY09	0.5
-        ///82	XX02YY10	1.5
-        ///83	XX03YY11	0. [字串的其餘部分已遭截斷]&quot;; 的當地語系化字串。
+        ///&lt;FileName Name=&quot;24solarterms.xml&quot;&gt;
+        ///  &lt;DataTable TableName=&quot;solarterms&quot;&gt;
+        ///    &lt;DataColumns&gt;
+        ///      &lt;DataColumn ColumnName=&quot;ID&quot; DataType=&quot;System.Int64&quot; Caption=&quot;ID&quot; /&gt;
+        ///      &lt;DataColumn ColumnName=&quot;Year&quot; DataType=&quot;System.Int16&quot; Caption=&quot;Year&quot; /&gt;
+        ///      &lt;DataColumn ColumnName=&quot;SolarID&quot; DataType=&quot;System.String&quot; Caption=&quot;SolarID&quot; /&gt;
+        ///      &lt;DataColumn ColumnName=&quot;SolarName&quot; DataType=&quot;System.String&quot; Caption=&quot;SolarName&quot; /&gt;
+        ///      &lt;DataColumn ColumnName=&quot;SolarDate&quot; DataType [字串的其餘部分已遭截斷]&quot;; 的當地語系化字串。
+        /// </summary>
+        internal static string _24solarterms {
+            get {
+                return ResourceManager.GetString("_24solarterms", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類似 &lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-8&quot;?&gt;
+        ///&lt;FileName Name=&quot;IDName.xml&quot;&gt;
+        ///	&lt;DataTable TableName=&quot;tblIDName&quot;&gt;
+        ///		&lt;DataColumns&gt;
+        ///			&lt;DataColumn ColumnName=&quot;strID&quot; DataType=&quot;System.String&quot; Caption=&quot;strID&quot; /&gt;
+        ///			&lt;DataColumn ColumnName=&quot;strIDName&quot; DataType=&quot;System.String&quot; Caption=&quot;strIDName&quot; /&gt;
+        ///		&lt;/DataColumns&gt;
+        ///		&lt;DataRows&gt;
+        ///			&lt;DataRow&gt;
+        ///				&lt;items ColumnName=&quot;strID&quot;&gt;0 &lt;/items&gt;
+        ///				&lt;items ColumnName=&quot;strIDName&quot;&gt;*&lt;/items&gt;
+        ///			&lt;/DataRow&gt;
+        ///			&lt;DataRow&gt;
+        ///				&lt;items ColumnName=&quot;strID&quot;&gt;AY01&lt;/items&gt;
+        ///				&lt;items Column [字串的其餘部分已遭截斷]&quot;; 的當地語系化字串。
+        /// </summary>
+        internal static string IDName {
+            get {
+                return ResourceManager.GetString("IDName", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類似 &lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-8&quot;?&gt;
+        ///&lt;FileName Name=&quot;tblWeight.xml&quot;&gt;
+        ///	&lt;DataTable TableName=&quot;tblWeight&quot;&gt;
+        ///		&lt;DataColumns&gt;
+        ///			&lt;DataColumn ColumnName=&quot;lngSN&quot; DataType=&quot;System.Int32&quot; Caption=&quot;lngSN&quot; /&gt;
+        ///			&lt;DataColumn ColumnName=&quot;strInput&quot; DataType=&quot;System.String&quot; Caption=&quot;strInput&quot; /&gt;
+        ///			&lt;DataColumn ColumnName=&quot;shtWeight&quot; DataType=&quot;System.Single&quot; Caption=&quot;shtWeight&quot; /&gt;
+        ///		&lt;/DataColumns&gt;
+        ///		&lt;DataRows&gt;
+        ///			&lt;DataRow&gt;
+        ///				&lt;items ColumnName=&quot;lngSN&quot;&gt;61&lt;/items&gt;
+        ///				&lt;items ColumnName=&quot;strInput&quot;&gt;XX01YY01&lt;/items [字串的其餘部分已遭截斷]&quot;; 的當地語系化字串。
         /// </summary>
         internal static string LifeWeight {
             get {
                 return ResourceManager.GetString("LifeWeight", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類似 &lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-8&quot;?&gt;
+        ///&lt;FileName Name=&quot;tblP60Flower.xml&quot;&gt;
+        ///  &lt;DataTable TableName=&quot;tblP60Flower&quot;&gt;
+        ///    &lt;DataColumns&gt;
+        ///      &lt;DataColumn ColumnName=&quot;strXYID&quot; DataType=&quot;System.String&quot; Caption=&quot;strXYID&quot; /&gt;
+        ///      &lt;DataColumn ColumnName=&quot;strNFID&quot; DataType=&quot;System.String&quot; Caption=&quot;strNFID&quot; /&gt;
+        ///    &lt;/DataColumns&gt;
+        ///    &lt;DataRows&gt;
+        ///      &lt;DataRow&gt;
+        ///        &lt;items ColumnName=&quot;strXYID&quot;&gt;XX01YY01&lt;/items&gt;
+        ///        &lt;items ColumnName=&quot;strNFID&quot;&gt;NF01&lt;/items&gt;
+        ///      &lt;/DataRow&gt;
+        ///      &lt;DataRow&gt;
+        ///        &lt;item [字串的其餘部分已遭截斷]&quot;; 的當地語系化字串。
+        /// </summary>
+        internal static string P60Flower {
+            get {
+                return ResourceManager.GetString("P60Flower", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類似 &lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-8&quot;?&gt;
+        ///&lt;FileName Name=&quot;tblP60To5Element.xml&quot;&gt;
+        ///  &lt;DataTable TableName=&quot;tblP60To5Element&quot;&gt;
+        ///    &lt;DataColumns&gt;
+        ///      &lt;DataColumn ColumnName=&quot;strNFID&quot; DataType=&quot;System.String&quot; Caption=&quot;strNFID&quot; /&gt;
+        ///      &lt;DataColumn ColumnName=&quot;strNEID&quot; DataType=&quot;System.String&quot; Caption=&quot;strNEID&quot; /&gt;
+        ///    &lt;/DataColumns&gt;
+        ///    &lt;DataRows&gt;
+        ///      &lt;DataRow&gt;
+        ///        &lt;items ColumnName=&quot;strNFID&quot;&gt;NF01&lt;/items&gt;
+        ///        &lt;items ColumnName=&quot;strNEID&quot;&gt;NE04&lt;/items&gt;
+        ///      &lt;/DataRow&gt;
+        ///      &lt;DataRow&gt;
+        ///        &lt; [字串的其餘部分已遭截斷]&quot;; 的當地語系化字串。
+        /// </summary>
+        internal static string P60To5Element {
+            get {
+                return ResourceManager.GetString("P60To5Element", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類似 &lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-8&quot;?&gt;
+        ///&lt;FileName Name=&quot;StarLocation.xml&quot;&gt;
+        ///	&lt;DataTable TableName=&quot;tblStarLocation&quot;&gt;
+        ///		&lt;DataColumns&gt;
+        ///			&lt;DataColumn ColumnName=&quot;strID&quot; DataType=&quot;System.String&quot; Caption=&quot;strID&quot; /&gt;
+        ///			&lt;DataColumn ColumnName=&quot;strLocationID&quot; DataType=&quot;System.String&quot; Caption=&quot;strLocationID&quot; /&gt;
+        ///		&lt;/DataColumns&gt;
+        ///		&lt;DataRows&gt;
+        ///			&lt;DataRow&gt;
+        ///				&lt;items ColumnName=&quot;strID&quot;&gt;FX07XX09&lt;/items&gt;
+        ///				&lt;items ColumnName=&quot;strLocationID&quot;&gt;AY01&lt;/items&gt;
+        ///			&lt;/DataRow&gt;
+        ///			&lt;DataRow&gt;
+        ///				&lt;items ColumnName=&quot;strID [字串的其餘部分已遭截斷]&quot;; 的當地語系化字串。
+        /// </summary>
+        internal static string StarLocation {
+            get {
+                return ResourceManager.GetString("StarLocation", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類似 &lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-8&quot;?&gt;
+        ///&lt;FileName Name=&quot;StarStrongWeak.xml&quot;&gt;
+        ///	&lt;DataTable TableName=&quot;tblStarStrongWeak&quot;&gt;
+        ///		&lt;DataColumns&gt;
+        ///			&lt;DataColumn ColumnName=&quot;strStarYY&quot; DataType=&quot;System.String&quot; Caption=&quot;strStarYY&quot; /&gt;
+        ///			&lt;DataColumn ColumnName=&quot;strStarPY&quot; DataType=&quot;System.String&quot; Caption=&quot;strStarPY&quot; /&gt;
+        ///		&lt;/DataColumns&gt;
+        ///		&lt;DataRows&gt;
+        ///			&lt;DataRow&gt;
+        ///				&lt;items ColumnName=&quot;strStarYY&quot;&gt;AY01YY02&lt;/items&gt;
+        ///				&lt;items ColumnName=&quot;strStarPY&quot;&gt;AY01PY01&lt;/items&gt;
+        ///			&lt;/DataRow&gt;
+        ///			&lt;DataRow&gt;
+        ///				&lt;items ColumnNam [字串的其餘部分已遭截斷]&quot;; 的當地語系化字串。
+        /// </summary>
+        internal static string StarStrongWeak {
+            get {
+                return ResourceManager.GetString("StarStrongWeak", resourceCulture);
             }
         }
     }

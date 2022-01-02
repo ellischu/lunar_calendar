@@ -1,0 +1,4075 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FileName Name="StarLocation.xml">
+	<DataTable TableName="tblStarLocation">
+		<DataColumns>
+			<DataColumn ColumnName="strID" DataType="System.String" Caption="strID" />
+			<DataColumn ColumnName="strLocationID" DataType="System.String" Caption="strLocationID" />
+		</DataColumns>
+		<DataRows>
+			<DataRow>
+				<items ColumnName="strID">FX07XX09</items>
+				<items ColumnName="strLocationID">AY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX08XX02</items>
+				<items ColumnName="strLocationID">AY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX06XX02</items>
+				<items ColumnName="strLocationID">AY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX07XX03</items>
+				<items ColumnName="strLocationID">AY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX08XX04</items>
+				<items ColumnName="strLocationID">AY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX09XX05</items>
+				<items ColumnName="strLocationID">AY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX06XX07</items>
+				<items ColumnName="strLocationID">AY03</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX07XX08</items>
+				<items ColumnName="strLocationID">AY03</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX09XX01</items>
+				<items ColumnName="strLocationID">AY03</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX06XX06</items>
+				<items ColumnName="strLocationID">AY04</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX07XX07</items>
+				<items ColumnName="strLocationID">AY04</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX08XX01</items>
+				<items ColumnName="strLocationID">AY04</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX09XX09</items>
+				<items ColumnName="strLocationID">AY04</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX06XX03</items>
+				<items ColumnName="strLocationID">AY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX07XX04</items>
+				<items ColumnName="strLocationID">AY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX09XX07</items>
+				<items ColumnName="strLocationID">AY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX06XX01</items>
+				<items ColumnName="strLocationID">AY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX09XX03</items>
+				<items ColumnName="strLocationID">AY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX06XX04</items>
+				<items ColumnName="strLocationID">BY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX07XX05</items>
+				<items ColumnName="strLocationID">BY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX08XX07</items>
+				<items ColumnName="strLocationID">BY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX08XX10</items>
+				<items ColumnName="strLocationID">BY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX09XX02</items>
+				<items ColumnName="strLocationID">BY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX06XX05</items>
+				<items ColumnName="strLocationID">BY03</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX07XX06</items>
+				<items ColumnName="strLocationID">BY03</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX09XX10</items>
+				<items ColumnName="strLocationID">BY03</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX06XX08</items>
+				<items ColumnName="strLocationID">BY04</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX07XX10</items>
+				<items ColumnName="strLocationID">BY04</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX09XX04</items>
+				<items ColumnName="strLocationID">BY04</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX06XX09</items>
+				<items ColumnName="strLocationID">BY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX07XX02</items>
+				<items ColumnName="strLocationID">BY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX08XX06</items>
+				<items ColumnName="strLocationID">BY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX06XX10</items>
+				<items ColumnName="strLocationID">BY08</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX07XX01</items>
+				<items ColumnName="strLocationID">BY08</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX08XX03</items>
+				<items ColumnName="strLocationID">CY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX09XX08</items>
+				<items ColumnName="strLocationID">CY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX08XX08</items>
+				<items ColumnName="strLocationID">CY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX09XX06</items>
+				<items ColumnName="strLocationID">CY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX08XX09</items>
+				<items ColumnName="strLocationID">DM01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX08XX05</items>
+				<items ColumnName="strLocationID">DM02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY11YY01</items>
+				<items ColumnName="strLocationID">LN01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY11YY02</items>
+				<items ColumnName="strLocationID">LN02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY11YY03</items>
+				<items ColumnName="strLocationID">LN03</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY11YY04</items>
+				<items ColumnName="strLocationID">LN04</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY11YY05</items>
+				<items ColumnName="strLocationID">LN05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY11YY06</items>
+				<items ColumnName="strLocationID">LN06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY11YY07</items>
+				<items ColumnName="strLocationID">LN07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY11YY08</items>
+				<items ColumnName="strLocationID">LN08</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY11YY09</items>
+				<items ColumnName="strLocationID">LN09</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY11YY10</items>
+				<items ColumnName="strLocationID">LN10</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY11YY11</items>
+				<items ColumnName="strLocationID">LN11</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY11YY12</items>
+				<items ColumnName="strLocationID">LN12</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY02YY02</items>
+				<items ColumnName="strLocationID">YY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY03YY04</items>
+				<items ColumnName="strLocationID">YY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY04YY05</items>
+				<items ColumnName="strLocationID">YY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY05YY06</items>
+				<items ColumnName="strLocationID">YY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY06YY09</items>
+				<items ColumnName="strLocationID">YY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY01YY05</items>
+				<items ColumnName="strLocationID">YY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY02YY12</items>
+				<items ColumnName="strLocationID">YY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY03YY11</items>
+				<items ColumnName="strLocationID">YY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY04YY10</items>
+				<items ColumnName="strLocationID">YY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY05YY09</items>
+				<items ColumnName="strLocationID">YY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY06YY08</items>
+				<items ColumnName="strLocationID">YY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY07YY07</items>
+				<items ColumnName="strLocationID">YY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY08YY03</items>
+				<items ColumnName="strLocationID">YY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY01YY11</items>
+				<items ColumnName="strLocationID">YY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY02YY09</items>
+				<items ColumnName="strLocationID">YY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY01YY11</items>
+				<items ColumnName="strLocationID">YY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY02YY10</items>
+				<items ColumnName="strLocationID">YY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY03YY12</items>
+				<items ColumnName="strLocationID">YY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY04YY04</items>
+				<items ColumnName="strLocationID">YY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY05YY11</items>
+				<items ColumnName="strLocationID">YY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY06YY10</items>
+				<items ColumnName="strLocationID">YY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY07YY12</items>
+				<items ColumnName="strLocationID">YY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY08YY04</items>
+				<items ColumnName="strLocationID">YY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY09YY11</items>
+				<items ColumnName="strLocationID">YY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY10YY10</items>
+				<items ColumnName="strLocationID">YY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY11YY12</items>
+				<items ColumnName="strLocationID">YY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY12YY04</items>
+				<items ColumnName="strLocationID">YY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY01YY03</items>
+				<items ColumnName="strLocationID">YY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY02YY03</items>
+				<items ColumnName="strLocationID">YY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY03YY10</items>
+				<items ColumnName="strLocationID">YY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY04YY03</items>
+				<items ColumnName="strLocationID">YY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY05YY03</items>
+				<items ColumnName="strLocationID">YY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY06YY03</items>
+				<items ColumnName="strLocationID">YY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY07YY10</items>
+				<items ColumnName="strLocationID">YY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY08YY03</items>
+				<items ColumnName="strLocationID">YY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY09YY03</items>
+				<items ColumnName="strLocationID">YY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY10YY03</items>
+				<items ColumnName="strLocationID">YY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY11YY10</items>
+				<items ColumnName="strLocationID">YY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY12YY03</items>
+				<items ColumnName="strLocationID">YY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY05YY02</items>
+				<items ColumnName="strLocationID">YY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY06YY12</items>
+				<items ColumnName="strLocationID">YY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY07YY07</items>
+				<items ColumnName="strLocationID">YY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY08YY11</items>
+				<items ColumnName="strLocationID">YY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM0109</items>
+				<items ColumnName="strLocationID">YY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM0211</items>
+				<items ColumnName="strLocationID">YY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM0304</items>
+				<items ColumnName="strLocationID">YY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM0412</items>
+				<items ColumnName="strLocationID">YY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM0605</items>
+				<items ColumnName="strLocationID">YY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM0606</items>
+				<items ColumnName="strLocationID">YY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM0902</items>
+				<items ColumnName="strLocationID">YY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM0908</items>
+				<items ColumnName="strLocationID">YY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX01XX10</items>
+				<items ColumnName="strLocationID">YY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX02XX09</items>
+				<items ColumnName="strLocationID">YY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX04XX02</items>
+				<items ColumnName="strLocationID">YY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX04XX06</items>
+				<items ColumnName="strLocationID">YY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX11XX03</items>
+				<items ColumnName="strLocationID">YY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY01YY07</items>
+				<items ColumnName="strLocationID">YY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY02YY07</items>
+				<items ColumnName="strLocationID">YY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY03YY09</items>
+				<items ColumnName="strLocationID">YY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY04YY11</items>
+				<items ColumnName="strLocationID">YY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY05YY04</items>
+				<items ColumnName="strLocationID">YY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY06YY10</items>
+				<items ColumnName="strLocationID">YY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY09YY11</items>
+				<items ColumnName="strLocationID">YY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0222</items>
+				<items ColumnName="strLocationID">YY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0223</items>
+				<items ColumnName="strLocationID">YY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0325</items>
+				<items ColumnName="strLocationID">YY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0327</items>
+				<items ColumnName="strLocationID">YY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0405</items>
+				<items ColumnName="strLocationID">YY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0507</items>
+				<items ColumnName="strLocationID">YY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0609</items>
+				<items ColumnName="strLocationID">YY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0619</items>
+				<items ColumnName="strLocationID">YY01</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY02YY03</items>
+				<items ColumnName="strLocationID">YY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY03YY05</items>
+				<items ColumnName="strLocationID">YY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY04YY06</items>
+				<items ColumnName="strLocationID">YY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY05YY07</items>
+				<items ColumnName="strLocationID">YY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY06YY10</items>
+				<items ColumnName="strLocationID">YY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY01YY04</items>
+				<items ColumnName="strLocationID">YY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY02YY01</items>
+				<items ColumnName="strLocationID">YY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY03YY12</items>
+				<items ColumnName="strLocationID">YY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY04YY11</items>
+				<items ColumnName="strLocationID">YY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY05YY10</items>
+				<items ColumnName="strLocationID">YY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY06YY09</items>
+				<items ColumnName="strLocationID">YY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY07YY08</items>
+				<items ColumnName="strLocationID">YY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY08YY04</items>
+				<items ColumnName="strLocationID">YY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY01YY10</items>
+				<items ColumnName="strLocationID">YY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY02YY10</items>
+				<items ColumnName="strLocationID">YY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY01YY12</items>
+				<items ColumnName="strLocationID">YY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY02YY11</items>
+				<items ColumnName="strLocationID">YY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY03YY01</items>
+				<items ColumnName="strLocationID">YY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY04YY05</items>
+				<items ColumnName="strLocationID">YY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY05YY12</items>
+				<items ColumnName="strLocationID">YY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY06YY11</items>
+				<items ColumnName="strLocationID">YY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY07YY01</items>
+				<items ColumnName="strLocationID">YY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY08YY05</items>
+				<items ColumnName="strLocationID">YY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY09YY12</items>
+				<items ColumnName="strLocationID">YY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY10YY11</items>
+				<items ColumnName="strLocationID">YY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY11YY01</items>
+				<items ColumnName="strLocationID">YY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY12YY05</items>
+				<items ColumnName="strLocationID">YY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY01YY04</items>
+				<items ColumnName="strLocationID">YY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY02YY04</items>
+				<items ColumnName="strLocationID">YY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY03YY11</items>
+				<items ColumnName="strLocationID">YY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY04YY04</items>
+				<items ColumnName="strLocationID">YY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY05YY04</items>
+				<items ColumnName="strLocationID">YY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY06YY04</items>
+				<items ColumnName="strLocationID">YY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY07YY11</items>
+				<items ColumnName="strLocationID">YY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY08YY04</items>
+				<items ColumnName="strLocationID">YY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY09YY04</items>
+				<items ColumnName="strLocationID">YY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY10YY04</items>
+				<items ColumnName="strLocationID">YY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY11YY11</items>
+				<items ColumnName="strLocationID">YY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY12YY04</items>
+				<items ColumnName="strLocationID">YY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY05YY03</items>
+				<items ColumnName="strLocationID">YY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY06YY11</items>
+				<items ColumnName="strLocationID">YY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY07YY08</items>
+				<items ColumnName="strLocationID">YY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY08YY12</items>
+				<items ColumnName="strLocationID">YY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM0110</items>
+				<items ColumnName="strLocationID">YY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM0210</items>
+				<items ColumnName="strLocationID">YY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM0305</items>
+				<items ColumnName="strLocationID">YY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM0401</items>
+				<items ColumnName="strLocationID">YY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX02XX10</items>
+				<items ColumnName="strLocationID">YY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX03XX01</items>
+				<items ColumnName="strLocationID">YY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX04XX01</items>
+				<items ColumnName="strLocationID">YY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX04XX05</items>
+				<items ColumnName="strLocationID">YY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX04XX07</items>
+				<items ColumnName="strLocationID">YY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY01YY06</items>
+				<items ColumnName="strLocationID">YY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY02YY08</items>
+				<items ColumnName="strLocationID">YY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY03YY10</items>
+				<items ColumnName="strLocationID">YY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY04YY10</items>
+				<items ColumnName="strLocationID">YY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY05YY03</items>
+				<items ColumnName="strLocationID">YY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY06YY09</items>
+				<items ColumnName="strLocationID">YY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY08YY03</items>
+				<items ColumnName="strLocationID">YY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY08YY04</items>
+				<items ColumnName="strLocationID">YY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY08YY05</items>
+				<items ColumnName="strLocationID">YY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY09YY12</items>
+				<items ColumnName="strLocationID">YY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY10YY02</items>
+				<items ColumnName="strLocationID">YY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY10YY05</items>
+				<items ColumnName="strLocationID">YY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY10YY08</items>
+				<items ColumnName="strLocationID">YY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY10YY11</items>
+				<items ColumnName="strLocationID">YY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0201</items>
+				<items ColumnName="strLocationID">YY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0224</items>
+				<items ColumnName="strLocationID">YY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0225</items>
+				<items ColumnName="strLocationID">YY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0302</items>
+				<items ColumnName="strLocationID">YY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0328</items>
+				<items ColumnName="strLocationID">YY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0403</items>
+				<items ColumnName="strLocationID">YY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0409</items>
+				<items ColumnName="strLocationID">YY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0504</items>
+				<items ColumnName="strLocationID">YY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0512</items>
+				<items ColumnName="strLocationID">YY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0605</items>
+				<items ColumnName="strLocationID">YY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0615</items>
+				<items ColumnName="strLocationID">YY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0625</items>
+				<items ColumnName="strLocationID">YY02</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY02YY04</items>
+				<items ColumnName="strLocationID">YY03</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY03YY06</items>
+				<items ColumnName="strLocationID">YY03</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY04YY07</items>
+				<items ColumnName="strLocationID">YY03</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY05YY08</items>
+				<items ColumnName="strLocationID">YY03</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY06YY11</items>
+				<items ColumnName="strLocationID">YY03</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY01YY03</items>
+				<items ColumnName="strLocationID">YY03</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY02YY02</items>
+				<items ColumnName="strLocationID">YY03</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY03YY01</items>
+				<items ColumnName="strLocationID">YY03</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY04YY12</items>
+				<items ColumnName="strLocationID">YY03</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY05YY11</items>
+				<items ColumnName="strLocationID">YY03</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY06YY10</items>
+				<items ColumnName="strLocationID">YY03</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY07YY09</items>
+				<items ColumnName="strLocationID">YY03</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY08YY05</items>
+				<items ColumnName="strLocationID">YY03</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY01YY09</items>
+				<items ColumnName="strLocationID">YY03</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY02YY11</items>
+				<items ColumnName="strLocationID">YY03</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY01YY01</items>
+				<items ColumnName="strLocationID">YY03</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY02YY12</items>
+				<items ColumnName="strLocationID">YY03</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY03YY02</items>
+				<items ColumnName="strLocationID">YY03</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY04YY06</items>
+				<items ColumnName="strLocationID">YY03</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY05YY01</items>
+				<items ColumnName="strLocationID">YY03</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY06YY12</items>
+				<items ColumnName="strLocationID">YY03</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY07YY02</items>
+				<items ColumnName="strLocationID">YY03</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY08YY06</items>
+				<items ColumnName="strLocationID">YY03</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY09YY01</items>
+				<items ColumnName="strLocationID">YY03</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY10YY12</items>
+				<items ColumnName="strLocationID">YY03</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY11YY02</items>
+				<items ColumnName="strLocationID">YY03</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY12YY06</items>
+				<items ColumnName="strLocationID">YY03</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY01YY05</items>
+				<items ColumnName="strLocationID">YY03</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY02YY05</items>
+				<items ColumnName="strLocationID">YY03</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY03YY12</items>
+				<items ColumnName="strLocationID">YY03</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY04YY05</items>
+				<items ColumnName="strLocationID">YY03</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY05YY05</items>
+				<items ColumnName="strLocationID">YY03</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY06YY05</items>
+				<items ColumnName="strLocationID">YY03</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY07YY12</items>
+				<items ColumnName="strLocationID">YY03</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY08YY05</items>
+				<items ColumnName="strLocationID">YY03</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY09YY05</items>
+				<items ColumnName="strLocationID">YY03</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY10YY05</items>
+				<items ColumnName="strLocationID">YY03</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY11YY12</items>
+				<items ColumnName="strLocationID">YY03</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY12YY05</items>
+				<items ColumnName="strLocationID">YY03</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY05YY04</items>
+				<items ColumnName="strLocationID">YY03</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY06YY10</items>
+				<items ColumnName="strLocationID">YY03</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY07YY09</items>
+				<items ColumnName="strLocationID">YY03</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY08YY01</items>
+				<items ColumnName="strLocationID">YY03</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM0111</items>
+				<items ColumnName="strLocationID">YY03</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM0209</items>
+				<items ColumnName="strLocationID">YY03</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM0306</items>
+				<items ColumnName="strLocationID">YY03</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM0402</items>
+				<items ColumnName="strLocationID">YY03</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM0503</items>
+				<items ColumnName="strLocationID">YY03</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM0507</items>
+				<items ColumnName="strLocationID">YY03</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM0511</items>
+				<items ColumnName="strLocationID">YY03</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM0607</items>
+				<items ColumnName="strLocationID">YY03</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM0608</items>
+				<items ColumnName="strLocationID">YY03</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM0703</items>
+				<items ColumnName="strLocationID">YY03</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM0707</items>
+				<items ColumnName="strLocationID">YY03</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM0711</items>
+				<items ColumnName="strLocationID">YY03</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM0804</items>
+				<items ColumnName="strLocationID">YY03</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM0809</items>
+				<items ColumnName="strLocationID">YY03</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM0812</items>
+				<items ColumnName="strLocationID">YY03</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM0901</items>
+				<items ColumnName="strLocationID">YY03</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM0907</items>
+				<items ColumnName="strLocationID">YY03</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX01XX01</items>
+				<items ColumnName="strLocationID">YY03</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX03XX02</items>
+				<items ColumnName="strLocationID">YY03</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX05XX08</items>
+				<items ColumnName="strLocationID">YY03</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX10XX04</items>
+				<items ColumnName="strLocationID">YY03</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX11XX06</items>
+				<items ColumnName="strLocationID">YY03</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY01YY05</items>
+				<items ColumnName="strLocationID">YY03</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY02YY09</items>
+				<items ColumnName="strLocationID">YY03</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY03YY11</items>
+				<items ColumnName="strLocationID">YY03</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY04YY09</items>
+				<items ColumnName="strLocationID">YY03</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY05YY02</items>
+				<items ColumnName="strLocationID">YY03</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY06YY08</items>
+				<items ColumnName="strLocationID">YY03</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY07YY01</items>
+				<items ColumnName="strLocationID">YY03</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY07YY02</items>
+				<items ColumnName="strLocationID">YY03</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY07YY12</items>
+				<items ColumnName="strLocationID">YY03</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY09YY07</items>
+				<items ColumnName="strLocationID">YY03</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0202</items>
+				<items ColumnName="strLocationID">YY03</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0203</items>
+				<items ColumnName="strLocationID">YY03</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0226</items>
+				<items ColumnName="strLocationID">YY03</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0227</items>
+				<items ColumnName="strLocationID">YY03</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0303</items>
+				<items ColumnName="strLocationID">YY03</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0305</items>
+				<items ColumnName="strLocationID">YY03</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0404</items>
+				<items ColumnName="strLocationID">YY03</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0407</items>
+				<items ColumnName="strLocationID">YY03</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0413</items>
+				<items ColumnName="strLocationID">YY03</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0505</items>
+				<items ColumnName="strLocationID">YY03</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0509</items>
+				<items ColumnName="strLocationID">YY03</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0517</items>
+				<items ColumnName="strLocationID">YY03</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0606</items>
+				<items ColumnName="strLocationID">YY03</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0611</items>
+				<items ColumnName="strLocationID">YY03</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0621</items>
+				<items ColumnName="strLocationID">YY03</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY02YY05</items>
+				<items ColumnName="strLocationID">YY04</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY03YY07</items>
+				<items ColumnName="strLocationID">YY04</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY04YY08</items>
+				<items ColumnName="strLocationID">YY04</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY05YY09</items>
+				<items ColumnName="strLocationID">YY04</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY06YY12</items>
+				<items ColumnName="strLocationID">YY04</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY01YY02</items>
+				<items ColumnName="strLocationID">YY04</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY02YY03</items>
+				<items ColumnName="strLocationID">YY04</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY03YY02</items>
+				<items ColumnName="strLocationID">YY04</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY04YY01</items>
+				<items ColumnName="strLocationID">YY04</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY05YY12</items>
+				<items ColumnName="strLocationID">YY04</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY06YY11</items>
+				<items ColumnName="strLocationID">YY04</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY07YY10</items>
+				<items ColumnName="strLocationID">YY04</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY08YY06</items>
+				<items ColumnName="strLocationID">YY04</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY01YY08</items>
+				<items ColumnName="strLocationID">YY04</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY02YY12</items>
+				<items ColumnName="strLocationID">YY04</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY01YY02</items>
+				<items ColumnName="strLocationID">YY04</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY02YY01</items>
+				<items ColumnName="strLocationID">YY04</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY03YY03</items>
+				<items ColumnName="strLocationID">YY04</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY04YY07</items>
+				<items ColumnName="strLocationID">YY04</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY05YY02</items>
+				<items ColumnName="strLocationID">YY04</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY06YY01</items>
+				<items ColumnName="strLocationID">YY04</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY07YY03</items>
+				<items ColumnName="strLocationID">YY04</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY08YY07</items>
+				<items ColumnName="strLocationID">YY04</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY09YY02</items>
+				<items ColumnName="strLocationID">YY04</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY10YY01</items>
+				<items ColumnName="strLocationID">YY04</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY11YY03</items>
+				<items ColumnName="strLocationID">YY04</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY12YY07</items>
+				<items ColumnName="strLocationID">YY04</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY01YY06</items>
+				<items ColumnName="strLocationID">YY04</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY02YY06</items>
+				<items ColumnName="strLocationID">YY04</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY03YY01</items>
+				<items ColumnName="strLocationID">YY04</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY04YY06</items>
+				<items ColumnName="strLocationID">YY04</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY05YY06</items>
+				<items ColumnName="strLocationID">YY04</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY06YY06</items>
+				<items ColumnName="strLocationID">YY04</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY07YY01</items>
+				<items ColumnName="strLocationID">YY04</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY08YY06</items>
+				<items ColumnName="strLocationID">YY04</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY09YY06</items>
+				<items ColumnName="strLocationID">YY04</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY10YY06</items>
+				<items ColumnName="strLocationID">YY04</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY11YY01</items>
+				<items ColumnName="strLocationID">YY04</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY12YY06</items>
+				<items ColumnName="strLocationID">YY04</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY05YY05</items>
+				<items ColumnName="strLocationID">YY04</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY06YY09</items>
+				<items ColumnName="strLocationID">YY04</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY07YY10</items>
+				<items ColumnName="strLocationID">YY04</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY08YY02</items>
+				<items ColumnName="strLocationID">YY04</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM0112</items>
+				<items ColumnName="strLocationID">YY04</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM0208</items>
+				<items ColumnName="strLocationID">YY04</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM0307</items>
+				<items ColumnName="strLocationID">YY04</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM0403</items>
+				<items ColumnName="strLocationID">YY04</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM0806</items>
+				<items ColumnName="strLocationID">YY04</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX01XX02</items>
+				<items ColumnName="strLocationID">YY04</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX02XX01</items>
+				<items ColumnName="strLocationID">YY04</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX04XX09</items>
+				<items ColumnName="strLocationID">YY04</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX04XX10</items>
+				<items ColumnName="strLocationID">YY04</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX10XX05</items>
+				<items ColumnName="strLocationID">YY04</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX11XX05</items>
+				<items ColumnName="strLocationID">YY04</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY01YY04</items>
+				<items ColumnName="strLocationID">YY04</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY02YY10</items>
+				<items ColumnName="strLocationID">YY04</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY03YY12</items>
+				<items ColumnName="strLocationID">YY04</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY04YY08</items>
+				<items ColumnName="strLocationID">YY04</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY05YY01</items>
+				<items ColumnName="strLocationID">YY04</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY06YY07</items>
+				<items ColumnName="strLocationID">YY04</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY09YY08</items>
+				<items ColumnName="strLocationID">YY04</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0204</items>
+				<items ColumnName="strLocationID">YY04</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0205</items>
+				<items ColumnName="strLocationID">YY04</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0228</items>
+				<items ColumnName="strLocationID">YY04</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0229</items>
+				<items ColumnName="strLocationID">YY04</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0306</items>
+				<items ColumnName="strLocationID">YY04</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0308</items>
+				<items ColumnName="strLocationID">YY04</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0408</items>
+				<items ColumnName="strLocationID">YY04</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0411</items>
+				<items ColumnName="strLocationID">YY04</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0417</items>
+				<items ColumnName="strLocationID">YY04</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0510</items>
+				<items ColumnName="strLocationID">YY04</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0514</items>
+				<items ColumnName="strLocationID">YY04</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0522</items>
+				<items ColumnName="strLocationID">YY04</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0612</items>
+				<items ColumnName="strLocationID">YY04</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0617</items>
+				<items ColumnName="strLocationID">YY04</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0627</items>
+				<items ColumnName="strLocationID">YY04</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY02YY06</items>
+				<items ColumnName="strLocationID">YY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY03YY08</items>
+				<items ColumnName="strLocationID">YY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY04YY09</items>
+				<items ColumnName="strLocationID">YY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY05YY10</items>
+				<items ColumnName="strLocationID">YY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY06YY01</items>
+				<items ColumnName="strLocationID">YY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY01YY01</items>
+				<items ColumnName="strLocationID">YY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY02YY04</items>
+				<items ColumnName="strLocationID">YY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY03YY03</items>
+				<items ColumnName="strLocationID">YY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY04YY02</items>
+				<items ColumnName="strLocationID">YY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY05YY01</items>
+				<items ColumnName="strLocationID">YY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY06YY12</items>
+				<items ColumnName="strLocationID">YY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY07YY11</items>
+				<items ColumnName="strLocationID">YY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY08YY07</items>
+				<items ColumnName="strLocationID">YY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY01YY07</items>
+				<items ColumnName="strLocationID">YY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY02YY01</items>
+				<items ColumnName="strLocationID">YY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY01YY03</items>
+				<items ColumnName="strLocationID">YY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY02YY02</items>
+				<items ColumnName="strLocationID">YY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY03YY04</items>
+				<items ColumnName="strLocationID">YY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY04YY08</items>
+				<items ColumnName="strLocationID">YY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY05YY03</items>
+				<items ColumnName="strLocationID">YY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY06YY02</items>
+				<items ColumnName="strLocationID">YY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY07YY04</items>
+				<items ColumnName="strLocationID">YY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY08YY08</items>
+				<items ColumnName="strLocationID">YY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY09YY03</items>
+				<items ColumnName="strLocationID">YY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY10YY02</items>
+				<items ColumnName="strLocationID">YY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY11YY04</items>
+				<items ColumnName="strLocationID">YY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY12YY08</items>
+				<items ColumnName="strLocationID">YY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY01YY07</items>
+				<items ColumnName="strLocationID">YY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY02YY07</items>
+				<items ColumnName="strLocationID">YY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY03YY02</items>
+				<items ColumnName="strLocationID">YY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY04YY07</items>
+				<items ColumnName="strLocationID">YY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY05YY07</items>
+				<items ColumnName="strLocationID">YY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY06YY07</items>
+				<items ColumnName="strLocationID">YY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY07YY02</items>
+				<items ColumnName="strLocationID">YY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY08YY07</items>
+				<items ColumnName="strLocationID">YY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY09YY07</items>
+				<items ColumnName="strLocationID">YY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY10YY07</items>
+				<items ColumnName="strLocationID">YY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY11YY02</items>
+				<items ColumnName="strLocationID">YY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY12YY07</items>
+				<items ColumnName="strLocationID">YY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY05YY06</items>
+				<items ColumnName="strLocationID">YY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY06YY08</items>
+				<items ColumnName="strLocationID">YY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY07YY11</items>
+				<items ColumnName="strLocationID">YY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY08YY03</items>
+				<items ColumnName="strLocationID">YY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM0101</items>
+				<items ColumnName="strLocationID">YY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM0207</items>
+				<items ColumnName="strLocationID">YY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM0308</items>
+				<items ColumnName="strLocationID">YY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM0404</items>
+				<items ColumnName="strLocationID">YY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM0609</items>
+				<items ColumnName="strLocationID">YY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM0610</items>
+				<items ColumnName="strLocationID">YY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM0803</items>
+				<items ColumnName="strLocationID">YY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM0906</items>
+				<items ColumnName="strLocationID">YY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM0912</items>
+				<items ColumnName="strLocationID">YY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX02XX02</items>
+				<items ColumnName="strLocationID">YY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX03XX03</items>
+				<items ColumnName="strLocationID">YY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX03XX05</items>
+				<items ColumnName="strLocationID">YY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX10XX02</items>
+				<items ColumnName="strLocationID">YY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY01YY03</items>
+				<items ColumnName="strLocationID">YY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY02YY11</items>
+				<items ColumnName="strLocationID">YY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY03YY01</items>
+				<items ColumnName="strLocationID">YY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY04YY07</items>
+				<items ColumnName="strLocationID">YY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY05YY12</items>
+				<items ColumnName="strLocationID">YY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY06YY06</items>
+				<items ColumnName="strLocationID">YY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY08YY06</items>
+				<items ColumnName="strLocationID">YY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY08YY07</items>
+				<items ColumnName="strLocationID">YY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY08YY08</items>
+				<items ColumnName="strLocationID">YY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY09YY09</items>
+				<items ColumnName="strLocationID">YY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0206</items>
+				<items ColumnName="strLocationID">YY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0207</items>
+				<items ColumnName="strLocationID">YY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0230</items>
+				<items ColumnName="strLocationID">YY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0301</items>
+				<items ColumnName="strLocationID">YY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0309</items>
+				<items ColumnName="strLocationID">YY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0311</items>
+				<items ColumnName="strLocationID">YY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0402</items>
+				<items ColumnName="strLocationID">YY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0412</items>
+				<items ColumnName="strLocationID">YY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0415</items>
+				<items ColumnName="strLocationID">YY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0421</items>
+				<items ColumnName="strLocationID">YY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0503</items>
+				<items ColumnName="strLocationID">YY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0515</items>
+				<items ColumnName="strLocationID">YY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0519</items>
+				<items ColumnName="strLocationID">YY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0527</items>
+				<items ColumnName="strLocationID">YY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0604</items>
+				<items ColumnName="strLocationID">YY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0618</items>
+				<items ColumnName="strLocationID">YY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0623</items>
+				<items ColumnName="strLocationID">YY05</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY02YY07</items>
+				<items ColumnName="strLocationID">YY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY03YY09</items>
+				<items ColumnName="strLocationID">YY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY04YY10</items>
+				<items ColumnName="strLocationID">YY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY05YY11</items>
+				<items ColumnName="strLocationID">YY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY06YY02</items>
+				<items ColumnName="strLocationID">YY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY01YY12</items>
+				<items ColumnName="strLocationID">YY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY02YY05</items>
+				<items ColumnName="strLocationID">YY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY03YY04</items>
+				<items ColumnName="strLocationID">YY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY04YY03</items>
+				<items ColumnName="strLocationID">YY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY05YY02</items>
+				<items ColumnName="strLocationID">YY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY06YY01</items>
+				<items ColumnName="strLocationID">YY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY07YY12</items>
+				<items ColumnName="strLocationID">YY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY08YY08</items>
+				<items ColumnName="strLocationID">YY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY01YY06</items>
+				<items ColumnName="strLocationID">YY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY02YY02</items>
+				<items ColumnName="strLocationID">YY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY01YY04</items>
+				<items ColumnName="strLocationID">YY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY02YY03</items>
+				<items ColumnName="strLocationID">YY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY03YY05</items>
+				<items ColumnName="strLocationID">YY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY04YY09</items>
+				<items ColumnName="strLocationID">YY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY05YY04</items>
+				<items ColumnName="strLocationID">YY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY06YY03</items>
+				<items ColumnName="strLocationID">YY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY07YY05</items>
+				<items ColumnName="strLocationID">YY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY08YY09</items>
+				<items ColumnName="strLocationID">YY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY09YY04</items>
+				<items ColumnName="strLocationID">YY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY10YY03</items>
+				<items ColumnName="strLocationID">YY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY11YY05</items>
+				<items ColumnName="strLocationID">YY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY12YY09</items>
+				<items ColumnName="strLocationID">YY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY01YY08</items>
+				<items ColumnName="strLocationID">YY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY02YY08</items>
+				<items ColumnName="strLocationID">YY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY03YY03</items>
+				<items ColumnName="strLocationID">YY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY04YY08</items>
+				<items ColumnName="strLocationID">YY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY05YY08</items>
+				<items ColumnName="strLocationID">YY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY06YY08</items>
+				<items ColumnName="strLocationID">YY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY07YY03</items>
+				<items ColumnName="strLocationID">YY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY08YY08</items>
+				<items ColumnName="strLocationID">YY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY09YY08</items>
+				<items ColumnName="strLocationID">YY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY10YY08</items>
+				<items ColumnName="strLocationID">YY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY11YY03</items>
+				<items ColumnName="strLocationID">YY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY12YY08</items>
+				<items ColumnName="strLocationID">YY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY05YY07</items>
+				<items ColumnName="strLocationID">YY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY06YY07</items>
+				<items ColumnName="strLocationID">YY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY07YY12</items>
+				<items ColumnName="strLocationID">YY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY08YY04</items>
+				<items ColumnName="strLocationID">YY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM0102</items>
+				<items ColumnName="strLocationID">YY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM0206</items>
+				<items ColumnName="strLocationID">YY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM0309</items>
+				<items ColumnName="strLocationID">YY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM0405</items>
+				<items ColumnName="strLocationID">YY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM0502</items>
+				<items ColumnName="strLocationID">YY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM0506</items>
+				<items ColumnName="strLocationID">YY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM0510</items>
+				<items ColumnName="strLocationID">YY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM0701</items>
+				<items ColumnName="strLocationID">YY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM0705</items>
+				<items ColumnName="strLocationID">YY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM0709</items>
+				<items ColumnName="strLocationID">YY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM0802</items>
+				<items ColumnName="strLocationID">YY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX01XX03</items>
+				<items ColumnName="strLocationID">YY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX01XX05</items>
+				<items ColumnName="strLocationID">YY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX03XX04</items>
+				<items ColumnName="strLocationID">YY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX03XX06</items>
+				<items ColumnName="strLocationID">YY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX05XX09</items>
+				<items ColumnName="strLocationID">YY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX05XX10</items>
+				<items ColumnName="strLocationID">YY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX10XX03</items>
+				<items ColumnName="strLocationID">YY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX11XX08</items>
+				<items ColumnName="strLocationID">YY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX11XX10</items>
+				<items ColumnName="strLocationID">YY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY01YY02</items>
+				<items ColumnName="strLocationID">YY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY02YY12</items>
+				<items ColumnName="strLocationID">YY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY03YY02</items>
+				<items ColumnName="strLocationID">YY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY04YY06</items>
+				<items ColumnName="strLocationID">YY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY05YY11</items>
+				<items ColumnName="strLocationID">YY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY06YY05</items>
+				<items ColumnName="strLocationID">YY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY07YY03</items>
+				<items ColumnName="strLocationID">YY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY07YY04</items>
+				<items ColumnName="strLocationID">YY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY07YY05</items>
+				<items ColumnName="strLocationID">YY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY09YY04</items>
+				<items ColumnName="strLocationID">YY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY10YY01</items>
+				<items ColumnName="strLocationID">YY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY10YY04</items>
+				<items ColumnName="strLocationID">YY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY10YY07</items>
+				<items ColumnName="strLocationID">YY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY10YY10</items>
+				<items ColumnName="strLocationID">YY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0208</items>
+				<items ColumnName="strLocationID">YY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0209</items>
+				<items ColumnName="strLocationID">YY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0304</items>
+				<items ColumnName="strLocationID">YY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0312</items>
+				<items ColumnName="strLocationID">YY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0314</items>
+				<items ColumnName="strLocationID">YY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0406</items>
+				<items ColumnName="strLocationID">YY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0416</items>
+				<items ColumnName="strLocationID">YY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0419</items>
+				<items ColumnName="strLocationID">YY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0425</items>
+				<items ColumnName="strLocationID">YY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0508</items>
+				<items ColumnName="strLocationID">YY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0520</items>
+				<items ColumnName="strLocationID">YY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0524</items>
+				<items ColumnName="strLocationID">YY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0610</items>
+				<items ColumnName="strLocationID">YY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0624</items>
+				<items ColumnName="strLocationID">YY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0629</items>
+				<items ColumnName="strLocationID">YY06</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY02YY08</items>
+				<items ColumnName="strLocationID">YY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY03YY10</items>
+				<items ColumnName="strLocationID">YY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY04YY11</items>
+				<items ColumnName="strLocationID">YY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY05YY12</items>
+				<items ColumnName="strLocationID">YY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY06YY03</items>
+				<items ColumnName="strLocationID">YY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY01YY11</items>
+				<items ColumnName="strLocationID">YY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY02YY06</items>
+				<items ColumnName="strLocationID">YY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY03YY05</items>
+				<items ColumnName="strLocationID">YY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY04YY04</items>
+				<items ColumnName="strLocationID">YY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY05YY03</items>
+				<items ColumnName="strLocationID">YY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY06YY02</items>
+				<items ColumnName="strLocationID">YY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY07YY01</items>
+				<items ColumnName="strLocationID">YY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY08YY09</items>
+				<items ColumnName="strLocationID">YY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY01YY05</items>
+				<items ColumnName="strLocationID">YY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY02YY03</items>
+				<items ColumnName="strLocationID">YY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY01YY05</items>
+				<items ColumnName="strLocationID">YY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY02YY04</items>
+				<items ColumnName="strLocationID">YY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY03YY06</items>
+				<items ColumnName="strLocationID">YY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY04YY10</items>
+				<items ColumnName="strLocationID">YY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY05YY05</items>
+				<items ColumnName="strLocationID">YY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY06YY04</items>
+				<items ColumnName="strLocationID">YY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY07YY06</items>
+				<items ColumnName="strLocationID">YY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY08YY10</items>
+				<items ColumnName="strLocationID">YY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY09YY05</items>
+				<items ColumnName="strLocationID">YY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY10YY04</items>
+				<items ColumnName="strLocationID">YY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY11YY06</items>
+				<items ColumnName="strLocationID">YY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY12YY10</items>
+				<items ColumnName="strLocationID">YY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY01YY09</items>
+				<items ColumnName="strLocationID">YY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY02YY09</items>
+				<items ColumnName="strLocationID">YY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY03YY04</items>
+				<items ColumnName="strLocationID">YY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY04YY09</items>
+				<items ColumnName="strLocationID">YY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY05YY09</items>
+				<items ColumnName="strLocationID">YY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY06YY09</items>
+				<items ColumnName="strLocationID">YY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY07YY04</items>
+				<items ColumnName="strLocationID">YY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY08YY09</items>
+				<items ColumnName="strLocationID">YY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY09YY09</items>
+				<items ColumnName="strLocationID">YY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY10YY09</items>
+				<items ColumnName="strLocationID">YY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY11YY04</items>
+				<items ColumnName="strLocationID">YY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY12YY09</items>
+				<items ColumnName="strLocationID">YY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY05YY08</items>
+				<items ColumnName="strLocationID">YY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY06YY06</items>
+				<items ColumnName="strLocationID">YY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY07YY01</items>
+				<items ColumnName="strLocationID">YY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY08YY05</items>
+				<items ColumnName="strLocationID">YY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM0103</items>
+				<items ColumnName="strLocationID">YY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM0205</items>
+				<items ColumnName="strLocationID">YY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM0310</items>
+				<items ColumnName="strLocationID">YY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM0406</items>
+				<items ColumnName="strLocationID">YY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM0611</items>
+				<items ColumnName="strLocationID">YY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM0612</items>
+				<items ColumnName="strLocationID">YY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM0810</items>
+				<items ColumnName="strLocationID">YY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM0905</items>
+				<items ColumnName="strLocationID">YY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM0911</items>
+				<items ColumnName="strLocationID">YY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX01XX04</items>
+				<items ColumnName="strLocationID">YY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX01XX06</items>
+				<items ColumnName="strLocationID">YY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX02XX03</items>
+				<items ColumnName="strLocationID">YY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX02XX05</items>
+				<items ColumnName="strLocationID">YY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX04XX08</items>
+				<items ColumnName="strLocationID">YY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX10XX10</items>
+				<items ColumnName="strLocationID">YY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX11XX07</items>
+				<items ColumnName="strLocationID">YY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX11XX09</items>
+				<items ColumnName="strLocationID">YY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY01YY01</items>
+				<items ColumnName="strLocationID">YY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY02YY01</items>
+				<items ColumnName="strLocationID">YY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY03YY03</items>
+				<items ColumnName="strLocationID">YY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY04YY05</items>
+				<items ColumnName="strLocationID">YY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY05YY10</items>
+				<items ColumnName="strLocationID">YY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY06YY04</items>
+				<items ColumnName="strLocationID">YY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY09YY05</items>
+				<items ColumnName="strLocationID">YY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0210</items>
+				<items ColumnName="strLocationID">YY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0211</items>
+				<items ColumnName="strLocationID">YY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0307</items>
+				<items ColumnName="strLocationID">YY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0315</items>
+				<items ColumnName="strLocationID">YY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0317</items>
+				<items ColumnName="strLocationID">YY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0410</items>
+				<items ColumnName="strLocationID">YY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0420</items>
+				<items ColumnName="strLocationID">YY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0423</items>
+				<items ColumnName="strLocationID">YY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0429</items>
+				<items ColumnName="strLocationID">YY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0501</items>
+				<items ColumnName="strLocationID">YY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0513</items>
+				<items ColumnName="strLocationID">YY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0525</items>
+				<items ColumnName="strLocationID">YY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0529</items>
+				<items ColumnName="strLocationID">YY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0602</items>
+				<items ColumnName="strLocationID">YY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0616</items>
+				<items ColumnName="strLocationID">YY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0630</items>
+				<items ColumnName="strLocationID">YY07</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY02YY09</items>
+				<items ColumnName="strLocationID">YY08</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY03YY11</items>
+				<items ColumnName="strLocationID">YY08</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY04YY12</items>
+				<items ColumnName="strLocationID">YY08</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY05YY01</items>
+				<items ColumnName="strLocationID">YY08</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY06YY04</items>
+				<items ColumnName="strLocationID">YY08</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY01YY10</items>
+				<items ColumnName="strLocationID">YY08</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY02YY07</items>
+				<items ColumnName="strLocationID">YY08</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY03YY06</items>
+				<items ColumnName="strLocationID">YY08</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY04YY05</items>
+				<items ColumnName="strLocationID">YY08</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY05YY04</items>
+				<items ColumnName="strLocationID">YY08</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY06YY03</items>
+				<items ColumnName="strLocationID">YY08</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY07YY02</items>
+				<items ColumnName="strLocationID">YY08</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY08YY10</items>
+				<items ColumnName="strLocationID">YY08</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY01YY04</items>
+				<items ColumnName="strLocationID">YY08</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY02YY04</items>
+				<items ColumnName="strLocationID">YY08</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY01YY06</items>
+				<items ColumnName="strLocationID">YY08</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY02YY05</items>
+				<items ColumnName="strLocationID">YY08</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY03YY07</items>
+				<items ColumnName="strLocationID">YY08</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY04YY11</items>
+				<items ColumnName="strLocationID">YY08</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY05YY06</items>
+				<items ColumnName="strLocationID">YY08</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY06YY05</items>
+				<items ColumnName="strLocationID">YY08</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY07YY07</items>
+				<items ColumnName="strLocationID">YY08</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY08YY11</items>
+				<items ColumnName="strLocationID">YY08</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY09YY06</items>
+				<items ColumnName="strLocationID">YY08</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY10YY05</items>
+				<items ColumnName="strLocationID">YY08</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY11YY07</items>
+				<items ColumnName="strLocationID">YY08</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY12YY11</items>
+				<items ColumnName="strLocationID">YY08</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY01YY10</items>
+				<items ColumnName="strLocationID">YY08</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY02YY10</items>
+				<items ColumnName="strLocationID">YY08</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY03YY05</items>
+				<items ColumnName="strLocationID">YY08</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY04YY10</items>
+				<items ColumnName="strLocationID">YY08</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY05YY10</items>
+				<items ColumnName="strLocationID">YY08</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY06YY10</items>
+				<items ColumnName="strLocationID">YY08</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY07YY05</items>
+				<items ColumnName="strLocationID">YY08</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY08YY10</items>
+				<items ColumnName="strLocationID">YY08</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY09YY10</items>
+				<items ColumnName="strLocationID">YY08</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY10YY10</items>
+				<items ColumnName="strLocationID">YY08</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY11YY05</items>
+				<items ColumnName="strLocationID">YY08</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY12YY10</items>
+				<items ColumnName="strLocationID">YY08</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY05YY09</items>
+				<items ColumnName="strLocationID">YY08</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY06YY05</items>
+				<items ColumnName="strLocationID">YY08</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY07YY02</items>
+				<items ColumnName="strLocationID">YY08</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY08YY06</items>
+				<items ColumnName="strLocationID">YY08</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM0104</items>
+				<items ColumnName="strLocationID">YY08</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM0204</items>
+				<items ColumnName="strLocationID">YY08</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM0311</items>
+				<items ColumnName="strLocationID">YY08</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM0407</items>
+				<items ColumnName="strLocationID">YY08</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM0805</items>
+				<items ColumnName="strLocationID">YY08</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM0808</items>
+				<items ColumnName="strLocationID">YY08</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX02XX04</items>
+				<items ColumnName="strLocationID">YY08</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX02XX06</items>
+				<items ColumnName="strLocationID">YY08</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX03XX07</items>
+				<items ColumnName="strLocationID">YY08</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX05XX01</items>
+				<items ColumnName="strLocationID">YY08</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX05XX05</items>
+				<items ColumnName="strLocationID">YY08</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX05XX07</items>
+				<items ColumnName="strLocationID">YY08</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX10XX01</items>
+				<items ColumnName="strLocationID">YY08</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY02YY02</items>
+				<items ColumnName="strLocationID">YY08</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY03YY04</items>
+				<items ColumnName="strLocationID">YY08</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY04YY04</items>
+				<items ColumnName="strLocationID">YY08</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY05YY09</items>
+				<items ColumnName="strLocationID">YY08</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY06YY03</items>
+				<items ColumnName="strLocationID">YY08</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY08YY09</items>
+				<items ColumnName="strLocationID">YY08</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY08YY10</items>
+				<items ColumnName="strLocationID">YY08</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY08YY11</items>
+				<items ColumnName="strLocationID">YY08</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY09YY06</items>
+				<items ColumnName="strLocationID">YY08</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0212</items>
+				<items ColumnName="strLocationID">YY08</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0213</items>
+				<items ColumnName="strLocationID">YY08</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0310</items>
+				<items ColumnName="strLocationID">YY08</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0318</items>
+				<items ColumnName="strLocationID">YY08</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0320</items>
+				<items ColumnName="strLocationID">YY08</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0414</items>
+				<items ColumnName="strLocationID">YY08</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0424</items>
+				<items ColumnName="strLocationID">YY08</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0427</items>
+				<items ColumnName="strLocationID">YY08</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0506</items>
+				<items ColumnName="strLocationID">YY08</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0518</items>
+				<items ColumnName="strLocationID">YY08</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0530</items>
+				<items ColumnName="strLocationID">YY08</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0608</items>
+				<items ColumnName="strLocationID">YY08</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0622</items>
+				<items ColumnName="strLocationID">YY08</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY02YY10</items>
+				<items ColumnName="strLocationID">YY09</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY03YY12</items>
+				<items ColumnName="strLocationID">YY09</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY04YY01</items>
+				<items ColumnName="strLocationID">YY09</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY05YY02</items>
+				<items ColumnName="strLocationID">YY09</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY06YY05</items>
+				<items ColumnName="strLocationID">YY09</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY01YY09</items>
+				<items ColumnName="strLocationID">YY09</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY02YY08</items>
+				<items ColumnName="strLocationID">YY09</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY03YY07</items>
+				<items ColumnName="strLocationID">YY09</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY04YY06</items>
+				<items ColumnName="strLocationID">YY09</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY05YY05</items>
+				<items ColumnName="strLocationID">YY09</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY06YY04</items>
+				<items ColumnName="strLocationID">YY09</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY07YY03</items>
+				<items ColumnName="strLocationID">YY09</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY08YY11</items>
+				<items ColumnName="strLocationID">YY09</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY01YY03</items>
+				<items ColumnName="strLocationID">YY09</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY02YY05</items>
+				<items ColumnName="strLocationID">YY09</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY01YY07</items>
+				<items ColumnName="strLocationID">YY09</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY02YY06</items>
+				<items ColumnName="strLocationID">YY09</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY03YY08</items>
+				<items ColumnName="strLocationID">YY09</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY04YY12</items>
+				<items ColumnName="strLocationID">YY09</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY05YY07</items>
+				<items ColumnName="strLocationID">YY09</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY06YY06</items>
+				<items ColumnName="strLocationID">YY09</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY07YY08</items>
+				<items ColumnName="strLocationID">YY09</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY08YY12</items>
+				<items ColumnName="strLocationID">YY09</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY09YY07</items>
+				<items ColumnName="strLocationID">YY09</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY10YY06</items>
+				<items ColumnName="strLocationID">YY09</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY11YY08</items>
+				<items ColumnName="strLocationID">YY09</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY12YY12</items>
+				<items ColumnName="strLocationID">YY09</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY01YY11</items>
+				<items ColumnName="strLocationID">YY09</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY02YY11</items>
+				<items ColumnName="strLocationID">YY09</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY03YY06</items>
+				<items ColumnName="strLocationID">YY09</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY04YY11</items>
+				<items ColumnName="strLocationID">YY09</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY05YY11</items>
+				<items ColumnName="strLocationID">YY09</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY06YY11</items>
+				<items ColumnName="strLocationID">YY09</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY07YY06</items>
+				<items ColumnName="strLocationID">YY09</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY08YY11</items>
+				<items ColumnName="strLocationID">YY09</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY09YY11</items>
+				<items ColumnName="strLocationID">YY09</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY10YY11</items>
+				<items ColumnName="strLocationID">YY09</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY11YY06</items>
+				<items ColumnName="strLocationID">YY09</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY12YY11</items>
+				<items ColumnName="strLocationID">YY09</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY05YY10</items>
+				<items ColumnName="strLocationID">YY09</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY06YY04</items>
+				<items ColumnName="strLocationID">YY09</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY07YY03</items>
+				<items ColumnName="strLocationID">YY09</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY08YY07</items>
+				<items ColumnName="strLocationID">YY09</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM0105</items>
+				<items ColumnName="strLocationID">YY09</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM0203</items>
+				<items ColumnName="strLocationID">YY09</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM0312</items>
+				<items ColumnName="strLocationID">YY09</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM0408</items>
+				<items ColumnName="strLocationID">YY09</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM0501</items>
+				<items ColumnName="strLocationID">YY09</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM0505</items>
+				<items ColumnName="strLocationID">YY09</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM0509</items>
+				<items ColumnName="strLocationID">YY09</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM0601</items>
+				<items ColumnName="strLocationID">YY09</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM0602</items>
+				<items ColumnName="strLocationID">YY09</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM0702</items>
+				<items ColumnName="strLocationID">YY09</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM0706</items>
+				<items ColumnName="strLocationID">YY09</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM0710</items>
+				<items ColumnName="strLocationID">YY09</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM0904</items>
+				<items ColumnName="strLocationID">YY09</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM0910</items>
+				<items ColumnName="strLocationID">YY09</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX01XX07</items>
+				<items ColumnName="strLocationID">YY09</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX03XX08</items>
+				<items ColumnName="strLocationID">YY09</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX05XX02</items>
+				<items ColumnName="strLocationID">YY09</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX05XX06</items>
+				<items ColumnName="strLocationID">YY09</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX11XX02</items>
+				<items ColumnName="strLocationID">YY09</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY01YY11</items>
+				<items ColumnName="strLocationID">YY09</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY02YY03</items>
+				<items ColumnName="strLocationID">YY09</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY03YY05</items>
+				<items ColumnName="strLocationID">YY09</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY04YY03</items>
+				<items ColumnName="strLocationID">YY09</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY05YY08</items>
+				<items ColumnName="strLocationID">YY09</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY06YY02</items>
+				<items ColumnName="strLocationID">YY09</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY07YY06</items>
+				<items ColumnName="strLocationID">YY09</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY07YY07</items>
+				<items ColumnName="strLocationID">YY09</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY07YY08</items>
+				<items ColumnName="strLocationID">YY09</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY09YY01</items>
+				<items ColumnName="strLocationID">YY09</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0214</items>
+				<items ColumnName="strLocationID">YY09</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0215</items>
+				<items ColumnName="strLocationID">YY09</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0313</items>
+				<items ColumnName="strLocationID">YY09</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0321</items>
+				<items ColumnName="strLocationID">YY09</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0323</items>
+				<items ColumnName="strLocationID">YY09</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0418</items>
+				<items ColumnName="strLocationID">YY09</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0428</items>
+				<items ColumnName="strLocationID">YY09</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0511</items>
+				<items ColumnName="strLocationID">YY09</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0523</items>
+				<items ColumnName="strLocationID">YY09</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0614</items>
+				<items ColumnName="strLocationID">YY09</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0628</items>
+				<items ColumnName="strLocationID">YY09</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY02YY11</items>
+				<items ColumnName="strLocationID">YY10</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY03YY01</items>
+				<items ColumnName="strLocationID">YY10</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY04YY02</items>
+				<items ColumnName="strLocationID">YY10</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY05YY03</items>
+				<items ColumnName="strLocationID">YY10</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY06YY06</items>
+				<items ColumnName="strLocationID">YY10</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY01YY08</items>
+				<items ColumnName="strLocationID">YY10</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY02YY09</items>
+				<items ColumnName="strLocationID">YY10</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY03YY08</items>
+				<items ColumnName="strLocationID">YY10</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY04YY07</items>
+				<items ColumnName="strLocationID">YY10</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY05YY06</items>
+				<items ColumnName="strLocationID">YY10</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY06YY05</items>
+				<items ColumnName="strLocationID">YY10</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY07YY04</items>
+				<items ColumnName="strLocationID">YY10</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY08YY12</items>
+				<items ColumnName="strLocationID">YY10</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY01YY02</items>
+				<items ColumnName="strLocationID">YY10</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY02YY06</items>
+				<items ColumnName="strLocationID">YY10</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY01YY08</items>
+				<items ColumnName="strLocationID">YY10</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY02YY07</items>
+				<items ColumnName="strLocationID">YY10</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY03YY09</items>
+				<items ColumnName="strLocationID">YY10</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY04YY01</items>
+				<items ColumnName="strLocationID">YY10</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY05YY08</items>
+				<items ColumnName="strLocationID">YY10</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY06YY07</items>
+				<items ColumnName="strLocationID">YY10</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY07YY09</items>
+				<items ColumnName="strLocationID">YY10</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY08YY01</items>
+				<items ColumnName="strLocationID">YY10</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY09YY08</items>
+				<items ColumnName="strLocationID">YY10</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY10YY07</items>
+				<items ColumnName="strLocationID">YY10</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY11YY09</items>
+				<items ColumnName="strLocationID">YY10</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY12YY01</items>
+				<items ColumnName="strLocationID">YY10</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY01YY12</items>
+				<items ColumnName="strLocationID">YY10</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY02YY12</items>
+				<items ColumnName="strLocationID">YY10</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY03YY07</items>
+				<items ColumnName="strLocationID">YY10</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY04YY12</items>
+				<items ColumnName="strLocationID">YY10</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY05YY12</items>
+				<items ColumnName="strLocationID">YY10</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY06YY12</items>
+				<items ColumnName="strLocationID">YY10</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY07YY07</items>
+				<items ColumnName="strLocationID">YY10</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY08YY12</items>
+				<items ColumnName="strLocationID">YY10</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY09YY12</items>
+				<items ColumnName="strLocationID">YY10</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY10YY12</items>
+				<items ColumnName="strLocationID">YY10</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY11YY07</items>
+				<items ColumnName="strLocationID">YY10</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY12YY12</items>
+				<items ColumnName="strLocationID">YY10</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY05YY11</items>
+				<items ColumnName="strLocationID">YY10</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY06YY03</items>
+				<items ColumnName="strLocationID">YY10</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY07YY04</items>
+				<items ColumnName="strLocationID">YY10</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY08YY08</items>
+				<items ColumnName="strLocationID">YY10</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM0106</items>
+				<items ColumnName="strLocationID">YY10</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM0202</items>
+				<items ColumnName="strLocationID">YY10</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM0301</items>
+				<items ColumnName="strLocationID">YY10</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM0409</items>
+				<items ColumnName="strLocationID">YY10</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX01XX08</items>
+				<items ColumnName="strLocationID">YY10</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX02XX07</items>
+				<items ColumnName="strLocationID">YY10</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX05XX03</items>
+				<items ColumnName="strLocationID">YY10</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX05XX04</items>
+				<items ColumnName="strLocationID">YY10</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX10XX06</items>
+				<items ColumnName="strLocationID">YY10</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX10XX08</items>
+				<items ColumnName="strLocationID">YY10</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX11XX01</items>
+				<items ColumnName="strLocationID">YY10</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY01YY10</items>
+				<items ColumnName="strLocationID">YY10</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY02YY04</items>
+				<items ColumnName="strLocationID">YY10</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY03YY06</items>
+				<items ColumnName="strLocationID">YY10</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY04YY02</items>
+				<items ColumnName="strLocationID">YY10</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY05YY07</items>
+				<items ColumnName="strLocationID">YY10</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY06YY01</items>
+				<items ColumnName="strLocationID">YY10</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY09YY02</items>
+				<items ColumnName="strLocationID">YY10</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY10YY03</items>
+				<items ColumnName="strLocationID">YY10</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY10YY06</items>
+				<items ColumnName="strLocationID">YY10</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY10YY09</items>
+				<items ColumnName="strLocationID">YY10</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY10YY12</items>
+				<items ColumnName="strLocationID">YY10</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0216</items>
+				<items ColumnName="strLocationID">YY10</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0217</items>
+				<items ColumnName="strLocationID">YY10</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0316</items>
+				<items ColumnName="strLocationID">YY10</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0324</items>
+				<items ColumnName="strLocationID">YY10</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0326</items>
+				<items ColumnName="strLocationID">YY10</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0422</items>
+				<items ColumnName="strLocationID">YY10</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0516</items>
+				<items ColumnName="strLocationID">YY10</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0528</items>
+				<items ColumnName="strLocationID">YY10</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0601</items>
+				<items ColumnName="strLocationID">YY10</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0620</items>
+				<items ColumnName="strLocationID">YY10</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY02YY12</items>
+				<items ColumnName="strLocationID">YY11</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY03YY02</items>
+				<items ColumnName="strLocationID">YY11</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY04YY03</items>
+				<items ColumnName="strLocationID">YY11</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY05YY04</items>
+				<items ColumnName="strLocationID">YY11</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY06YY07</items>
+				<items ColumnName="strLocationID">YY11</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY01YY07</items>
+				<items ColumnName="strLocationID">YY11</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY02YY10</items>
+				<items ColumnName="strLocationID">YY11</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY03YY09</items>
+				<items ColumnName="strLocationID">YY11</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY04YY08</items>
+				<items ColumnName="strLocationID">YY11</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY05YY07</items>
+				<items ColumnName="strLocationID">YY11</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY06YY06</items>
+				<items ColumnName="strLocationID">YY11</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY07YY05</items>
+				<items ColumnName="strLocationID">YY11</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY08YY01</items>
+				<items ColumnName="strLocationID">YY11</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY01YY01</items>
+				<items ColumnName="strLocationID">YY11</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY02YY07</items>
+				<items ColumnName="strLocationID">YY11</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY01YY09</items>
+				<items ColumnName="strLocationID">YY11</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY02YY08</items>
+				<items ColumnName="strLocationID">YY11</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY03YY10</items>
+				<items ColumnName="strLocationID">YY11</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY04YY02</items>
+				<items ColumnName="strLocationID">YY11</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY05YY09</items>
+				<items ColumnName="strLocationID">YY11</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY06YY08</items>
+				<items ColumnName="strLocationID">YY11</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY07YY10</items>
+				<items ColumnName="strLocationID">YY11</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY08YY02</items>
+				<items ColumnName="strLocationID">YY11</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY09YY09</items>
+				<items ColumnName="strLocationID">YY11</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY10YY08</items>
+				<items ColumnName="strLocationID">YY11</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY11YY10</items>
+				<items ColumnName="strLocationID">YY11</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY12YY02</items>
+				<items ColumnName="strLocationID">YY11</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY01YY01</items>
+				<items ColumnName="strLocationID">YY11</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY02YY01</items>
+				<items ColumnName="strLocationID">YY11</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY03YY08</items>
+				<items ColumnName="strLocationID">YY11</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY04YY01</items>
+				<items ColumnName="strLocationID">YY11</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY05YY01</items>
+				<items ColumnName="strLocationID">YY11</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY06YY01</items>
+				<items ColumnName="strLocationID">YY11</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY07YY08</items>
+				<items ColumnName="strLocationID">YY11</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY08YY01</items>
+				<items ColumnName="strLocationID">YY11</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY09YY01</items>
+				<items ColumnName="strLocationID">YY11</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY10YY01</items>
+				<items ColumnName="strLocationID">YY11</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY11YY08</items>
+				<items ColumnName="strLocationID">YY11</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY12YY01</items>
+				<items ColumnName="strLocationID">YY11</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY05YY12</items>
+				<items ColumnName="strLocationID">YY11</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY06YY02</items>
+				<items ColumnName="strLocationID">YY11</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY07YY05</items>
+				<items ColumnName="strLocationID">YY11</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY08YY09</items>
+				<items ColumnName="strLocationID">YY11</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM0107</items>
+				<items ColumnName="strLocationID">YY11</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM0201</items>
+				<items ColumnName="strLocationID">YY11</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM0302</items>
+				<items ColumnName="strLocationID">YY11</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM0410</items>
+				<items ColumnName="strLocationID">YY11</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM0603</items>
+				<items ColumnName="strLocationID">YY11</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM0604</items>
+				<items ColumnName="strLocationID">YY11</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM0801</items>
+				<items ColumnName="strLocationID">YY11</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM0811</items>
+				<items ColumnName="strLocationID">YY11</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM0903</items>
+				<items ColumnName="strLocationID">YY11</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM0909</items>
+				<items ColumnName="strLocationID">YY11</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX02XX08</items>
+				<items ColumnName="strLocationID">YY11</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX03XX09</items>
+				<items ColumnName="strLocationID">YY11</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX10XX09</items>
+				<items ColumnName="strLocationID">YY11</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY01YY09</items>
+				<items ColumnName="strLocationID">YY11</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY02YY05</items>
+				<items ColumnName="strLocationID">YY11</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY03YY07</items>
+				<items ColumnName="strLocationID">YY11</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY04YY01</items>
+				<items ColumnName="strLocationID">YY11</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY05YY06</items>
+				<items ColumnName="strLocationID">YY11</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY06YY12</items>
+				<items ColumnName="strLocationID">YY11</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY08YY01</items>
+				<items ColumnName="strLocationID">YY11</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY08YY02</items>
+				<items ColumnName="strLocationID">YY11</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY08YY12</items>
+				<items ColumnName="strLocationID">YY11</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY09YY03</items>
+				<items ColumnName="strLocationID">YY11</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0218</items>
+				<items ColumnName="strLocationID">YY11</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0219</items>
+				<items ColumnName="strLocationID">YY11</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0319</items>
+				<items ColumnName="strLocationID">YY11</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0329</items>
+				<items ColumnName="strLocationID">YY11</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0426</items>
+				<items ColumnName="strLocationID">YY11</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0521</items>
+				<items ColumnName="strLocationID">YY11</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0607</items>
+				<items ColumnName="strLocationID">YY11</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0626</items>
+				<items ColumnName="strLocationID">YY11</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY02YY01</items>
+				<items ColumnName="strLocationID">YY12</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY03YY03</items>
+				<items ColumnName="strLocationID">YY12</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY04YY04</items>
+				<items ColumnName="strLocationID">YY12</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY05YY05</items>
+				<items ColumnName="strLocationID">YY12</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">AY06YY08</items>
+				<items ColumnName="strLocationID">YY12</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY01YY06</items>
+				<items ColumnName="strLocationID">YY12</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY02YY11</items>
+				<items ColumnName="strLocationID">YY12</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY03YY10</items>
+				<items ColumnName="strLocationID">YY12</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY04YY09</items>
+				<items ColumnName="strLocationID">YY12</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY05YY08</items>
+				<items ColumnName="strLocationID">YY12</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY06YY07</items>
+				<items ColumnName="strLocationID">YY12</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY07YY06</items>
+				<items ColumnName="strLocationID">YY12</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">BY08YY02</items>
+				<items ColumnName="strLocationID">YY12</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY01YY12</items>
+				<items ColumnName="strLocationID">YY12</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY02YY08</items>
+				<items ColumnName="strLocationID">YY12</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY01YY10</items>
+				<items ColumnName="strLocationID">YY12</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY02YY09</items>
+				<items ColumnName="strLocationID">YY12</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY03YY11</items>
+				<items ColumnName="strLocationID">YY12</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY04YY03</items>
+				<items ColumnName="strLocationID">YY12</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY05YY10</items>
+				<items ColumnName="strLocationID">YY12</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY06YY09</items>
+				<items ColumnName="strLocationID">YY12</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY07YY11</items>
+				<items ColumnName="strLocationID">YY12</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY08YY03</items>
+				<items ColumnName="strLocationID">YY12</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY09YY10</items>
+				<items ColumnName="strLocationID">YY12</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY10YY09</items>
+				<items ColumnName="strLocationID">YY12</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY11YY11</items>
+				<items ColumnName="strLocationID">YY12</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY03YY12YY03</items>
+				<items ColumnName="strLocationID">YY12</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY01YY02</items>
+				<items ColumnName="strLocationID">YY12</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY02YY02</items>
+				<items ColumnName="strLocationID">YY12</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY03YY09</items>
+				<items ColumnName="strLocationID">YY12</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY04YY02</items>
+				<items ColumnName="strLocationID">YY12</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY05YY02</items>
+				<items ColumnName="strLocationID">YY12</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY06YY02</items>
+				<items ColumnName="strLocationID">YY12</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY07YY09</items>
+				<items ColumnName="strLocationID">YY12</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY08YY02</items>
+				<items ColumnName="strLocationID">YY12</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY09YY02</items>
+				<items ColumnName="strLocationID">YY12</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY10YY02</items>
+				<items ColumnName="strLocationID">YY12</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY11YY09</items>
+				<items ColumnName="strLocationID">YY12</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY04YY12YY02</items>
+				<items ColumnName="strLocationID">YY12</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY05YY01</items>
+				<items ColumnName="strLocationID">YY12</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY06YY01</items>
+				<items ColumnName="strLocationID">YY12</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY07YY06</items>
+				<items ColumnName="strLocationID">YY12</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">CY08YY10</items>
+				<items ColumnName="strLocationID">YY12</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM0108</items>
+				<items ColumnName="strLocationID">YY12</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM0212</items>
+				<items ColumnName="strLocationID">YY12</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM0303</items>
+				<items ColumnName="strLocationID">YY12</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM0411</items>
+				<items ColumnName="strLocationID">YY12</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM0504</items>
+				<items ColumnName="strLocationID">YY12</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM0508</items>
+				<items ColumnName="strLocationID">YY12</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM0512</items>
+				<items ColumnName="strLocationID">YY12</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM0704</items>
+				<items ColumnName="strLocationID">YY12</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM0708</items>
+				<items ColumnName="strLocationID">YY12</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM0712</items>
+				<items ColumnName="strLocationID">YY12</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">DM0807</items>
+				<items ColumnName="strLocationID">YY12</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX01XX09</items>
+				<items ColumnName="strLocationID">YY12</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX03XX10</items>
+				<items ColumnName="strLocationID">YY12</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX04XX03</items>
+				<items ColumnName="strLocationID">YY12</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX04XX04</items>
+				<items ColumnName="strLocationID">YY12</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX10XX07</items>
+				<items ColumnName="strLocationID">YY12</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FX11XX04</items>
+				<items ColumnName="strLocationID">YY12</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY01YY08</items>
+				<items ColumnName="strLocationID">YY12</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY01YY12</items>
+				<items ColumnName="strLocationID">YY12</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY02YY06</items>
+				<items ColumnName="strLocationID">YY12</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY03YY08</items>
+				<items ColumnName="strLocationID">YY12</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY04YY12</items>
+				<items ColumnName="strLocationID">YY12</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY05YY05</items>
+				<items ColumnName="strLocationID">YY12</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY06YY11</items>
+				<items ColumnName="strLocationID">YY12</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY07YY09</items>
+				<items ColumnName="strLocationID">YY12</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY07YY10</items>
+				<items ColumnName="strLocationID">YY12</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY07YY11</items>
+				<items ColumnName="strLocationID">YY12</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">FY09YY10</items>
+				<items ColumnName="strLocationID">YY12</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0220</items>
+				<items ColumnName="strLocationID">YY12</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0221</items>
+				<items ColumnName="strLocationID">YY12</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0322</items>
+				<items ColumnName="strLocationID">YY12</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0330</items>
+				<items ColumnName="strLocationID">YY12</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0401</items>
+				<items ColumnName="strLocationID">YY12</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0430</items>
+				<items ColumnName="strLocationID">YY12</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0502</items>
+				<items ColumnName="strLocationID">YY12</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0526</items>
+				<items ColumnName="strLocationID">YY12</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0603</items>
+				<items ColumnName="strLocationID">YY12</items>
+			</DataRow>
+			<DataRow>
+				<items ColumnName="strID">NE0613</items>
+				<items ColumnName="strLocationID">YY12</items>
+			</DataRow>
+		</DataRows>
+	</DataTable>
+</FileName>
