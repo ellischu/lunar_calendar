@@ -96,8 +96,7 @@ namespace lunar_calendar
             //month 2 theRains             
             if ((dateTime.Date - theRains.Date).Days == 0)
             {
-                Star = theRains.Day < 19
-                       || (theRains.Day == 19 && new Lunar24SolarTerms(dateTime).Half24SolarTerms[dateTime.Month].Hour > 12) ?
+                Star = (dateTime - theRains).TotalMilliseconds < 0 ?
                             GetJFStar(dateTime, WinterSolstice00, 1, 6, SortOrder.Ascending) :
                             GetJFStar(dateTime, theRains, 7, 3, SortOrder.Ascending);
             }
@@ -109,11 +108,7 @@ namespace lunar_calendar
             //month 4 GrainRain
             if ((dateTime.Date - GrainRain.Date).Days == 0)
             {
-                Star = GrainRain.Day < 20
-                       || (GrainRain.Date - new Lunar24SolarTerms(dateTime).Half24SolarTerms[dateTime.Month].Date).Days < 15
-                       || (GrainRain.Date - new Lunar24SolarTerms(dateTime).Half24SolarTerms[2].Date).Days <= 75
-                       || (GrainRain.Day == 20 && new Lunar24SolarTerms(dateTime).Half24SolarTerms[2].Hour > 5) &&
-                           DateTime.DaysInMonth(dateTime.Year, 2) == 28 ?
+                Star = (dateTime - GrainRain).TotalMilliseconds < 0 ?
                             GetJFStar(dateTime, theRains, 7, 3, SortOrder.Ascending) :
                             GetJFStar(dateTime, GrainRain, 4, 9, SortOrder.Ascending);
             }
@@ -125,9 +120,7 @@ namespace lunar_calendar
             //month 6 SummerSolstice
             if ((dateTime.Date - SummerSolstice.Date).Days == 0)
             {
-                Star = (SummerSolstice.Date - new Lunar24SolarTerms(dateTime).Half24SolarTerms[dateTime.Month].Date).Days == 15
-                       || ((SummerSolstice.Date - new Lunar24SolarTerms(dateTime).Half24SolarTerms[dateTime.Month].Date).Days == 16 &&
-                            new Lunar24SolarTerms(dateTime).Half24SolarTerms[dateTime.Month].Hour > 18) ?
+                Star = (dateTime - SummerSolstice).TotalMilliseconds < 0 ?
                             GetJFStar(dateTime, GrainRain, 4, 9, SortOrder.Ascending) :
                             GetJFStar(dateTime, SummerSolstice, 9, 4, SortOrder.Descending);
             }
@@ -140,8 +133,7 @@ namespace lunar_calendar
             //month 8 TheLimiteOfHeat
             if ((dateTime.Date - TheLimiteOfHeat.Date).Days == 0)
             {
-                Star = (TheLimiteOfHeat.Date - new Lunar24SolarTerms(dateTime).Half24SolarTerms[dateTime.Month].Date).Days == 15
-                       || SummerSolstice.Hour > 17 ?
+                Star = (dateTime - TheLimiteOfHeat).TotalMilliseconds < 0 ?
                             GetJFStar(dateTime, SummerSolstice, 9, 4, SortOrder.Descending) :
                             GetJFStar(dateTime, TheLimiteOfHeat, 3, 7, SortOrder.Descending);
             }
@@ -153,8 +145,7 @@ namespace lunar_calendar
             //month 10 FrostDescent
             if ((dateTime.Date - FrostDescent.Date).Days == 0)
             {
-                Star = (FrostDescent.Date - new Lunar24SolarTerms(dateTime).Half24SolarTerms[dateTime.Month].Date).Days == 15
-                       && SummerSolstice.Hour > 8 ?
+                Star = (dateTime - FrostDescent).TotalMilliseconds < 0 ?
                             GetJFStar(dateTime, TheLimiteOfHeat, 3, 7, SortOrder.Descending) :
                             GetJFStar(dateTime, FrostDescent, 6, 1, SortOrder.Descending);
             }
@@ -166,7 +157,7 @@ namespace lunar_calendar
             //month 12 WinterSolstice
             if ((dateTime.Date - WinterSolstice.Date).Days == 0)
             {
-                Star = WinterSolstice.Hour >= 12 && !(new DateTime[] { new DateTime(2008, 12, 21) }.Contains(dateTime.Date)) ?
+                Star = (dateTime - WinterSolstice).TotalMilliseconds < 0 ?
                             GetJFStar(dateTime, FrostDescent, 6, 1, SortOrder.Descending) :
                             GetJFStar(dateTime, WinterSolstice, 1, 6, SortOrder.Ascending);
             }
@@ -218,7 +209,8 @@ namespace lunar_calendar
         private static int GetJFStar(DateTime dateTime, DateTime SolarTerms, int Start1, int Start2, SortOrder sortOrder)
         {
             //算出甲子日
-            DateTime XY01 = SolarTerms.AddDays((Tools.CheckRange(60 - Get60Flower(new Lunar8Characters(SolarTerms).DayHS, new Lunar8Characters(SolarTerms).DayEB), 1, 60) + 1));
+            int solarDayHSEB = Get60Flower(new Lunar8Characters(SolarTerms).DayHS, new Lunar8Characters(SolarTerms).DayEB);
+            DateTime XY01 = SolarTerms.AddDays(solarDayHSEB == 1 ? 0 : 61 - solarDayHSEB); ;
             //甲子日前一天
             DateTime XY60 = XY01.AddDays(-1);
             if ((dateTime.Date - XY01.Date).Days >= 0)

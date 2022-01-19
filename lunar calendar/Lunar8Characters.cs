@@ -182,7 +182,8 @@ namespace lunar_calendar
             // 立春交界 修正年干支
             DateTime SolarDayYear = lunar_24SolarTerms.Half24SolarTerms[2];
             bool checkYear = DateTime.Compare(dateTime, SolarDayYear) >= 0;
-            LunarDate lunarYear = checkYear ? new(SolarDayYear.AddDays(10)) : new(SolarDayYear.AddMonths(-1));
+            LunarDate lunarYear = checkYear ? new(lunar_24SolarTerms.Half24SolarQi[2]) :
+                                              new(new Lunar24SolarTerms(dateTime.AddYears(-1)).Half24SolarQi[12]);
 
             Year = lunarYear.Year;
             //年干 (修正)

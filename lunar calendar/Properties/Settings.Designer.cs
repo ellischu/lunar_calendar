@@ -22,5 +22,17 @@ namespace lunar_calendar.Properties {
                 return defaultInstance;
             }
         }
+        
+        [global::System.Configuration.ApplicationScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
+        [global::System.Configuration.DefaultSettingValueAttribute("Dsn=MS Access Database;dbq=D:\\MyProg\\C#\\lunar calendar\\lunar calendar\\DataBase\\Lu" +
+            "narDate.accdb;defaultdir=D:\\MyProg\\C#\\lunar calendar\\lunar calendar\\DataBase;dri" +
+            "verid=25;fil=MS Access;maxbuffersize=2048;pagetimeout=5;uid=admin")]
+        public string LunarDate {
+            get {
+                return ((string)(this["LunarDate"]));
+            }
+        }
     }
 }

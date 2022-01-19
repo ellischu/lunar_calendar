@@ -22,27 +22,27 @@ namespace lunar_calendar
         {
 
             DateTime SolarDate = new Lunar24SolarTerms(Today).Half24SolarTerms[Today.Month];
-            int checkMonth = Today.Day - SolarDate.Day; // 節交界 修正月干支
-            if (checkMonth > 0)
+            TimeSpan checkMonth = Today - SolarDate; // 節交界 修正月干支
+            if (checkMonth.TotalMilliseconds > 0)
             {
                 Lunar8Characters lunarToday = new(Today);
                 Star = Tools.CheckRange(lunarToday.DayEB > lunarToday.MonthEB ?
                                13 - (lunarToday.MonthEB - lunarToday.DayEB) :
                                1 - (lunarToday.MonthEB - lunarToday.DayEB), 1, 12);
             }
-            else if (checkMonth == 0)
-            {
-                //Lunar8Characters lunarToday = new(Today);
-                if (SolarDate.Hour >= 12)
-                {
-                    Star = new Lunar12Stars(Today.AddDays(+1)).Star;
-                }
-                else
-                {
-                    Star = new Lunar12Stars(Today.AddDays(-1)).Star;
-                }
-            }
-            else if (checkMonth < 0)
+            //else if (checkMonth == 0)
+            //{
+            //    //Lunar8Characters lunarToday = new(Today);
+            //    if (SolarDate.Hour >= 12)
+            //    {
+            //        Star = new Lunar12Stars(Today.AddDays(+1)).Star;
+            //    }
+            //    else
+            //    {
+            //        Star = new Lunar12Stars(Today.AddDays(-1)).Star;
+            //    }
+            //}
+            else if (checkMonth.TotalMilliseconds <= 0)
             {
                 SolarDate = new Lunar24SolarTerms(Today.AddDays(-15)).Half24SolarTerms[Today.AddDays(-15).Month];
                 Lunar8Characters lunarToday = new(Today);

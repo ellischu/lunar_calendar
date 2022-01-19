@@ -1,6 +1,14 @@
 ﻿<?xml version='1.0' encoding='utf-8'?>
-<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)">
-  <Profiles>
-    <Profile Name="(Default)" />
-  </Profiles>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="lunar_calendar.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="LunarDate" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;ConnectionString&gt;Dsn=MS Access Database;dbq=D:\MyProg\C#\lunar calendar\lunar calendar\DataBase\LunarDate.accdb;defaultdir=D:\MyProg\C#\lunar calendar\lunar calendar\DataBase;driverid=25;fil=MS Access;maxbuffersize=2048;pagetimeout=5;uid=admin&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.Odbc&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Dsn=MS Access Database;dbq=D:\MyProg\C#\lunar calendar\lunar calendar\DataBase\LunarDate.accdb;defaultdir=D:\MyProg\C#\lunar calendar\lunar calendar\DataBase;driverid=25;fil=MS Access;maxbuffersize=2048;pagetimeout=5;uid=admin</Value>
+    </Setting>
+  </Settings>
 </SettingsFile>
